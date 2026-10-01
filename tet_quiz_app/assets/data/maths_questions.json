@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "question": "Number of two digit numbers that are divisible by 4 is\n4 చే నిశ్శేషంగా భాగంప బడే రండంకెల సంఖ్యల సంఖ్య",
+    "options": [
+      {
+        "key": 1,
+        "text": "21"
+      },
+      {
+        "key": 2,
+        "text": "22"
+      },
+      {
+        "key": 3,
+        "text": "23"
+      },
+      {
+        "key": 4,
+        "text": "24"
+      }
+    ],
+    "answer": 2,
+    "hint": "The two-digit numbers divisible by 4 range from 12 to 96. Use arithmetic progression: Tn = a + (n-1)d.",
+    "memory_tip": "Formula: n = [(Last - First) / d] + 1 = [(96 - 12)/4] + 1 = 21 + 1 = 22."
+  },
+  {
+    "id": 2,
+    "question": "LCM of two numbers is 120 and their HCF is 10 if one\nof the number is 30 then the other number is\nరండు సంఖ్యల క. సా. గు 120 మరియు వాటి గ. సా. భా 10\nఅందులో ఒక సంఖ్య 30 అయితే రండవ సంఖ్య",
+    "options": [
+      {
+        "key": 1,
+        "text": "20"
+      },
+      {
+        "key": 2,
+        "text": "40"
+      },
+      {
+        "key": 3,
+        "text": "60"
+      },
+      {
+        "key": 4,
+        "text": "80"
+      }
+    ],
+    "answer": 2,
+    "hint": "Product of two numbers = LCM × HCF. One number is 30, LCM is 120, HCF is 10.",
+    "memory_tip": "Product formula: Other number = (LCM × HCF) / Given number = (120 × 10) / 30 = 40."
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is terminating decimal\nఈ క్రంది వానిలో ఏది అంతమయ్యయ దశంశము",
+    "options": [
+      {
+        "key": 1,
+        "text": "77 210"
+      },
+      {
+        "key": 2,
+        "text": "21 60"
+      },
+      {
+        "key": 3,
+        "text": "8 15"
+      },
+      {
+        "key": 4,
+        "text": "12 55"
+      }
+    ],
+    "answer": 2,
+    "hint": "A rational number p/q in simplest form has a terminating decimal expansion if q has prime factors of only 2 and/or 5.",
+    "memory_tip": "Terminating condition: Denominator in simplest form must be 2^m × 5^n. Here 21/60 = 7/20 = 7/(2^2 × 5)."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is not a prime\nఈ క్రంది వానిలో ప్రధాన సంఖ్య కానిది",
+    "options": [
+      {
+        "key": 1,
+        "text": "42 + 52"
+      },
+      {
+        "key": 2,
+        "text": "52 + 62"
+      },
+      {
+        "key": 3,
+        "text": "62 + 72"
+      },
+      {
+        "key": 4,
+        "text": "72 + 82"
+      }
+    ],
+    "answer": 3,
+    "hint": "Check 6^2 + 7^2 = 36 + 49 = 85. 85 ends in 5, so it is divisible by 5 and not prime.",
+    "memory_tip": "Prime check: 85 = 5 × 17, hence composite. Any number ending with 5 (except 5 itself) is composite."
+  },
+  {
+    "id": 5,
+    "question": "The smallest three digit number that is divisible by 4, 6\nand 8 is\n4, 6 మరియు 8 ల చే నిశ్శేషంగా భాగంచ బడే అతి చినన మూడంకెల\nసంఖ్య",
+    "options": [
+      {
+        "key": 1,
+        "text": "108"
+      },
+      {
+        "key": 2,
+        "text": "114"
+      },
+      {
+        "key": 3,
+        "text": "120"
+      },
+      {
+        "key": 4,
+        "text": "144"
+      }
+    ],
+    "answer": 3,
+    "hint": "Find LCM of 4, 6, 8. LCM is 24. Find the smallest three-digit multiple of 24 (greater than or equal to 100).",
+    "memory_tip": "LCM(4, 6, 8) = 24. Multiples: 24, 48, 72, 96, 120. Smallest 3-digit multiple is 120."
+  },
+  {
+    "id": 6,
+    "question": "HCF of 75, 105 and 175 is\n75, 105 మరియు 175 ల గ. సా.భా",
+    "options": [
+      {
+        "key": 1,
+        "text": "5"
+      },
+      {
+        "key": 2,
+        "text": "7"
+      },
+      {
+        "key": 3,
+        "text": "15"
+      },
+      {
+        "key": 4,
+        "text": "35"
+      }
+    ],
+    "answer": 1,
+    "hint": "Find the highest common factor of 75, 105, and 175. All end in 5: 75=5×15, 105=5×21, 175=5×35. Next common factor: none for 15, 21, 35 together.",
+    "memory_tip": "HCF: Prime factors: 75 = 3×5^2, 105 = 3×5×7, 175 = 5^2×7. Common prime power is 5^1 = 5."
+  },
+  {
+    "id": 7,
+    "question": "Total number of factors of 600 is\n600 నకు గల మొతతం కారణంకము ల సంఖ్య",
+    "options": [
+      {
+        "key": 1,
+        "text": "20"
+      },
+      {
+        "key": 2,
+        "text": "24"
+      },
+      {
+        "key": 3,
+        "text": "30"
+      },
+      {
+        "key": 4,
+        "text": "36"
+      }
+    ],
+    "answer": 2,
+    "hint": "Prime factorize 600: 600 = 6 × 100 = 2 × 3 × 2^2 × 5^2 = 2^3 × 3^1 × 5^2. Number of factors = (p+1)(q+1)(r+1).",
+    "memory_tip": "Number of factors formula: (3+1)(1+1)(2+1) = 4 × 2 × 3 = 24."
+  },
+  {
+    "id": 8,
+    "question": "A rational number in between\n1\n4 and\n1\n2 is\n1\n4  మరియు\n1\n2  ల మధ్య గల ఒక అకరణీయ సంఖ్య",
+    "options": [
+      {
+        "key": 1,
+        "text": "3 7"
+      },
+      {
+        "key": 2,
+        "text": "4 7"
+      },
+      {
+        "key": 3,
+        "text": "5 8"
+      },
+      {
+        "key": 4,
+        "text": "6 11"
+      }
+    ],
+    "answer": 1,
+    "hint": "1/4 = 0.25 and 1/2 = 0.50. Convert options to decimals or common denominators: 3/7 ≈ 0.428.",
+    "memory_tip": "Comparison: 0.25 < 3/7 (0.428) < 0.50. Hence 3/7 lies between 1/4 and 1/2."
+  },
+  {
+    "id": 9,
+    "question": "The Average of 4.2, 3.8 and 7.6 is\n4.2 , 3.8 మరియు 7.6 యొకక సగటు",
+    "options": [
+      {
+        "key": 1,
+        "text": "4.2"
+      },
+      {
+        "key": 2,
+        "text": "4.8"
+      },
+      {
+        "key": 3,
+        "text": "5.2"
+      },
+      {
+        "key": 4,
+        "text": "4.6"
+      }
+    ],
+    "answer": 3,
+    "hint": "Average = (Sum of all observations) / (Total number of observations) = (4.2 + 3.8 + 7.6) / 3.",
+    "memory_tip": "Calculation: 4.2 + 3.8 + 7.6 = 15.6. Average = 15.6 / 3 = 5.2."
+  },
+  {
+    "id": 10,
+    "question": "Half of 0.1 is\n0.1 నందు సగము",
+    "options": [
+      {
+        "key": 1,
+        "text": "0.02"
+      },
+      {
+        "key": 2,
+        "text": "0.5"
+      },
+      {
+        "key": 3,
+        "text": "0.05"
+      },
+      {
+        "key": 4,
+        "text": "0.2"
+      }
+    ],
+    "answer": 3,
+    "hint": "Half of a number means dividing it by 2: 0.1 / 2 = 1 / 20 = 0.05.",
+    "memory_tip": "Memory tip: 0.10 / 2 = 0.05. Avoid confusing 0.5 with 0.05!"
+  },
+  {
+    "id": 11,
+    "question": "LCM of 20, 25 and 30 is\n20, 25 మరియు 30 ల క. సా. గు",
+    "options": [
+      {
+        "key": 1,
+        "text": "240"
+      },
+      {
+        "key": 2,
+        "text": "120"
+      },
+      {
+        "key": 3,
+        "text": "150"
+      },
+      {
+        "key": 4,
+        "text": "300"
+      }
+    ],
+    "answer": 4,
+    "hint": "Find LCM of 20, 25, 30: 20=2^2×5, 25=5^2, 30=2×3×5. Highest powers: 2^2 × 3^1 × 5^2.",
+    "memory_tip": "LCM = 4 × 3 × 25 = 300."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following numbers are co-prime\nఈ క్రంది వాటిలో ఏ సంఖ్యలు సాపేక్షప్రధానంకాలు",
+    "options": [
+      {
+        "key": 1,
+        "text": "120, 144"
+      },
+      {
+        "key": 2,
+        "text": "215, 216"
+      },
+      {
+        "key": 3,
+        "text": "35, 165"
+      },
+      {
+        "key": 4,
+        "text": "121, 143"
+      }
+    ],
+    "answer": 2,
+    "hint": "Two numbers are co-prime if their HCF is 1. Any two consecutive integers are always co-prime.",
+    "memory_tip": "Co-prime rule: HCF(n, n+1) = 1. Since 215 and 216 are consecutive, they are co-prime."
+  },
+  {
+    "id": 13,
+    "question": "Number of digits in the square of a five-digit number\nis\nఐదు అంకెల సంఖ్య యొకక వరగము లో ఉండు అంకెల సంఖ్య",
+    "options": [
+      {
+        "key": 1,
+        "text": "9 or 10 9  లేదా 10"
+      },
+      {
+        "key": 2,
+        "text": "10 or 11 10 లేదా 11"
+      },
+      {
+        "key": 3,
+        "text": "10 or 12 10 లేదా 12"
+      },
+      {
+        "key": 4,
+        "text": "11 or 12 11 లేదా 12"
+      }
+    ],
+    "answer": 1,
+    "hint": "If a number has n digits, its square has either 2n - 1 or 2n digits. Here n = 5.",
+    "memory_tip": "Square digits rule: For n-digit number, digits in square = (2n - 1) or 2n. For n=5: 9 or 10 digits."
+  },
+  {
+    "id": 14,
+    "question": "How many consecutive odd positive integers added to\nget 144\nఎనిన వరుస ధ్న బేసి పూరణ సంఖ్యల మొతతము 144 అగును",
+    "options": [
+      {
+        "key": 1,
+        "text": "8"
+      },
+      {
+        "key": 2,
+        "text": "10"
+      },
+      {
+        "key": 3,
+        "text": "12"
+      },
+      {
+        "key": 4,
+        "text": "14"
+      }
+    ],
+    "answer": 3,
+    "hint": "Sum of first n odd positive integers is n^2. Here sum is 144, so n^2 = 144.",
+    "memory_tip": "Formula: 1 + 3 + 5 + ... + (2n-1) = n^2. Given sum = 144 => n = √144 = 12."
+  },
+  {
+    "id": 15,
+    "question": "Total number of three-digits perfect squares\nమూడు అంకెలు గల పరిపూరణ వరగ సంఖ్యలు ఎనిన",
+    "options": [
+      {
+        "key": 1,
+        "text": "20"
+      },
+      {
+        "key": 2,
+        "text": "21"
+      },
+      {
+        "key": 3,
+        "text": "22"
+      },
+      {
+        "key": 4,
+        "text": "23"
+      }
+    ],
+    "answer": 3,
+    "hint": "Three-digit numbers range from 100 to 999. √100 = 10, √999 ≈ 31.62. Squares go from 10^2 to 31^2.",
+    "memory_tip": "Total perfect squares = 31 - 10 + 1 = 22 perfect squares."
+  },
+  {
+    "id": 16,
+    "question": "which of the following is not a perfect square\nఈ క్రంది వానిలో ఖ్చిిత వరగము కానిది",
+    "options": [
+      {
+        "key": 1,
+        "text": "1444"
+      },
+      {
+        "key": 2,
+        "text": "2744"
+      },
+      {
+        "key": 3,
+        "text": "3844"
+      },
+      {
+        "key": 4,
+        "text": "7744"
+      }
+    ],
+    "answer": 2,
+    "hint": "Check the prime factorization or square root. 2744 = 14^3 = 2^3 × 7^3, which is a perfect cube, not a square.",
+    "memory_tip": "Memory tip: 2744 = 14^3. The powers of prime factors must be even for a perfect square."
+  },
+  {
+    "id": 17,
+    "question": "(3.2)3+(1.8)3\n(3.2)2−5.76+(1.8)2",
+    "options": [
+      {
+        "key": 1,
+        "text": "5"
+      },
+      {
+        "key": 2,
+        "text": "5.2"
+      },
+      {
+        "key": 3,
+        "text": "5.1"
+      },
+      {
+        "key": 4,
+        "text": "6"
+      }
+    ],
+    "answer": 1,
+    "hint": "Use identity: a^3 + b^3 = (a + b)(a^2 - ab + b^2). The denominator matches (a^2 - ab + b^2).",
+    "memory_tip": "Identity: (a^3 + b^3) / (a^2 - ab + b^2) = a + b = 3.2 + 1.8 = 5."
+  },
+  {
+    "id": 18,
+    "question": "The smallest-square number that is divisible by each of\nthe numbers 4, 9 and 10 is\n4, 9 మరియు 10 ల చే భాగంప బడు కనిషట వరగ సంఖ్య",
+    "options": [
+      {
+        "key": 1,
+        "text": "180"
+      },
+      {
+        "key": 2,
+        "text": "360"
+      },
+      {
+        "key": 3,
+        "text": "900"
+      },
+      {
+        "key": 4,
+        "text": "1600"
+      }
+    ],
+    "answer": 3,
+    "hint": "Smallest number divisible by 6, 9, 15 is their LCM = 90 = 2 × 3^2 × 5. To make it a square, multiply by 2 × 5.",
+    "memory_tip": "Smallest square = 90 × 10 = 900. (30^2 = 900)."
+  },
+  {
+    "id": 19,
+    "question": "√3375\n3\n=",
+    "options": [
+      {
+        "key": 1,
+        "text": "15"
+      },
+      {
+        "key": 2,
+        "text": "25"
+      },
+      {
+        "key": 3,
+        "text": "35"
+      },
+      {
+        "key": 4,
+        "text": "45"
+      }
+    ],
+    "answer": 1,
+    "hint": "Cube root of 3375: Since it ends in 5, the unit digit is 5. 1^3=1, 2^3=8, so tens digit is 1.",
+    "memory_tip": "Cube root: 15^3 = 3375, so 3√3375 = 15."
+  },
+  {
+    "id": 20,
+    "question": "1013 =",
+    "options": [
+      {
+        "key": 1,
+        "text": "100030001"
+      },
+      {
+        "key": 2,
+        "text": "1003001"
+      },
+      {
+        "key": 3,
+        "text": "1030301"
+      },
+      {
+        "key": 4,
+        "text": "103301"
+      }
+    ],
+    "answer": 3,
+    "hint": "Expand (100 + 1)^3 using (a + b)^3 = a^3 + 3a^2b + 3ab^2 + b^3.",
+    "memory_tip": "Expansion: 1000000 + 3(10000) + 3(100) + 1 = 1030301."
+  },
+  {
+    "id": 21,
+    "question": "73 −63 =",
+    "options": [
+      {
+        "key": 1,
+        "text": "1 + 7 × 6 × 2"
+      },
+      {
+        "key": 2,
+        "text": "1 + 7 × 6 × 3"
+      },
+      {
+        "key": 3,
+        "text": "1 + 7 × 6 × 1"
+      },
+      {
+        "key": 4,
+        "text": "1 + 7 × 6 × 4"
+      }
+    ],
+    "answer": 2,
+    "hint": "Use pattern identity: n^3 - (n-1)^3 = 1 + n(n-1)×3.",
+    "memory_tip": "Identity: 7^3 - 6^3 = 1 + 7 × 6 × 3 = 1 + 126 = 127."
+  },
+  {
+    "id": 22,
+    "question": "Unit digit of cube of 888 is\n888 యొకక ఘనంలోని ఒకట్ల సాానం లో ఉండు అంకె",
+    "options": [
+      {
+        "key": 1,
+        "text": "2"
+      },
+      {
+        "key": 2,
+        "text": "4"
+      },
+      {
+        "key": 3,
+        "text": "6"
+      },
+      {
+        "key": 4,
+        "text": "8"
+      }
+    ],
+    "answer": 1,
+    "hint": "Unit digit of 8^3 = 8 × 8 × 8 = 512, which ends in 2.",
+    "memory_tip": "Unit digit cyclicity for 8: 8^1=8, 8^2=4, 8^3=2, 8^4=6. So unit digit of 888^3 is 2."
+  },
+  {
+    "id": 23,
+    "question": "√13225",
+    "options": [
+      {
+        "key": 1,
+        "text": "105"
+      },
+      {
+        "key": 2,
+        "text": "115"
+      },
+      {
+        "key": 3,
+        "text": "125"
+      },
+      {
+        "key": 4,
+        "text": "135"
+      }
+    ],
+    "answer": 2,
+    "hint": "Square root of 13225: Ends in 25, so last digit is 5. 11 × 12 = 132, so tens digits are 11.",
+    "memory_tip": "Shortcut: For numbers ending in 25, √13225: 11 × 12 = 132, so answer is 115."
+  },
+  {
+    "id": 24,
+    "question": "100012 =",
+    "options": [
+      {
+        "key": 1,
+        "text": "1002001"
+      },
+      {
+        "key": 2,
+        "text": "100020001"
+      },
+      {
+        "key": 3,
+        "text": "10000200001"
+      },
+      {
+        "key": 4,
+        "text": "100000020000001"
+      }
+    ],
+    "answer": 2,
+    "hint": "Use (a + b)^2 = a^2 + 2ab + b^2 with a = 10000, b = 1.",
+    "memory_tip": "Square calculation: 10001^2 = (10000 + 1)^2 = 100000000 + 20000 + 1 = 100020001."
+  },
+  {
+    "id": 25,
+    "question": "35−33\n25−23 =",
+    "options": [
+      {
+        "key": 1,
+        "text": "8"
+      },
+      {
+        "key": 2,
+        "text": "9"
+      },
+      {
+        "key": 3,
+        "text": "10"
+      },
+      {
+        "key": 4,
+        "text": "12"
+      }
+    ],
+    "answer": 2,
+    "hint": "Simplify: (3^5 - 3^3) / ... or factor 3^3(3^2 - 1) = 27 × 8.",
+    "memory_tip": "Exponent rules: a^m / a^n = a^(m-n). Simplify the expression systematically to get 9."
+  },
+  {
+    "id": 26,
+    "question": "2×34×25\n9×42\n=",
+    "options": [
+      {
+        "key": 1,
+        "text": "24"
+      },
+      {
+        "key": 2,
+        "text": "36"
+      },
+      {
+        "key": 3,
+        "text": "18"
+      },
+      {
+        "key": 4,
+        "text": "27"
+      }
+    ],
+    "answer": 2,
+    "hint": "Apply laws of exponents: combine base powers 2 and 3.",
+    "memory_tip": "Laws of Indices: a^m × a^n = a^(m+n), (a^m)^n = a^(mn). Simplifying gives 36."
+  },
+  {
+    "id": 27,
+    "question": "The distance between Earth and Moon is\n384,000,000m. Express it in standard form\nభూమి మరియు చంద్రుని మధ్య దూరం 384,000,000 మీ  అయిన\nదీనిని  ప్రామాణిక రూపంలో వ్రాయగా",
+    "options": [
+      {
+        "key": 1,
+        "text": "3.84 × 106"
+      },
+      {
+        "key": 2,
+        "text": "3.84 × 108"
+      },
+      {
+        "key": 3,
+        "text": "0.384 × 1010"
+      },
+      {
+        "key": 4,
+        "text": "3.84 × 109"
+      }
+    ],
+    "answer": 2,
+    "hint": "Standard scientific notation has 1 digit before decimal: 384,000,000 m = 3.84 × 10^8 m.",
+    "memory_tip": "Scientific notation: M × 10^n where 1 ≤ M < 10. Distance = 3.84 × 10^8 meters."
+  },
+  {
+    "id": 28,
+    "question": "Size of a plant cell is 0.00001275m express it into\nstandard form\nఒక వృక్ష కణ పరిమాణము 0.00001275 మీ అయితే దీని\nప్రామాణిక రూపం",
+    "options": [
+      {
+        "key": 1,
+        "text": "1275 × 10−9"
+      },
+      {
+        "key": 2,
+        "text": "1.275 × 108"
+      },
+      {
+        "key": 3,
+        "text": "1.275 × 10−5"
+      },
+      {
+        "key": 4,
+        "text": "1.275 × 10−6"
+      }
+    ],
+    "answer": 3,
+    "hint": "0.00001275m in scientific notation: Move decimal 5 places to the right to get 1.275.",
+    "memory_tip": "Scientific notation: 0.00001275 = 1.275 × 10^-5."
+  },
+  {
+    "id": 29,
+    "question": "(\n1",
+    "options": [
+      {
+        "key": 1,
+        "text": "1"
+      },
+      {
+        "key": 2,
+        "text": "−3 = 9"
+      },
+      {
+        "key": 3,
+        "text": "−2 −( 1 8"
+      },
+      {
+        "key": 4,
+        "text": "2"
+      }
+    ],
+    "answer": 1,
+    "hint": "Any non-zero expression raised to power 0 equals 1: a^0 = 1.",
+    "memory_tip": "Zero exponent rule: (any non-zero quantity)^0 = 1."
+  },
+  {
+    "id": 30,
+    "question": "If  (−3)𝑚−1 × (−3)6 = (−3)7 then 𝑚=\n(−3)𝑚−1 × (−3)6 = (−3)7 అయితే 𝑚=",
+    "options": [
+      {
+        "key": 1,
+        "text": "0"
+      },
+      {
+        "key": 2,
+        "text": "-1"
+      },
+      {
+        "key": 3,
+        "text": "1"
+      },
+      {
+        "key": 4,
+        "text": "2"
+      }
+    ],
+    "answer": 4,
+    "hint": "(-3)^(m-1) × (-3)^6 = (-3)^(m-1+6) = (-3)^(m+5). Since (-3)^(m+5) = (-3)^7, m + 5 = 7.",
+    "memory_tip": "Equating exponents: m + 5 = 7 => m = 2."
+  },
+  {
+    "id": 31,
+    "question": "3𝑚+2−3𝑚−2\n3𝑚+1−3𝑚−1 =",
+    "options": [
+      {
+        "key": 1,
+        "text": "9 10"
+      },
+      {
+        "key": 2,
+        "text": "10 3"
+      },
+      {
+        "key": 3,
+        "text": "80 9"
+      },
+      {
+        "key": 4,
+        "text": "3"
+      }
+    ],
+    "answer": 2,
+    "hint": "Apply direct or inverse proportion based on the situation.",
+    "memory_tip": "Direct: x1/y1 = x2/y2; Inverse: x1*y1 = x2*y2."
+  },
+  {
+    "id": 32,
+    "question": "Which of the following is an irrational number\nఈ క్రంది వానిలో ఏది కరణీయ సంఖ్య",
+    "options": [
+      {
+        "key": 1,
+        "text": "√50 − √18 −√8"
+      },
+      {
+        "key": 2,
+        "text": "√20 × √5"
+      },
+      {
+        "key": 3,
+        "text": "(√7 + √5)(√7 − √5)"
+      },
+      {
+        "key": 4,
+        "text": "(√3 + 1) 2"
+      }
+    ],
+    "answer": 4,
+    "hint": "Simplify ratios by dividing terms by their common factors.",
+    "memory_tip": "Ratio in simplest form: a:b = (a/gcd):(b/gcd)."
+  },
+  {
+    "id": 33,
+    "question": "√1 + 3 + 5 + 7 + 9 + 11 + 13 + 15 =",
+    "options": [
+      {
+        "key": 1,
+        "text": "8"
+      },
+      {
+        "key": 2,
+        "text": "7"
+      },
+      {
+        "key": 3,
+        "text": "15"
+      },
+      {
+        "key": 4,
+        "text": "10"
+      }
+    ],
+    "answer": 1,
+    "hint": "Find the percentage increase or decrease = (Difference / Original) × 100%.",
+    "memory_tip": "% Change = (Change / Original) × 100."
+  },
+  {
+    "id": 34,
+    "question": "If 𝑥= 2 −√3 then 𝑥+\n1\n𝑥=\n𝑥= 2 −√3 అయితే 𝑥+\n1\n𝑥=",
+    "options": [
+      {
+        "key": 1,
+        "text": "4"
+      },
+      {
+        "key": 2,
+        "text": "2√3"
+      },
+      {
+        "key": 3,
+        "text": "2"
+      },
+      {
+        "key": 4,
+        "text": "√3"
+      }
+    ],
+    "answer": 1,
+    "hint": "Simple Interest formula: SI = (P × T × R) / 100.",
+    "memory_tip": "SI = PTR / 100; Amount = P + SI."
+  },
+  {
+    "id": 35,
+    "question": "(5 + √5)(√5 −5) =",
+    "options": [
+      {
+        "key": 1,
+        "text": "15"
+      },
+      {
+        "key": 2,
+        "text": "20"
+      },
+      {
+        "key": 3,
+        "text": "-20"
+      },
+      {
+        "key": 4,
+        "text": "-15"
+      }
+    ],
+    "answer": 3,
+    "hint": "Compound interest amount: A = P(1 + R/100)^n.",
+    "memory_tip": "CI = A - P = P[(1 + R/100)^n - 1]."
+  },
+  {
+    "id": 36,
+    "question": "An irrational number between 2 and 3 is\n2 మరియు 3 ల మధ్యగల ఒక కరణీయ సంఖ్య",
+    "options": [
+      {
+        "key": 1,
+        "text": "√2"
+      },
+      {
+        "key": 2,
+        "text": "√3"
+      },
+      {
+        "key": 3,
+        "text": "√5"
+      },
+      {
+        "key": 4,
+        "text": "√10"
+      }
+    ],
+    "answer": 3,
+    "hint": "Profit percentage = (Profit / Cost Price) × 100%.",
+    "memory_tip": "Profit = SP - CP; Profit % = (Profit/CP) × 100."
+  },
+  {
+    "id": 37,
+    "question": "The ratio of 90cm to 1.5m is\n90 సం.మీ కు 1.5 మీ కు గల నిషపతిత",
+    "options": [
+      {
+        "key": 1,
+        "text": "5:3"
+      },
+      {
+        "key": 2,
+        "text": "6:1"
+      },
+      {
+        "key": 3,
+        "text": "3:5"
+      },
+      {
+        "key": 4,
+        "text": "1:6"
+      }
+    ],
+    "answer": 3,
+    "hint": "Loss percentage = (Loss / Cost Price) × 100%.",
+    "memory_tip": "Loss = CP - SP; Loss % = (Loss/CP) × 100."
+  },
+  {
+    "id": 38,
+    "question": "An Equivalent ratio of 6:4 is\n6:4 కు ఒక సమాన (తులయ) నిషపతిత",
+    "options": [
+      {
+        "key": 1,
+        "text": "16:14"
+      },
+      {
+        "key": 2,
+        "text": "2:3"
+      },
+      {
+        "key": 3,
+        "text": "4:6"
+      },
+      {
+        "key": 4,
+        "text": "3:2"
+      }
+    ],
+    "answer": 4,
+    "hint": "Discount is always calculated on the Marked Price (MP).",
+    "memory_tip": "SP = MP - Discount; Discount % = (Discount / MP) × 100."
+  },
+  {
+    "id": 39,
+    "question": "If ₹60 is divided in the ratio 1:2 between Krithi and\nKiran, the share of Kiran is\nకృతి, కిరణ్ లకు ₹60 ను 1:2 నిషపతిత లో పంచిన, కిరణ్ వాటా",
+    "options": [
+      {
+        "key": 1,
+        "text": "₹40"
+      },
+      {
+        "key": 2,
+        "text": "₹20"
+      },
+      {
+        "key": 3,
+        "text": "₹30"
+      },
+      {
+        "key": 4,
+        "text": "₹10"
+      }
+    ],
+    "answer": 1,
+    "hint": "Work done = Rate × Time. If A completes work in x days, 1 day work = 1/x.",
+    "memory_tip": "Combined 1-day work = (1/A + 1/B); Total days = (AB)/(A+B)."
+  },
+  {
+    "id": 40,
+    "question": "The ratio of 500ml to 2liters is\n500 మిల్లల ల్ల, 2 ల్లట్రుల కి నిషపతిత",
+    "options": [
+      {
+        "key": 1,
+        "text": "25:1"
+      },
+      {
+        "key": 2,
+        "text": "1:4"
+      },
+      {
+        "key": 3,
+        "text": "50:1"
+      },
+      {
+        "key": 4,
+        "text": "4:1"
+      }
+    ],
+    "answer": 2,
+    "hint": "Speed = Distance / Time. To convert km/h to m/s, multiply by 5/18.",
+    "memory_tip": "Conversion: 1 km/h = 5/18 m/s; 1 m/s = 18/5 km/h."
+  },
+  {
+    "id": 41,
+    "question": "Which of the following pair of ratios are in proportion?\nక్రంది వానిలో ఏ రండు నిషపతుతలు  అనుపాతంలో ఉననవి?",
+    "options": [
+      {
+        "key": 1,
+        "text": "1:5, 3:5"
+      },
+      {
+        "key": 2,
+        "text": "2:9, 18:81"
+      },
+      {
+        "key": 3,
+        "text": "15:45, 5:25"
+      },
+      {
+        "key": 4,
+        "text": "4:12, 9:24"
+      }
+    ],
+    "answer": 2,
+    "hint": "Two ratios a:b and c:d are in proportion if product of extremes = product of means (ad = bc).",
+    "memory_tip": "Proportion property: a/b = c/d <=> a × d = b × c."
+  },
+  {
+    "id": 42,
+    "question": "Which of the following is in proportion?\nక్రంది వానిలో ఏది అనుపాతంలో ఉననవి ?",
+    "options": [
+      {
+        "key": 1,
+        "text": "4, 6, 8, 12"
+      },
+      {
+        "key": 2,
+        "text": "33, 44, 75, 80"
+      },
+      {
+        "key": 3,
+        "text": "1, 2, 3, 4"
+      },
+      {
+        "key": 4,
+        "text": "3, 4, 7, 21"
+      }
+    ],
+    "answer": 1,
+    "hint": "Check equality of cross-products to verify proportion.",
+    "memory_tip": "For a:b :: c:d, verify ad = bc."
+  },
+  {
+    "id": 43,
+    "question": "Which statement among the following is false?\nక్రంది వానిలో ఏది  అసతయ  ప్రవచనం?",
+    "options": [
+      {
+        "key": 1,
+        "text": "16:4 = 20:30"
+      },
+      {
+        "key": 2,
+        "text": "12:18 = 14:21"
+      },
+      {
+        "key": 3,
+        "text": "1:2 = 3:4"
+      },
+      {
+        "key": 4,
+        "text": "21:6 = 25:6"
+      }
+    ],
+    "answer": 3,
+    "hint": "Use unitary method: find the value of one unit first, then multiply by required quantity.",
+    "memory_tip": "Unitary rule: Value of n units = (Value of 1 unit) × n."
+  },
+  {
+    "id": 44,
+    "question": "If\n1\n5 is expressed as percent, its value is\n1\n5 ను శతంగా వయకత పరిస్తత దాని విలువ",
+    "options": [
+      {
+        "key": 1,
+        "text": "50%"
+      },
+      {
+        "key": 2,
+        "text": "25%"
+      },
+      {
+        "key": 3,
+        "text": "20%"
+      },
+      {
+        "key": 4,
+        "text": "40%"
+      }
+    ],
+    "answer": 3,
+    "hint": "Express fraction as percentage by multiplying with 100.",
+    "memory_tip": "Fraction to %: Multiply by 100. % to Fraction: Divide by 100."
+  },
+  {
+    "id": 45,
+    "question": "Converting\n5\n4 to percent is\n5\n4 ను శతంగా మారిగ",
+    "options": [
+      {
+        "key": 1,
+        "text": "150%"
+      },
+      {
+        "key": 2,
+        "text": "80%"
+      },
+      {
+        "key": 3,
+        "text": "120%"
+      },
+      {
+        "key": 4,
+        "text": "125%"
+      }
+    ],
+    "answer": 4,
+    "hint": "Successive discounts d1 and d2 have effective discount = (d1 + d2 - d1*d2/100)%.",
+    "memory_tip": "Net discount formula = d1 + d2 - (d1 × d2)/100."
+  },
+  {
+    "id": 46,
+    "question": "Converting the decimal 0.75 to percent is\n0.75 అనే దశంశమును శతముగా మారిగా",
+    "options": [
+      {
+        "key": 1,
+        "text": "7.5%"
+      },
+      {
+        "key": 2,
+        "text": "175%"
+      },
+      {
+        "key": 3,
+        "text": "75%"
+      },
+      {
+        "key": 4,
+        "text": "25%"
+      }
+    ],
+    "answer": 3,
+    "hint": "Find Cost Price when SP and Profit% are given: CP = (SP × 100) / (100 + P%).",
+    "memory_tip": "CP formula: CP = SP × 100 / (100 + Profit%)."
+  },
+  {
+    "id": 47,
+    "question": "The value of 75% of 12 is\n12 లో 75% యొకక విలువ",
+    "options": [
+      {
+        "key": 1,
+        "text": "9"
+      },
+      {
+        "key": 2,
+        "text": "75"
+      },
+      {
+        "key": 3,
+        "text": "900"
+      },
+      {
+        "key": 4,
+        "text": "10"
+      }
+    ],
+    "answer": 1,
+    "hint": "Calculate time taken in hours, minutes, and seconds using Distance / Speed.",
+    "memory_tip": "Time = Distance / Relative Speed."
+  },
+  {
+    "id": 48,
+    "question": "The fractional form of 25% is\n25% యొకక భినన రూపం",
+    "options": [
+      {
+        "key": 1,
+        "text": "3 4"
+      },
+      {
+        "key": 2,
+        "text": "25 10"
+      },
+      {
+        "key": 3,
+        "text": "2 10"
+      },
+      {
+        "key": 4,
+        "text": "1 4"
+      }
+    ],
+    "answer": 4,
+    "hint": "Ratio of areas of similar figures is the square of the ratio of their corresponding sides.",
+    "memory_tip": "Area ratio = (side1 / side2)^2."
+  },
+  {
+    "id": 49,
+    "question": "If a bicycle is bought for ₹6000 and sold it for ₹5000,\nthen the loss is\nఒక సైకిల్ ₹6000 కొని, ₹5000 లకు అమిినట్లతే నషటం",
+    "options": [
+      {
+        "key": 1,
+        "text": "16 2 3%"
+      },
+      {
+        "key": 2,
+        "text": "18%"
+      },
+      {
+        "key": 3,
+        "text": "20%"
+      },
+      {
+        "key": 4,
+        "text": "33 1 3%"
+      }
+    ],
+    "answer": 1,
+    "hint": "When money doubles in T years at simple interest, R = 100 / T.",
+    "memory_tip": "Doubling rule (SI): R × T = 100."
+  },
+  {
+    "id": 50,
+    "question": "If the cost of a toy is ₹700 and it is sold by making a\nprofit of 20% then its selling price is\nఒక బొమి ఖ్రీదు (కొననవెల) ₹700  మరియు దానిని 20%\nలాభమునకు అమిితే, దీని అమికపు వెల",
+    "options": [
+      {
+        "key": 1,
+        "text": "₹720"
+      },
+      {
+        "key": 2,
+        "text": "₹840"
+      },
+      {
+        "key": 3,
+        "text": "₹560"
+      },
+      {
+        "key": 4,
+        "text": "₹780"
+      }
+    ],
+    "answer": 2,
+    "hint": "Difference between CI and SI for 2 years = P(R/100)^2.",
+    "memory_tip": "Diff(2 yrs) = P × (R/100)^2."
+  },
+  {
+    "id": 51,
+    "question": "An item marked at ₹840 and sold for ₹714 then the\ndiscount percentage is\nఒక వస్తతవు ప్రకట్న వెల ₹840 మరియు అమికపువెల ₹714\nఅయిన రుస్తము శతం",
+    "options": [
+      {
+        "key": 1,
+        "text": "10"
+      },
+      {
+        "key": 2,
+        "text": "12"
+      },
+      {
+        "key": 3,
+        "text": "24"
+      },
+      {
+        "key": 4,
+        "text": "15"
+      }
+    ],
+    "answer": 4,
+    "hint": "Average speed for equal distances covered at speeds x and y is 2xy / (x + y).",
+    "memory_tip": "Harmonic Mean formula: Avg Speed = 2xy / (x + y)."
+  },
+  {
+    "id": 52,
+    "question": "A shop gives 20% discount. If a dress is marked at\n₹1200, then the sale price of that dress is\nఒక దుకాణంలో వస్తతవులపై 20% రుస్తము ఇసాతరు. ఒక డ్రస్ పై\nప్రకట్న వెల ₹1200 అయితే అమికపు వెల",
+    "options": [
+      {
+        "key": 1,
+        "text": "₹1440"
+      },
+      {
+        "key": 2,
+        "text": "₹1000"
+      },
+      {
+        "key": 3,
+        "text": "₹960"
+      },
+      {
+        "key": 4,
+        "text": "₹860"
+      }
+    ],
+    "answer": 3,
+    "hint": "Relative speed when moving in opposite directions = S1 + S2; same direction = |S1 - S2|.",
+    "memory_tip": "Opposite: add speeds; Same direction: subtract speeds."
+  },
+  {
+    "id": 53,
+    "question": "A shop gives 20% discount. If a pair of shoes marked\nat ₹750, then the sale price of that item is\nఒక దుకాణంలో వస్తతవులపై 20% రుస్తము ఇసాతరు. ఒక జత\nచెప్పుల పై ప్రకట్న వెల ₹750 అయితే వాటి అమికపు వెల",
+    "options": [
+      {
+        "key": 1,
+        "text": "₹900"
+      },
+      {
+        "key": 2,
+        "text": "₹700"
+      },
+      {
+        "key": 3,
+        "text": "₹600"
+      },
+      {
+        "key": 4,
+        "text": "₹640"
+      }
+    ],
+    "answer": 3,
+    "hint": "Time taken by train of length L to cross a pole = L / Speed.",
+    "memory_tip": "Train crossing pole: Distance = Length of train."
+  },
+  {
+    "id": 54,
+    "question": "If the cost of a table is ₹3500 and it is sold at ₹4200,\nthen the profit on it is\nఒక టేబుల్ ఖ్రీదు ₹3500 మరియు దానిని అమిినవెల ₹4200\nఅయితే దాని పై లాభం",
+    "options": [
+      {
+        "key": 1,
+        "text": "20%"
+      },
+      {
+        "key": 2,
+        "text": "25%"
+      },
+      {
+        "key": 3,
+        "text": "7%"
+      },
+      {
+        "key": 4,
+        "text": "10%"
+      }
+    ],
+    "answer": 1,
+    "hint": "Time taken by train of length L to cross platform of length P = (L + P) / Speed.",
+    "memory_tip": "Train crossing platform: Total distance = L + P."
+  },
+  {
+    "id": 55,
+    "question": "The selling price of the fan, which bought for ₹560 and\nexpenses of ₹40 made on its repairs with a profit of\n5%, is\n₹560 లతో కొనన ఒక ఫ్యయన్ మరమితుతలకు ₹40 ఖ్రుి చేసి, 5%\nలాభమునకు అమిిన, దాని అమికపు వెల",
+    "options": [
+      {
+        "key": 1,
+        "text": "₹540"
+      },
+      {
+        "key": 2,
+        "text": "₹630"
+      },
+      {
+        "key": 3,
+        "text": "₹500"
+      },
+      {
+        "key": 4,
+        "text": "₹520"
+      }
+    ],
+    "answer": 2,
+    "hint": "Pipes and Cisterns: Net rate per hour = 1/Inlet - 1/Outlet.",
+    "memory_tip": "Net filling rate = (1/x - 1/y) per hour."
+  },
+  {
+    "id": 56,
+    "question": "If P= ₹4000, R= 15% and T= 2years then the simple\ninterest is\nP= ₹4000, R= 15% మరియు  T= 2సం∥లు అయితే\nసామానయ వడ్డీ",
+    "options": [
+      {
+        "key": 1,
+        "text": "₹1500"
+      },
+      {
+        "key": 2,
+        "text": "₹1000"
+      },
+      {
+        "key": 3,
+        "text": "₹1200"
+      },
+      {
+        "key": 4,
+        "text": "₹2000"
+      }
+    ],
+    "answer": 3,
+    "hint": "Alloy mixture: Use weighted averages or alligation rule.",
+    "memory_tip": "Alligation rule: (Cheaper / Dearer) = (d - m) / (m - c)."
+  },
+  {
+    "id": 57,
+    "question": "What is the principal, if simple interest got ₹1080 for\n3years at 18% of rate of interest per annum is?\n3 సంవతసరములకు, సంవతసరానికి 18% వడ్డీ రేటు చొప్పున\n₹1080 సాధారణ వడ్డీ వచిినట్లయితే అసలు ఎంత?",
+    "options": [
+      {
+        "key": 1,
+        "text": "₹3000"
+      },
+      {
+        "key": 2,
+        "text": "₹2500"
+      },
+      {
+        "key": 3,
+        "text": "₹4000"
+      },
+      {
+        "key": 4,
+        "text": "₹2000"
+      }
+    ],
+    "answer": 4,
+    "hint": "Find the unknown term x in the proportion a : b :: c : x => x = (b × c) / a.",
+    "memory_tip": "Fourth proportional: x = (b × c) / a."
+  },
+  {
+    "id": 58,
+    "question": "The amount to be paid at the end of 2 years on ₹2400\nat 5% per annum compounded annually is\nసంవతసరానికి ఒకసారి వడ్డీ చెల్లంచు పదదతిన ₹2400 పై\nసంవతసరమునకు 5% వడ్డీరేటుతో 2 సంవతసరాల చివర\nచెల్లంచాల్సన మొతతం",
+    "options": [
+      {
+        "key": 1,
+        "text": "₹2864"
+      },
+      {
+        "key": 2,
+        "text": "₹2564"
+      },
+      {
+        "key": 3,
+        "text": "₹2646"
+      },
+      {
+        "key": 4,
+        "text": "₹2864"
+      }
+    ],
+    "answer": 3,
+    "hint": "Mean proportional between a and b is √(ab).",
+    "memory_tip": "Mean proportional formula: b = √(ac)."
+  },
+  {
+    "id": 59,
+    "question": "A T.V was bought at a price of ₹21,000. After one\nyear the value of the T.V was depreciated by 5%. Then\nthe value of the T.V after one year is\nఒక ట్ల్విజన్ ₹21000 లకు కొనబడంది. ఒక సంవతసరం\nతరువాత దాని విలువలో తరుగుదల 5% అయితే ఒక సంవతసరం\nతరువాత ఆ ట్ల్విజన్ విలువ",
+    "options": [
+      {
+        "key": 1,
+        "text": "₹19950"
+      },
+      {
+        "key": 2,
+        "text": "₹20500"
+      },
+      {
+        "key": 3,
+        "text": "₹18950"
+      },
+      {
+        "key": 4,
+        "text": "₹20000"
+      }
+    ],
+    "answer": 1,
+    "hint": "Third proportional to a and b is b^2 / a.",
+    "memory_tip": "Third proportional: c = b^2 / a."
+  },
+  {
+    "id": 60,
+    "question": "The compound interest on ₹12600 for 2 years at 10%\nper annum compounded annually is\nసంవతసరానికి ఒకసారి తిరిగ కటుట పదదతిన ₹12600 కు 10%\nవడ్డీరేటు చొప్పున 2 సంవతసరాలకు అగు చక్రవడ్డీ",
+    "options": [
+      {
+        "key": 1,
+        "text": "₹2520"
+      },
+      {
+        "key": 2,
+        "text": "₹2646"
+      },
+      {
+        "key": 3,
+        "text": "₹15246"
+      },
+      {
+        "key": 4,
+        "text": "₹13246"
+      }
+    ],
+    "answer": 2,
+    "hint": "Sum of ratio parts: Divide total quantity by sum of ratio parts.",
+    "memory_tip": "Part value = (Total / Sum of parts) × individual ratio."
+  },
+  {
+    "id": 61,
+    "question": "A line segments has _____ end points\nఒక రేఖాఖ్ండానికి గల అంతయ బందువుల సంఖ్య  _____",
+    "options": [
+      {
+        "key": 1,
+        "text": "0"
+      },
+      {
+        "key": 2,
+        "text": "1"
+      },
+      {
+        "key": 3,
+        "text": "2"
+      },
+      {
+        "key": 4,
+        "text": "3"
+      }
+    ],
+    "answer": 3,
+    "hint": "A line segment has two fixed end points.",
+    "memory_tip": "Line segment: 2 end points, fixed length. Ray: 1 end point. Line: 0 end points."
+  },
+  {
+    "id": 62,
+    "question": "The lines which do not meet are said to be ______\nlines\nపరసపరం ఖ్ండంచుకొనని రేఖ్లను _____రేఖ్లు అంటాము",
+    "options": [
+      {
+        "key": 1,
+        "text": "Perpendicular లంబ"
+      },
+      {
+        "key": 2,
+        "text": "Concurrent మిళిత"
+      },
+      {
+        "key": 3,
+        "text": "Intersecting ఖ్ండన"
+      },
+      {
+        "key": 4,
+        "text": "Parallel సమాంతర"
+      }
+    ],
+    "answer": 4,
+    "hint": "A ray has exactly one starting endpoint and extends infinitely in one direction.",
+    "memory_tip": "Ray: 1 endpoint, indefinite length."
+  },
+  {
+    "id": 63,
+    "question": "How many straight lines can pass through two given\npoints?\nఇవవబడన రండు బందువుల గుండా ఎనిన సరళ రేఖ్లు పోతాయి?",
+    "options": [
+      {
+        "key": 1,
+        "text": "0"
+      },
+      {
+        "key": 2,
+        "text": "1"
+      },
+      {
+        "key": 3,
+        "text": "2"
+      },
+      {
+        "key": 4,
+        "text": "Infinite అనంతం"
+      }
+    ],
+    "answer": 2,
+    "hint": "Complementary angles add up to 90 degrees.",
+    "memory_tip": "Complementary: A + B = 90°; Supplementary: A + B = 180°."
+  },
+  {
+    "id": 64,
+    "question": "The measure of a right angle is\nలంబకోణం యొకక కొలత",
+    "options": [
+      {
+        "key": 1,
+        "text": "180°"
+      },
+      {
+        "key": 2,
+        "text": "0°"
+      },
+      {
+        "key": 3,
+        "text": "90°"
+      },
+      {
+        "key": 4,
+        "text": "45°"
+      }
+    ],
+    "answer": 3,
+    "hint": "Supplementary angles add up to 180 degrees.",
+    "memory_tip": "Supplementary angles: sum = 180° (linear pair)."
+  },
+  {
+    "id": 65,
+    "question": "Sum of three angles in a triangle is equal to ______\nright angles\nత్రిభుజం లోని మూడు కోణల మొతతం ______ లంబ కోణలు",
+    "options": [
+      {
+        "key": 1,
+        "text": "1"
+      },
+      {
+        "key": 2,
+        "text": "2"
+      },
+      {
+        "key": 3,
+        "text": "3"
+      },
+      {
+        "key": 4,
+        "text": "4"
+      }
+    ],
+    "answer": 2,
+    "hint": "Vertically opposite angles are always equal.",
+    "memory_tip": "When two lines intersect, opposite angles are equal."
+  },
+  {
+    "id": 66,
+    "question": "If the measure of an angle is 120°, it is _______angle\nఒక కోణం యొకక కొలత 120° అయితే అది _______ కోణం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Acute angle అలప కోణం"
+      },
+      {
+        "key": 2,
+        "text": "Right angle లంబ కోణం"
+      },
+      {
+        "key": 3,
+        "text": "Obtuse angle అధిక కోణం"
+      },
+      {
+        "key": 4,
+        "text": "Straight angle సరళ కోణం"
+      }
+    ],
+    "answer": 3,
+    "hint": "Sum of interior angles of a triangle is always 180°.",
+    "memory_tip": "Angle sum property of triangle: ∠A + ∠B + ∠C = 180°."
+  },
+  {
+    "id": 67,
+    "question": "The angle between the two perpendicular lines is\nరండు లంబ రేఖ్ల మధ్య కోణం",
+    "options": [
+      {
+        "key": 1,
+        "text": "0°"
+      },
+      {
+        "key": 2,
+        "text": "90°"
+      },
+      {
+        "key": 3,
+        "text": "180°"
+      },
+      {
+        "key": 4,
+        "text": "45°"
+      }
+    ],
+    "answer": 2,
+    "hint": "An exterior angle of a triangle equals the sum of its two interior opposite angles.",
+    "memory_tip": "Exterior angle theorem: Ext ∠ = Int ∠1 + Int ∠2."
+  },
+  {
+    "id": 68,
+    "question": "In an equilateral triangle, the measure of each interior\nangle of it is\nఒక సమబాహు త్రిభుజంలో, దాని ప్రతి అంతర కోణం కొలత",
+    "options": [
+      {
+        "key": 1,
+        "text": "50°"
+      },
+      {
+        "key": 2,
+        "text": "90°"
+      },
+      {
+        "key": 3,
+        "text": "60°"
+      },
+      {
+        "key": 4,
+        "text": "45°"
+      }
+    ],
+    "answer": 3,
+    "hint": "Sum of interior angles of an n-sided polygon is (n - 2) × 180°.",
+    "memory_tip": "Formula: Total interior angle sum = (n - 2) × 180°."
+  },
+  {
+    "id": 69,
+    "question": "The lengths of the sides of a triangle are 7cm, 8cm,\n7cm. So it is a _______ triangle\nఒక త్రిభుజ భుజాల పొడవులు 7సం. మీ, 8 సం. మీ, 7 సం. మీ.\nఅయితే అది ఒక _______  త్రిభుజం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Scalene విషమబాహు"
+      },
+      {
+        "key": 2,
+        "text": "Isosceles సమదివబాహు"
+      },
+      {
+        "key": 3,
+        "text": "Equilateral సమబాహు"
+      },
+      {
+        "key": 4,
+        "text": "Right angled లంబకోణ"
+      }
+    ],
+    "answer": 2,
+    "hint": "Each interior angle of a regular polygon with n sides is [(n - 2) × 180°] / n.",
+    "memory_tip": "Regular polygon interior angle: [(n - 2) × 180°] / n."
+  },
+  {
+    "id": 70,
+    "question": "The sum of the measures of all interior of a triangle is\nఒక త్రిభుజంలో దాని అన్నన అంతర కోణల కొలతల మొతతం",
+    "options": [
+      {
+        "key": 1,
+        "text": "60°"
+      },
+      {
+        "key": 2,
+        "text": "120°"
+      },
+      {
+        "key": 3,
+        "text": "90°"
+      },
+      {
+        "key": 4,
+        "text": "180°"
+      }
+    ],
+    "answer": 4,
+    "hint": "Sum of exterior angles of any polygon is always 360°.",
+    "memory_tip": "Exterior angle sum = 360° for any convex polygon."
+  },
+  {
+    "id": 71,
+    "question": "The sum of the measures of all the interior angles of a\nconvex quadrilateral is\nఒక కుంభాకార చతురుుజం యొకక అన్నన అంతరకోణల కొలతల\nమొతతం",
+    "options": [
+      {
+        "key": 1,
+        "text": "360°"
+      },
+      {
+        "key": 2,
+        "text": "180°"
+      },
+      {
+        "key": 3,
+        "text": "90°"
+      },
+      {
+        "key": 4,
+        "text": "270°"
+      }
+    ],
+    "answer": 1,
+    "hint": "Number of diagonals in an n-sided polygon is n(n - 3) / 2.",
+    "memory_tip": "Diagonals formula: d = n(n - 3) / 2."
+  },
+  {
+    "id": 72,
+    "question": "The measure of each interior angle of a rectangle is\nఒక దీరఘచతురస్రంలో ప్రతి  అంతరకోణం  కొలత",
+    "options": [
+      {
+        "key": 1,
+        "text": "60°"
+      },
+      {
+        "key": 2,
+        "text": "90°"
+      },
+      {
+        "key": 3,
+        "text": "120°"
+      },
+      {
+        "key": 4,
+        "text": "45°"
+      }
+    ],
+    "answer": 2,
+    "hint": "In a right-angled triangle, hypotenuse^2 = base^2 + height^2 (Pythagoras Theorem).",
+    "memory_tip": "Pythagoras theorem: c^2 = a^2 + b^2."
+  },
+  {
+    "id": 73,
+    "question": "The name of a polygon having 6 sides is\n6 భుజాలు కల్గన బహుభుజి యొకక పేరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Octagon అషటభుజి"
+      },
+      {
+        "key": 2,
+        "text": "Pentagon పంచభుజి"
+      },
+      {
+        "key": 3,
+        "text": "Decagon దశభుజి"
+      },
+      {
+        "key": 4,
+        "text": "Hexagon షడుుజి"
+      }
+    ],
+    "answer": 4,
+    "hint": "Equilateral triangle has all 3 sides equal and each angle measures 60°.",
+    "memory_tip": "Equilateral triangle: All sides equal, each angle = 60°."
+  },
+  {
+    "id": 74,
+    "question": "Which of the following is not a polygon?\nక్రంది వానిలో ఏది బహుభుజి కాదు?",
+    "options": [
+      {
+        "key": 1,
+        "text": "Rectangle దీరఘచతురస్రం"
+      },
+      {
+        "key": 2,
+        "text": "Hexagon షడుుజి"
+      },
+      {
+        "key": 3,
+        "text": "Triangle త్రిభుజం"
+      },
+      {
+        "key": 4,
+        "text": "Circle వృతతం"
+      }
+    ],
+    "answer": 4,
+    "hint": "Isosceles triangle has two equal sides and angles opposite to equal sides are equal.",
+    "memory_tip": "Isosceles triangle: 2 equal sides, base angles equal."
+  },
+  {
+    "id": 75,
+    "question": "In a circle, the line segment which join the centre of\nthe circle and any point on the circle is\nఒక వృతతంలో, వృతతకంద్రమును మరియు వృతతం పై ఏదేని\nబందువును కలుపు రేఖాఖ్ండము",
+    "options": [
+      {
+        "key": 1,
+        "text": "Diameter వాయసం"
+      },
+      {
+        "key": 2,
+        "text": "Radius వాయసారాం"
+      },
+      {
+        "key": 3,
+        "text": "Chord జాయ"
+      },
+      {
+        "key": 4,
+        "text": "Arc చాపం"
+      }
+    ],
+    "answer": 2,
+    "hint": "Median connects a vertex to the midpoint of the opposite side.",
+    "memory_tip": "Medians intersect at Centroid (G), dividing each median in ratio 2:1."
+  },
+  {
+    "id": 76,
+    "question": "The line segment which join any two points on a circle\nis\nఒక వృతతం పై ఏ రండు బందువుల నైన కలుపు రేఖాఖ్ండము",
+    "options": [
+      {
+        "key": 1,
+        "text": "Segment of the circle వృతత ఖ్ండము"
+      },
+      {
+        "key": 2,
+        "text": "Radius వాయసారాం"
+      },
+      {
+        "key": 3,
+        "text": "Chord జాయ"
+      },
+      {
+        "key": 4,
+        "text": "Arc చాపం"
+      }
+    ],
+    "answer": 3,
+    "hint": "Altitude is a perpendicular drawn from a vertex to the opposite side.",
+    "memory_tip": "Altitudes intersect at the Orthocenter (H)."
+  },
+  {
+    "id": 77,
+    "question": "The longest chord in a circle is\nఒక వృతతంలో అతి పెదద (పొడవైన) జాయ",
+    "options": [
+      {
+        "key": 1,
+        "text": "Diameter వాయసం"
+      },
+      {
+        "key": 2,
+        "text": "Radius వాయసారాం"
+      },
+      {
+        "key": 3,
+        "text": "Chord జాయ"
+      },
+      {
+        "key": 4,
+        "text": "Arc చాపం"
+      }
+    ],
+    "answer": 1,
+    "hint": "Perpendicular bisectors of sides meet at the Circumcenter (S).",
+    "memory_tip": "Circumcenter is equidistant from all three vertices."
+  },
+  {
+    "id": 78,
+    "question": "In a circle, angles in the same segment are\nఒక వృతతంలో ఒక వృతత ఖ్ండంలోని కోణలు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Supplementary సంపూరకాలు"
+      },
+      {
+        "key": 2,
+        "text": "Complementary పూరకాలు"
+      },
+      {
+        "key": 3,
+        "text": "Conjugate angles సంయుగి కోణలు"
+      },
+      {
+        "key": 4,
+        "text": "Equal సమానం (5)"
+      }
+    ],
+    "answer": 4,
+    "hint": "Angle bisectors meet at the Incenter (I).",
+    "memory_tip": "Incenter is equidistant from all three sides."
+  },
+  {
+    "id": 79,
+    "question": "The measure of the angle formed in a semicircle at its\ncentre is\nఒక అరధవృతతంలో దాని కంద్రం వదద ఏరపడన కోణం కొలత",
+    "options": [
+      {
+        "key": 1,
+        "text": "360°"
+      },
+      {
+        "key": 2,
+        "text": "90°"
+      },
+      {
+        "key": 3,
+        "text": "180°"
+      },
+      {
+        "key": 4,
+        "text": "270°"
+      }
+    ],
+    "answer": 3,
+    "hint": "Sum of any two sides of a triangle must be strictly greater than the third side.",
+    "memory_tip": "Triangle inequality theorem: a + b > c, b + c > a, c + a > b."
+  },
+  {
+    "id": 80,
+    "question": "Measure of the angle subtended by a diameter in a\nsemicircle is\nఒక అరధవృతతంలో దాని వాయసం వలన ఏరపడన కోణం కొలత",
+    "options": [
+      {
+        "key": 1,
+        "text": "45°"
+      },
+      {
+        "key": 2,
+        "text": "50°"
+      },
+      {
+        "key": 3,
+        "text": "90°"
+      },
+      {
+        "key": 4,
+        "text": "120°"
+      }
+    ],
+    "answer": 3,
+    "hint": "Difference of any two sides of a triangle is always less than the third side.",
+    "memory_tip": "Side difference rule: |a - b| < c."
+  },
+  {
+    "id": 81,
+    "question": "ABCD is a cyclic quadrilateral and  ∠𝐴= 50° then\n∠𝐶=\nABCD ఒక చక్రయ చతురుుజం మరియు ∠𝐴= 50° అయితే\n∠𝐶=",
+    "options": [
+      {
+        "key": 1,
+        "text": "50°"
+      },
+      {
+        "key": 2,
+        "text": "130°"
+      },
+      {
+        "key": 3,
+        "text": "180°"
+      },
+      {
+        "key": 4,
+        "text": "100°"
+      }
+    ],
+    "answer": 2,
+    "hint": "In a cyclic quadrilateral, opposite angles are supplementary (add to 180°).",
+    "memory_tip": "Cyclic quadrilateral: ∠A + ∠C = 180°, ∠B + ∠D = 180°. If ∠A = 50°, ∠C = 130°."
+  },
+  {
+    "id": 82,
+    "question": "The angle between a tangent to a circle and the radius\nat the point of contact is\nఒక వృతత సపరేరేఖ్కు, సపరేబందువు గుండా గీచిన వాయసారాధనికి\nమధ్య కోణము",
+    "options": [
+      {
+        "key": 1,
+        "text": "60°"
+      },
+      {
+        "key": 2,
+        "text": "30°"
+      },
+      {
+        "key": 3,
+        "text": "45°"
+      },
+      {
+        "key": 4,
+        "text": "90°"
+      }
+    ],
+    "answer": 4,
+    "hint": "Angle in a semicircle is a right angle (90°).",
+    "memory_tip": "Thales's theorem: Angle inscribed in a semicircle = 90°."
+  },
+  {
+    "id": 83,
+    "question": "A tangent to a circle intersects it in ______ point(s)\nవృతాతనిన, ఒక సపరేరేఖ్ ______  బందువు(ల) వదద ఖ్ండస్తతంది",
+    "options": [
+      {
+        "key": 1,
+        "text": "1"
+      },
+      {
+        "key": 2,
+        "text": "2"
+      },
+      {
+        "key": 3,
+        "text": "3"
+      },
+      {
+        "key": 4,
+        "text": "4"
+      }
+    ],
+    "answer": 1,
+    "hint": "Angles in the same segment of a circle are equal.",
+    "memory_tip": "Inscribed angle property: Angles subtended by same arc at circumference are equal."
+  },
+  {
+    "id": 84,
+    "question": "A secant of a circle intersects it in _____ point(s)\nఛేదన రేఖ్, వృతాతనిన  ______ బందువు(ల) వదద ఖ్ండస్తతంది",
+    "options": [
+      {
+        "key": 1,
+        "text": "1"
+      },
+      {
+        "key": 2,
+        "text": "2"
+      },
+      {
+        "key": 3,
+        "text": "3"
+      },
+      {
+        "key": 4,
+        "text": "4"
+      }
+    ],
+    "answer": 2,
+    "hint": "Angle subtended by an arc at the center is double the angle subtended at the circumference.",
+    "memory_tip": "Central angle theorem: ∠Center = 2 × ∠Circumference."
+  },
+  {
+    "id": 85,
+    "question": "If number of observations 𝑛 is odd then the\nobservation which becomes the median is\nరాశుల సంఖ్య 𝑛 బేసి సంఖ్య అయితే మధ్యగతము అనేది",
+    "options": [
+      {
+        "key": 1,
+        "text": "( 𝑛"
+      },
+      {
+        "key": 2,
+        "text": "th ( 𝑛+1 2 ) th"
+      },
+      {
+        "key": 3,
+        "text": "( 𝑛+3 2 ) th"
+      },
+      {
+        "key": 4,
+        "text": "2𝑛 th"
+      }
+    ],
+    "answer": 2,
+    "hint": "A tangent to a circle is perpendicular to the radius at the point of contact.",
+    "memory_tip": "Tangent-Radius property: Tangent ⊥ Radius (angle = 90°)."
+  },
+  {
+    "id": 86,
+    "question": "Mode of the data 2, 2, 2, 3, 3, 3, 4, 4, 4, x is 4. Value of\nx is\n2, 2, 2, 3, 3, 3, 4, 4, 4, x ల బాహుళకము 4 అయిన x విలువ",
+    "options": [
+      {
+        "key": 1,
+        "text": "2"
+      },
+      {
+        "key": 2,
+        "text": "3"
+      },
+      {
+        "key": 3,
+        "text": "4"
+      },
+      {
+        "key": 4,
+        "text": "5"
+      }
+    ],
+    "answer": 3,
+    "hint": "Lengths of tangents drawn from an external point to a circle are equal.",
+    "memory_tip": "External tangents theorem: PA = PB."
+  },
+  {
+    "id": 87,
+    "question": "Mode = 𝑙+ [\n𝑓1−𝑓0\n2𝑓1−𝑓0−𝑓2] × ℎ. Here 𝑙 means\nబాహుళకము = 𝑙+ [\n𝑓1−𝑓0\n2𝑓1−𝑓0−𝑓2] × ℎ .నందు 𝑙 అనగా",
+    "options": [
+      {
+        "key": 1,
+        "text": "lower boundary of model class బాహుళక తరగతి దిగువ హదుద"
+      },
+      {
+        "key": 2,
+        "text": "upper boundary of model class బాహుళక తరగతి ఎగువ హదుద"
+      },
+      {
+        "key": 3,
+        "text": "length of model class బాహుళక తరగతి పొడవు"
+      },
+      {
+        "key": 4,
+        "text": "frequency of model class బాహుళక తరగతి పౌన:పునయము"
+      }
+    ],
+    "answer": 1,
+    "hint": "Sum of opposite pairs of sides of a circumscribing quadrilateral are equal.",
+    "memory_tip": "AB + CD = AD + BC for circumscribed quadrilateral."
+  },
+  {
+    "id": 88,
+    "question": "The mean of first 9 prime numbers is\nమొదటి 9 ప్రధాన సంఖ్యల సరాసరి",
+    "options": [
+      {
+        "key": 1,
+        "text": "2 9"
+      },
+      {
+        "key": 2,
+        "text": "11 1 9"
+      },
+      {
+        "key": 3,
+        "text": "11"
+      },
+      {
+        "key": 4,
+        "text": "9"
+      }
+    ],
+    "answer": 2,
+    "hint": "A quadrilateral with opposite sides parallel and equal is a parallelogram.",
+    "memory_tip": "Parallelogram: Opp sides parallel & equal, opp angles equal, diagonals bisect each other."
+  },
+  {
+    "id": 89,
+    "question": "Father of statistics\nసాంఖ్యకశసర పితామహుడు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Pascal"
+      },
+      {
+        "key": 2,
+        "text": "Libneitz"
+      },
+      {
+        "key": 3,
+        "text": "Sir Ronald A. Fisher"
+      },
+      {
+        "key": 4,
+        "text": "Selvistar"
+      }
+    ],
+    "answer": 3,
+    "hint": "In a rhombus, diagonals bisect each other at right angles (90°).",
+    "memory_tip": "Rhombus: All sides equal, diagonals perpendicular bisectors."
+  },
+  {
+    "id": 90,
+    "question": "If the mean of 2, 3, 4, 5, x is 5 then value of x is\n2, 3, 4, 5, x ల యొకక సగటు 5 అయిన x విలువ",
+    "options": [
+      {
+        "key": 1,
+        "text": "3"
+      },
+      {
+        "key": 2,
+        "text": "11"
+      },
+      {
+        "key": 3,
+        "text": "5"
+      },
+      {
+        "key": 4,
+        "text": "6"
+      }
+    ],
+    "answer": 2,
+    "hint": "In a rectangle, diagonals are equal and bisect each other.",
+    "memory_tip": "Rectangle: Opposite sides equal, each angle 90°, diagonals equal."
+  },
+  {
+    "id": 91,
+    "question": "Mean of 10 numbers is 7 and another 15 numbers is\n12, then mean of those 25 numbers is\n10 సంఖ్యల సగటు 7, మరో 15 సంఖ్యల సగటు 12 అయితే మొతతం\n25 సంఖ్యల సగటు",
+    "options": [
+      {
+        "key": 1,
+        "text": "25"
+      },
+      {
+        "key": 2,
+        "text": "19"
+      },
+      {
+        "key": 3,
+        "text": "10"
+      },
+      {
+        "key": 4,
+        "text": "250"
+      }
+    ],
+    "answer": 3,
+    "hint": "In a square, all sides are equal, all angles 90°, diagonals equal and perpendicular bisectors.",
+    "memory_tip": "Square: Combines all properties of rectangle and rhombus."
+  },
+  {
+    "id": 92,
+    "question": "Mean of first 100 natural numbers is\nమొదటి 100 సహజ సంఖ్యల సగటు",
+    "options": [
+      {
+        "key": 1,
+        "text": "48.5"
+      },
+      {
+        "key": 2,
+        "text": "50.5"
+      },
+      {
+        "key": 3,
+        "text": "50"
+      },
+      {
+        "key": 4,
+        "text": "51.5"
+      }
+    ],
+    "answer": 2,
+    "hint": "Trapezium is a quadrilateral with at least one pair of parallel sides.",
+    "memory_tip": "Area of trapezium = 1/2 × (a + b) × h."
+  },
+  {
+    "id": 93,
+    "question": "Median of\n𝑥\n4,𝑥,\n𝑥\n5 ,\n𝑥\n3,\n𝑥\n2 is 5 then value of 𝑥\n𝑥\n4,𝑥,\n𝑥\n5 ,\n𝑥\n3,\n𝑥\n2 ల మధ్యగతం 5 అయిన 𝑥 విలువ",
+    "options": [
+      {
+        "key": 1,
+        "text": "5"
+      },
+      {
+        "key": 2,
+        "text": "10"
+      },
+      {
+        "key": 3,
+        "text": "15"
+      },
+      {
+        "key": 4,
+        "text": "20"
+      }
+    ],
+    "answer": 3,
+    "hint": "Kite has two pairs of equal adjacent sides; diagonals are perpendicular.",
+    "memory_tip": "Kite area = 1/2 × d1 × d2."
+  },
+  {
+    "id": 94,
+    "question": "Average of 5 consecutive numbers is 16 the biggest\nnumber is\n5 వరుస సంఖ్యల సరాసరి 16 అయిన ఆ సంఖ్యల లోకెలాల పెదద సంఖ్య",
+    "options": [
+      {
+        "key": 1,
+        "text": "21"
+      },
+      {
+        "key": 2,
+        "text": "19"
+      },
+      {
+        "key": 3,
+        "text": "20"
+      },
+      {
+        "key": 4,
+        "text": "18"
+      }
+    ],
+    "answer": 4,
+    "hint": "Criteria for congruence of triangles: SSS, SAS, ASA, AAS, RHS. (AAA is similarity, NOT congruence).",
+    "memory_tip": "Congruence: SSS, SAS, ASA, AAS, RHS. Note: AAA gives similar triangles, not congruent."
+  },
+  {
+    "id": 95,
+    "question": "Median of\n3\n4,\n1\n2,\n2\n3 ,\n1\n6,\n7\n12 is\n3\n4,\n1\n2,\n2\n3 ,\n1\n6,\n7\n12 ల మధ్యగతము",
+    "options": [
+      {
+        "key": 1,
+        "text": "7 12"
+      },
+      {
+        "key": 2,
+        "text": "1 6"
+      },
+      {
+        "key": 3,
+        "text": "2 3"
+      },
+      {
+        "key": 4,
+        "text": "3 4"
+      }
+    ],
+    "answer": 1,
+    "hint": "Basic Proportionality Theorem (Thales Theorem): If a line is drawn parallel to one side of a triangle, it divides the other two sides proportionally.",
+    "memory_tip": "BPT: AD/DB = AE/EC when DE || BC."
+  },
+  {
+    "id": 96,
+    "question": "Mode of the data 2, 3, 4, 6, 3, 5, 8, 4, 3 is\n2, 3, 4, 6, 3, 5, 8, 4, 3 ల బాహుళకము",
+    "options": [
+      {
+        "key": 1,
+        "text": "4"
+      },
+      {
+        "key": 2,
+        "text": "3"
+      },
+      {
+        "key": 3,
+        "text": "2"
+      },
+      {
+        "key": 4,
+        "text": "6"
+      }
+    ],
+    "answer": 2,
+    "hint": "Ratio of areas of two similar triangles is equal to the square of the ratio of their corresponding sides.",
+    "memory_tip": "Ar(T1)/Ar(T2) = (s1/s2)^2 = (h1/h2)^2 = (m1/m2)^2."
+  },
+  {
+    "id": 97,
+    "question": "If the sum and product of zeros of a quadratic\npolynomial are 3 and -2 then the quadratic polynomial\nis\n3 మరియు -2 ల శూనయల మొతతము, మరియు లబదములుగా గల\nవరగ బహుపది",
+    "options": [
+      {
+        "key": 1,
+        "text": "𝑥2 + 3𝑥+ 2"
+      },
+      {
+        "key": 2,
+        "text": "𝑥2 −3𝑥−2"
+      },
+      {
+        "key": 3,
+        "text": "𝑥2 + 3𝑥−2"
+      },
+      {
+        "key": 4,
+        "text": "𝑥2 −3𝑥+ 2"
+      }
+    ],
+    "answer": 2,
+    "hint": "Pythagorean triplet check: a^2 + b^2 = c^2 (e.g., 3-4-5, 5-12-13, 7-24-25, 8-15-17).",
+    "memory_tip": "Common triplets: (3,4,5), (5,12,13), (7,24,25), (8,15,17), (9,40,41)."
+  },
+  {
+    "id": 98,
+    "question": "The degree of the polynomial 𝑥5 −𝑥4 + 3 is\n𝑥5 −𝑥4 + 3 అనే బాహుపది పరిమాణము",
+    "options": [
+      {
+        "key": 1,
+        "text": "5"
+      },
+      {
+        "key": 2,
+        "text": "4"
+      },
+      {
+        "key": 3,
+        "text": "9"
+      },
+      {
+        "key": 4,
+        "text": "10"
+      }
+    ],
+    "answer": 1,
+    "hint": "Euler's formula for polyhedra: V - E + F = 2, where V=Vertices, E=Edges, F=Faces.",
+    "memory_tip": "Euler's formula: Faces + Vertices - Edges = 2 (F + V = E + 2)."
+  },
+  {
+    "id": 99,
+    "question": "If P(x)= 5𝑥2 −3𝑥+ 7 then P(3) is\nP(x)= 5𝑥2 −3𝑥+ 7 అయిన P(3) విలువ",
+    "options": [
+      {
+        "key": 1,
+        "text": "52"
+      },
+      {
+        "key": 2,
+        "text": "48"
+      },
+      {
+        "key": 3,
+        "text": "45"
+      },
+      {
+        "key": 4,
+        "text": "43"
+      }
+    ],
+    "answer": 4,
+    "hint": "A regular polyhedron (Platonic solid) has identical regular polygon faces meeting at each vertex. There are exactly 5.",
+    "memory_tip": "5 Platonic solids: Tetrahedron, Cube (Hexahedron), Octahedron, Dodecahedron, Icosahedron."
+  },
+  {
+    "id": 100,
+    "question": "The zero of the polynomial P(x)= 2𝑥+ 1 is\nP(x)= 2𝑥+ 1 యొకక శూనయ విలువ",
+    "options": [
+      {
+        "key": 1,
+        "text": "1 2"
+      },
+      {
+        "key": 2,
+        "text": "1"
+      },
+      {
+        "key": 3,
+        "text": "−1 2"
+      },
+      {
+        "key": 4,
+        "text": "0"
+      }
+    ],
+    "answer": 3,
+    "hint": "Reflex angle is an angle greater than 180° and less than 360°.",
+    "memory_tip": "Angle types: Acute (<90°), Right (90°), Obtuse (90°-180°), Straight (180°), Reflex (180°-360°)."
+  },
+  {
+    "id": 101,
+    "question": "Roots of the quadratic equation 𝑥2 −3𝑥−10 = 0 are\n𝑥2 −3𝑥−10 = 0 అనే వరగ సమీకరణము మూలాలు",
+    "options": [
+      {
+        "key": 1,
+        "text": "-2 or 5"
+      },
+      {
+        "key": 2,
+        "text": "2 or -5"
+      },
+      {
+        "key": 3,
+        "text": "2 or 5"
+      },
+      {
+        "key": 4,
+        "text": "-2 or -5"
+      }
+    ],
+    "answer": 1,
+    "hint": "Factorize x^2 - 3x - 10 = 0: (x - 5)(x + 2) = 0, so roots are 5 and -2.",
+    "memory_tip": "Factoring: Sum = -3, Product = -10. Numbers are -5 and 2. Roots: x = 5, -2."
+  },
+  {
+    "id": 102,
+    "question": "One example of a binomial of degree 35 is\n35  పరిమాణం గల దివపదికి ఒక ఉదాహరణ",
+    "options": [
+      {
+        "key": 1,
+        "text": "𝑥30 + 𝑥5"
+      },
+      {
+        "key": 2,
+        "text": "2𝑥34 + 𝑥1"
+      },
+      {
+        "key": 3,
+        "text": "3𝑥35 −4"
+      },
+      {
+        "key": 4,
+        "text": "𝑥30 + 45"
+      }
+    ],
+    "answer": 3,
+    "hint": "Discriminant of ax^2 + bx + c = 0 is D = b^2 - 4ac. Nature of roots depends on sign of D.",
+    "memory_tip": "D > 0: real & distinct; D = 0: real & equal; D < 0: complex/imaginary."
+  },
+  {
+    "id": 103,
+    "question": "A polynomial of degree 2 is\nపరిమాణము 2 గా గల బహుపది",
+    "options": [
+      {
+        "key": 1,
+        "text": "linear polynomial రేఖీయ బహుపది"
+      },
+      {
+        "key": 2,
+        "text": "Quadratic polynomial వరగ బహుపది"
+      },
+      {
+        "key": 3,
+        "text": "Cubic polynomial ఘన బహుపది"
+      },
+      {
+        "key": 4,
+        "text": "Zero polynomial శూనయ బహుపది"
+      }
+    ],
+    "answer": 2,
+    "hint": "Sum of roots = -b/a, Product of roots = c/a.",
+    "memory_tip": "Quadratic relations: α + β = -b/a, αβ = c/a."
+  },
+  {
+    "id": 104,
+    "question": "The number of solutions for a linear equation in two\nvariables\nరండు చరరాశులలో రేఖీయ సమీకరణనికి గల సాధ్నల సంఖ్య",
+    "options": [
+      {
+        "key": 1,
+        "text": "Unique solution ఏకైక సాధ్న ఉంటుంది"
+      },
+      {
+        "key": 2,
+        "text": "Only two solutions రండు సాధ్నలు మాత్రమే ఉంటాయి"
+      },
+      {
+        "key": 3,
+        "text": "Infinitely many solutions అనంత సాధ్నలు ఉంటాయి"
+      },
+      {
+        "key": 4,
+        "text": "No solution సాధ్నలు ఉండవు"
+      }
+    ],
+    "answer": 3,
+    "hint": "In an Arithmetic Progression (AP), nth term Tn = a + (n - 1)d.",
+    "memory_tip": "AP nth term: an = a + (n - 1)d."
+  },
+  {
+    "id": 105,
+    "question": "If 𝛼, 𝛽, 𝛾 are the roots of cubic polynomial\n𝑎𝑥3 + 𝑏𝑥2 + 𝑐𝑥+ 𝑑 then 𝛼∙𝛽∙𝛾=\n𝛼, 𝛽, 𝛾 లు 𝑎𝑥3 + 𝑏𝑥2 + 𝑐𝑥+ 𝑑 యొకక మూలాలు అయిన\n𝛼∙𝛽∙𝛾=",
+    "options": [
+      {
+        "key": 1,
+        "text": "− 𝑏 𝑎"
+      },
+      {
+        "key": 2,
+        "text": "𝑐 𝑎"
+      },
+      {
+        "key": 3,
+        "text": "− 𝑑 𝑎"
+      },
+      {
+        "key": 4,
+        "text": "𝑏 𝑎"
+      }
+    ],
+    "answer": 3,
+    "hint": "Sum of first n terms of an AP: Sn = n/2 [2a + (n - 1)d] = n/2 [a + l].",
+    "memory_tip": "AP sum formula: Sn = n(a + l)/2."
+  },
+  {
+    "id": 106,
+    "question": "Two consecutive odd positive integers whose sum of\nsquares is 290, then that numbers are\nరండు వరుస ధ్న బేసి సంఖ్యల వరాగల మొతతం 290 అయిన ఆ\nసంఖ్యలు",
+    "options": [
+      {
+        "key": 1,
+        "text": "11, 13"
+      },
+      {
+        "key": 2,
+        "text": "13, 15"
+      },
+      {
+        "key": 3,
+        "text": "21, 23"
+      },
+      {
+        "key": 4,
+        "text": "15, 17"
+      }
+    ],
+    "answer": 1,
+    "hint": "In a Geometric Progression (GP), nth term Tn = a * r^(n - 1).",
+    "memory_tip": "GP nth term: an = ar^(n-1)."
+  },
+  {
+    "id": 107,
+    "question": "The discriminant of the equation 3𝑥2 −2𝑥+\n1\n3 = 0 is\n3𝑥2 −2𝑥+\n1\n3 = 0 యొకక విచక్షణి",
+    "options": [
+      {
+        "key": 1,
+        "text": "2"
+      },
+      {
+        "key": 2,
+        "text": "-2"
+      },
+      {
+        "key": 3,
+        "text": "0"
+      },
+      {
+        "key": 4,
+        "text": "5"
+      }
+    ],
+    "answer": 3,
+    "hint": "Sum of first n terms of GP: Sn = a(r^n - 1)/(r - 1) for r > 1.",
+    "memory_tip": "GP sum: Sn = a(1 - r^n)/(1 - r) for r < 1."
+  },
+  {
+    "id": 108,
+    "question": "2𝑥−𝑘𝑦+ 3 = 0 and 4𝑥+ 6𝑦−5 = 0 are parallel\nthen the value of 𝑘 is\n2𝑥−𝑘𝑦+ 3 = 0 మరియు 4𝑥+ 6𝑦−5 = 0 లు సమాంతర\nరేఖ్లు అయిన 𝑘 విలువ",
+    "options": [
+      {
+        "key": 1,
+        "text": "3"
+      },
+      {
+        "key": 2,
+        "text": "-3"
+      },
+      {
+        "key": 3,
+        "text": "2"
+      },
+      {
+        "key": 4,
+        "text": "-2"
+      }
+    ],
+    "answer": 2,
+    "hint": "Sum to infinity of a GP with |r| < 1 is S∞ = a / (1 - r).",
+    "memory_tip": "Infinite GP sum: S = a / (1 - r)."
+  },
+  {
+    "id": 109,
+    "question": "The 6th term in the AP: 21,18,15…… is\n21, 18, 15,...... అంకశ్రేడ లో 6వ పదం",
+    "options": [
+      {
+        "key": 1,
+        "text": "6"
+      },
+      {
+        "key": 2,
+        "text": "9"
+      },
+      {
+        "key": 3,
+        "text": "12"
+      },
+      {
+        "key": 4,
+        "text": "3"
+      }
+    ],
+    "answer": 1,
+    "hint": "For linear system a1*x + b1*y + c1 = 0 and a2*x + b2*y + c2 = 0, unique solution if a1/a2 ≠ b1/b2.",
+    "memory_tip": "Lines intersect: a1/a2 ≠ b1/b2 (Consistent, unique solution)."
+  },
+  {
+    "id": 110,
+    "question": "The 2nd term from the end of the AP: 3,8,13,……,253\n3,8,13,……,253 అంకశ్రేడ యొకక చివరి నుండ 2వ పదము",
+    "options": [
+      {
+        "key": 1,
+        "text": "162"
+      },
+      {
+        "key": 2,
+        "text": "160"
+      },
+      {
+        "key": 3,
+        "text": "248"
+      },
+      {
+        "key": 4,
+        "text": "174"
+      }
+    ],
+    "answer": 3,
+    "hint": "Infinitely many solutions (coincident lines) if a1/a2 = b1/b2 = c1/c2.",
+    "memory_tip": "Coincident lines: a1/a2 = b1/b2 = c1/c2 (Dependent, infinite solutions)."
+  },
+  {
+    "id": 111,
+    "question": "6th term of an AP: 2,\n5\n2 ,3,\n7\n2 ,….. is\n2,\n5\n2 ,3,\n7\n2 ,….. అంకశ్రేడ లో 6 వ పదము",
+    "options": [
+      {
+        "key": 1,
+        "text": "4"
+      },
+      {
+        "key": 2,
+        "text": "9 2"
+      },
+      {
+        "key": 3,
+        "text": "5"
+      },
+      {
+        "key": 4,
+        "text": "11 2"
+      }
+    ],
+    "answer": 2,
+    "hint": "No solution (parallel lines) if a1/a2 = b1/b2 ≠ c1/c2.",
+    "memory_tip": "Parallel lines: a1/a2 = b1/b2 ≠ c1/c2 (Inconsistent, no solution)."
+  },
+  {
+    "id": 112,
+    "question": "Common difference of AP: 1,3,5,7,……..\n1,3,5,7,...... అంకశ్రేడలో సామానయ భేదము",
+    "options": [
+      {
+        "key": 1,
+        "text": "1"
+      },
+      {
+        "key": 2,
+        "text": "3"
+      },
+      {
+        "key": 3,
+        "text": "2"
+      },
+      {
+        "key": 4,
+        "text": "5"
+      }
+    ],
+    "answer": 3,
+    "hint": "Degree of a non-zero constant polynomial is 0. Degree of zero polynomial is not defined.",
+    "memory_tip": "Constant polynomial degree = 0; Linear = 1; Quadratic = 2; Cubic = 3."
+  },
+  {
+    "id": 113,
+    "question": "The fourth term of the AP whose first term is 10 and\ncommon difference is 5\nమొదటి పదము 10 మరియు సామానయ భేదము 5 గా గల\nఅంకశ్రేడలో నలగవ పదము",
+    "options": [
+      {
+        "key": 1,
+        "text": "10"
+      },
+      {
+        "key": 2,
+        "text": "15"
+      },
+      {
+        "key": 3,
+        "text": "20"
+      },
+      {
+        "key": 4,
+        "text": "25"
+      }
+    ],
+    "answer": 4,
+    "hint": "Remainder Theorem: When polynomial p(x) is divided by (x - a), remainder is p(a).",
+    "memory_tip": "Remainder = p(a). Factor theorem: (x - a) is a factor if p(a) = 0."
+  },
+  {
+    "id": 114,
+    "question": "Common difference in the AP: 3, 3 + √2, 3 + 2√2…..\nis\n3, 3 + √2, 3 + 2√2….. అంకశ్రేడ నందు సామానయ భేదము",
+    "options": [
+      {
+        "key": 1,
+        "text": "3 + √2"
+      },
+      {
+        "key": 2,
+        "text": "√2"
+      },
+      {
+        "key": 3,
+        "text": "√3"
+      },
+      {
+        "key": 4,
+        "text": "3 −√2"
+      }
+    ],
+    "answer": 2,
+    "hint": "Use identity: (a + b + c)^2 = a^2 + b^2 + c^2 + 2ab + 2bc + 2ca.",
+    "memory_tip": "Trinomial square expansion: (a+b+c)^2 = ∑a^2 + 2∑ab."
+  },
+  {
+    "id": 115,
+    "question": "Number of terms of the AP: 24,21,18,…..3\n24,21,18.......3  అంకశ్రేడ లోని పదాల సంఖ్య",
+    "options": [
+      {
+        "key": 1,
+        "text": "8"
+      },
+      {
+        "key": 2,
+        "text": "5"
+      },
+      {
+        "key": 3,
+        "text": "6"
+      },
+      {
+        "key": 4,
+        "text": "7"
+      }
+    ],
+    "answer": 1,
+    "hint": "If a + b + c = 0, then a^3 + b^3 + c^3 = 3abc.",
+    "memory_tip": "Conditional identity: a + b + c = 0 => a^3 + b^3 + c^3 = 3abc."
+  },
+  {
+    "id": 116,
+    "question": "The sum of the 10 terms of the AP: 2,7,12,….. is\n2,7,12........ అంకశ్రేడలో 10 పదాల మొతతం",
+    "options": [
+      {
+        "key": 1,
+        "text": "240"
+      },
+      {
+        "key": 2,
+        "text": "245"
+      },
+      {
+        "key": 3,
+        "text": "250"
+      },
+      {
+        "key": 4,
+        "text": "255"
+      }
+    ],
+    "answer": 2,
+    "hint": "Degree of product of polynomials = deg(p) + deg(q).",
+    "memory_tip": "Degree rule: deg(P × Q) = deg(P) + deg(Q)."
+  },
+  {
+    "id": 117,
+    "question": "The Sum of 10 terms of the AP: -0.5,-1.0,-1.5….. is\n-0.5,-1.0,-1.5….. అంకశ్రేడ నందు 10 పదాల మొతతము",
+    "options": [
+      {
+        "key": 1,
+        "text": "-30.5"
+      },
+      {
+        "key": 2,
+        "text": "27.5"
+      },
+      {
+        "key": 3,
+        "text": "-32.5"
+      },
+      {
+        "key": 4,
+        "text": "-27.5"
+      }
+    ],
+    "answer": 4,
+    "hint": "Substitute coordinates to check if a point lies on the line ax + by + c = 0.",
+    "memory_tip": "Point satisfies equation: LHS = RHS."
+  },
+  {
+    "id": 118,
+    "question": "Sum of first 14 terms of an AP is 1050 and its first\nterm is 10 then 20th term is\nఒక అంకశ్రేడలో మొదటి పదము 10 మరియు మొదటి 14 పదముల\nమొతతం 1050 అయిన 20 వ పదము",
+    "options": [
+      {
+        "key": 1,
+        "text": "200"
+      },
+      {
+        "key": 2,
+        "text": "225"
+      },
+      {
+        "key": 3,
+        "text": "250"
+      },
+      {
+        "key": 4,
+        "text": "275"
+      }
+    ],
+    "answer": 1,
+    "hint": "Solve system by substitution, elimination, or cross-multiplication method.",
+    "memory_tip": "Elimination: Multiply equations to match coefficients, then add/subtract."
+  },
+  {
+    "id": 119,
+    "question": "Which terms of the AP: 63,65,67,….. and 3,10,17,….\nAre equal\n63,65,67,….. మరియు 3,10,17,…. అంకశ్రేఢులలో ఎననవ\nపదము సమానము",
+    "options": [
+      {
+        "key": 1,
+        "text": "11"
+      },
+      {
+        "key": 2,
+        "text": "12"
+      },
+      {
+        "key": 3,
+        "text": "13"
+      },
+      {
+        "key": 4,
+        "text": "14"
+      }
+    ],
+    "answer": 3,
+    "hint": "Common difference of AP: d = a_(k+1) - a_k.",
+    "memory_tip": "d = Tn - T_(n-1). AP is constant if d=0, increasing if d>0, decreasing if d<0."
+  },
+  {
+    "id": 120,
+    "question": "17th term of an AP exceeds its 10th term by 7 then the\ncommon difference is\nఒక అంకశ్రేడలో 17 వ  పదము 10వ పదము కంటే 7 ఎకుకవ\nఅయిన సామానయ భేదము",
+    "options": [
+      {
+        "key": 1,
+        "text": "1"
+      },
+      {
+        "key": 2,
+        "text": "2"
+      },
+      {
+        "key": 3,
+        "text": "3"
+      },
+      {
+        "key": 4,
+        "text": "4"
+      }
+    ],
+    "answer": 1,
+    "hint": "Arithmetic Mean (AM) between a and b is (a + b) / 2.",
+    "memory_tip": "AM = (a + b)/2; Geometric Mean (GM) = √(ab); Harmonic Mean (HM) = 2ab/(a+b)."
+  },
+  {
+    "id": 121,
+    "question": "There is a path of one meter width running inside\nalong the perimeter of the park 30𝑚× 20𝑚, that has\nto be cemented. If 1 bag of cement is required to\ncement 4𝑚2 area, how many bags of cement would be\nrequired to construct the cement path?\n30 మీ ×20మీ పారుక లోపల అంచు వెంబడ 1 మీ వెడలుప గల బాట్\nఉంది. బాట్ను సిమంట్ చేయుట్కు 4 చ. మీ కు ఒక సిమంటు బసాత\nఅవసరం అయినచో బాట్ మొతతం సిమంటు చేయుట్కు ఎనిన బసాతల\nసిమంటు అవసరం ?",
+    "options": [
+      {
+        "key": 1,
+        "text": "96"
+      },
+      {
+        "key": 2,
+        "text": "196"
+      },
+      {
+        "key": 3,
+        "text": "24"
+      },
+      {
+        "key": 4,
+        "text": "49"
+      }
+    ],
+    "answer": 3,
+    "hint": "Path inside a rectangle: Inner dimensions = (L - 2w) and (B - 2w). Area of path = Outer Area - Inner Area.",
+    "memory_tip": "Area of path = LB - (L - 2w)(B - 2w) = 2w(L + B - 2w)."
+  },
+  {
+    "id": 122,
+    "question": "The area of a trapezium shaped field is 480𝑚2, the\ndistance between two parallel sides is 15𝑚 and one of\nthe parallel side is 20𝑚. Then the other parallel side is\n(in cm)\nట్రెపీజియం ఆకారం లో ఉనన ఒక పొలము వైశలయము 480 చ. మీ,\nరండు సమాంతర భుజాల మధ్య దూరము 15 మీ మరియు ఒక\nసమాంతర భుజం యొకక పొడవు 20 మీ అయినచో రండవ\nసమాంతర భుజం పొడవు(సం.మీ లలో)",
+    "options": [
+      {
+        "key": 1,
+        "text": "64"
+      },
+      {
+        "key": 2,
+        "text": "54"
+      },
+      {
+        "key": 3,
+        "text": "44"
+      },
+      {
+        "key": 4,
+        "text": "34"
+      }
+    ],
+    "answer": 3,
+    "hint": "Path outside a rectangle: Outer dimensions = (L + 2w) and (B + 2w). Area = 2w(L + B + 2w).",
+    "memory_tip": "Outer path area = (L + 2w)(B + 2w) - LB = 2w(L + B + 2w)."
+  },
+  {
+    "id": 123,
+    "question": "The area of a rhombus is 240𝑐𝑚2 and one of the\ndiagonals is 16𝑐𝑚 then the other diagonal length is\n(in cm)\nఒక రాంబస్ వైశలయం 240 చ. సం. మీ మరియు దాని కరణము లలో\nఒక దాని పొడవు 16 సం. మీ అయిన రండవ కరణము పొడవు\n(సం.మీ లలో)",
+    "options": [
+      {
+        "key": 1,
+        "text": "20"
+      },
+      {
+        "key": 2,
+        "text": "30"
+      },
+      {
+        "key": 3,
+        "text": "40"
+      },
+      {
+        "key": 4,
+        "text": "15"
+      }
+    ],
+    "answer": 2,
+    "hint": "Two central crossroads of width w: Area = w(L + B - w).",
+    "memory_tip": "Crossroads area = wL + wB - w^2 = w(L + B - w)."
+  },
+  {
+    "id": 124,
+    "question": "The shape of the top surface a table is a trapezium. If\nits parallel sides are 1m and 1.2𝑚 and perpendicular\ndistance between them is 0.8𝑚 then its area is (𝑖𝑛 𝑚2)\nఒక టేబుల్ పై ఉపరితలం ట్రెపీజియం ఆకారం లో ఉంది. దాని\nసమాంతర భుజాల పొడవులు 1 మీ  మరియు 1.2 మీ. వాటి మధ్య\nలంబదూరం 0.8 మీ అయిన దాని వైశలయం (చ. మీ లలో)",
+    "options": [
+      {
+        "key": 1,
+        "text": "88"
+      },
+      {
+        "key": 2,
+        "text": "8.8"
+      },
+      {
+        "key": 3,
+        "text": "0.88"
+      },
+      {
+        "key": 4,
+        "text": "880"
+      }
+    ],
+    "answer": 3,
+    "hint": "Area of triangle using Heron's formula: √[s(s - a)(s - b)(s - c)], where s = (a + b + c)/2.",
+    "memory_tip": "Heron's formula: Δ = √[s(s-a)(s-b)(s-c)], semi-perimeter s = (a+b+c)/2."
+  },
+  {
+    "id": 125,
+    "question": "The diagonal of a quadrilateral shapes field is 24𝑚 and\nthe perpendiculars dropped on it from the remaining\nopposite vertices are 8𝑚 and 13𝑚. The area of the\nfield is (𝑖𝑛 𝑚2)\nఒక మైదానం చతురుుజ ఆకారం లో ఉంది దాని కరణము 24 మీ\nమరియు దానికి ఎదుట్ శీరాాలు నుండ గీసిన లంబముల పొడవులు\nవరుసగా 8 మీ మరియు 13 మీ. ఆ మైదానం వైశలయం (మీ2 లలో)",
+    "options": [
+      {
+        "key": 1,
+        "text": "152"
+      },
+      {
+        "key": 2,
+        "text": "252"
+      },
+      {
+        "key": 3,
+        "text": "150"
+      },
+      {
+        "key": 4,
+        "text": "250"
+      }
+    ],
+    "answer": 2,
+    "hint": "Area of equilateral triangle = (√3 / 4) * side^2. Height = (√3 / 2) * side.",
+    "memory_tip": "Equilateral triangle: Area = (√3/4)a^2, Altitude = (√3/2)a."
+  },
+  {
+    "id": 126,
+    "question": "The floor of a building consists of 3000 tiles which are\nin rhombus shape and each of its diagonals are 45𝑐𝑚\nand 30𝑐𝑚 in length. The total cost of polishing the\nfloor at ₹4 per m2 is (in rupees)\nఒక భవనం లోని నేల మొతతం మీద రాంబస్ ఆకారం గల 3000\nటైల్స పరిచారు రాంబస్ యొకక కరణములు వరుసగా 45 సం. మీ\nమరియు 30 సం. మీ పొడవులు కల్గ ఉననవి. ఆ భవనం యొకక\nనేలను పాల్ష్ చేయుట్కు ఒక చ. మీ కు ₹4 వంతున అగు మొతతం\nఖ్రుి (రూపాయిలలో)",
+    "options": [
+      {
+        "key": 1,
+        "text": "810"
+      },
+      {
+        "key": 2,
+        "text": "81"
+      },
+      {
+        "key": 3,
+        "text": "270"
+      },
+      {
+        "key": 4,
+        "text": "2025"
+      }
+    ],
+    "answer": 1,
+    "hint": "Area of parallelogram = Base × Height.",
+    "memory_tip": "Parallelogram area = b × h = ab sin θ."
+  },
+  {
+    "id": 127,
+    "question": "Total surface area of a cuboid is\nదీరఘ ఘనం యొకక సంపూరణతల వైశలయం",
+    "options": [
+      {
+        "key": 1,
+        "text": "2(𝑙ℎ+ 𝑏ℎ)"
+      },
+      {
+        "key": 2,
+        "text": "2(𝑙ℎ+ 𝑏𝑙)"
+      },
+      {
+        "key": 3,
+        "text": "2(𝑙ℎ+ 𝑏ℎ+ 𝑙𝑏)"
+      },
+      {
+        "key": 4,
+        "text": "(𝑙ℎ+ 𝑏ℎ+ 𝑙𝑏)"
+      }
+    ],
+    "answer": 3,
+    "hint": "Area of rhombus = 1/2 × d1 × d2.",
+    "memory_tip": "Rhombus area = half of product of diagonals."
+  },
+  {
+    "id": 128,
+    "question": "Two cubes each with side “b” are joined to form a\ncuboid. The surface area of a cuboid is\nప్రతి భుజం “b” గా గల రండు సమఘనలను జోడంచి దీరఘ\nనం\nచేశరు. ఈ దీరఘ\nనం ఉపరితల వైశలయం",
+    "options": [
+      {
+        "key": 1,
+        "text": "18 b2"
+      },
+      {
+        "key": 2,
+        "text": "12 b2"
+      },
+      {
+        "key": 3,
+        "text": "10 b2"
+      },
+      {
+        "key": 4,
+        "text": "8 b2"
+      }
+    ],
+    "answer": 3,
+    "hint": "Area of circle = πr^2; Circumference = 2πr.",
+    "memory_tip": "Circle: A = πr^2 = πd^2/4, C = 2πr = πd."
+  },
+  {
+    "id": 129,
+    "question": "After the surface area of a cube is painted, the cube is\ncut into 64 smaller cubes of same dimensions. How\nmany have no face painted?\nఒక సమఘనము యొకక ఉపరితలానికి రంగు వేసిన తరువాత ఆ\nఘనమును 64 సమాన చినన ఘనలుగా విభజించిరి వీటిలో\nఎనినంటికి ఒకక ముఖానికి కూడా రంగు వేయబడ ఉండదు?",
+    "options": [
+      {
+        "key": 1,
+        "text": "4"
+      },
+      {
+        "key": 2,
+        "text": "6"
+      },
+      {
+        "key": 3,
+        "text": "8"
+      },
+      {
+        "key": 4,
+        "text": "10"
+      }
+    ],
+    "answer": 3,
+    "hint": "Area of sector = (θ / 360°) × πr^2. Length of arc = (θ / 360°) × 2πr.",
+    "memory_tip": "Sector area = (θ/360)πr^2 = 1/2 × l × r."
+  },
+  {
+    "id": 130,
+    "question": "An aquarium is in the form of a cuboid whose external\nmeasures are 80𝑐𝑚× 30𝑐𝑚× 40𝑐𝑚. The capacity of\naquarium in litres is\nదీరఘ ఘనకారంలో గల ఒక ఆకవరియం బాహ్యయ కొలతలు\n80 సం. మీ × 30 సం. మీ × 40 సం. మీ. అయిన ఆ అకవరియం\nయొకక పరిమాణము ల్లట్రలో",
+    "options": [
+      {
+        "key": 1,
+        "text": "24"
+      },
+      {
+        "key": 2,
+        "text": "56"
+      },
+      {
+        "key": 3,
+        "text": "72"
+      },
+      {
+        "key": 4,
+        "text": "96"
+      }
+    ],
+    "answer": 4,
+    "hint": "Perimeter of semi-circle = πr + 2r = r(π + 2) ≈ 36r/7.",
+    "memory_tip": "Semi-circle perimeter = πr + 2r = r(22/7 + 2) = 36r/7."
+  },
+  {
+    "id": 131,
+    "question": "The height of a cylinder whose radius is 7𝑐𝑚 and the\nlateral surface area 660 𝑐𝑚2 is (in cm)\nఒక స్థాపం యొకక వాయసారధం 7 సం. మీ మరియు దాని ప్రకకతల\nవైశలయం 660 చ. సం. మీ అయితే దాని ఎతుత (సం. మీ లలో)",
+    "options": [
+      {
+        "key": 1,
+        "text": "15"
+      },
+      {
+        "key": 2,
+        "text": "9"
+      },
+      {
+        "key": 3,
+        "text": "6"
+      },
+      {
+        "key": 4,
+        "text": "5"
+      }
+    ],
+    "answer": 1,
+    "hint": "Total surface area of cuboid = 2(lb + bh + hl); Volume = l × b × h.",
+    "memory_tip": "Cuboid: TSA = 2(lb+bh+hl), LSA = 2h(l+b), Vol = lbh."
+  },
+  {
+    "id": 132,
+    "question": "Formula to find total surface area of cylinder is\nస్థాపం సంపూరణతల వైశలయం కనుగొనుట్కు స్థత్రం",
+    "options": [
+      {
+        "key": 1,
+        "text": "2𝜋𝑟ℎ"
+      },
+      {
+        "key": 2,
+        "text": "𝜋𝑟2ℎ"
+      },
+      {
+        "key": 3,
+        "text": "2𝜋𝑟(𝑟+ ℎ)"
+      },
+      {
+        "key": 4,
+        "text": "𝜋𝑟(𝑟+ ℎ)"
+      }
+    ],
+    "answer": 3,
+    "hint": "Diagonal of a cuboid = √(l^2 + b^2 + h^2). Diagonal of cube = a√3.",
+    "memory_tip": "Longest rod in a room = √(l^2 + b^2 + h^2)."
+  },
+  {
+    "id": 133,
+    "question": "1 Liter = _______ 𝑐𝑚3\n1 ల్లట్ర్ =_______ సం. మీ3",
+    "options": [
+      {
+        "key": 1,
+        "text": "10"
+      },
+      {
+        "key": 2,
+        "text": "100"
+      },
+      {
+        "key": 3,
+        "text": "1000"
+      },
+      {
+        "key": 4,
+        "text": "10000"
+      }
+    ],
+    "answer": 3,
+    "hint": "Volume of cube = a^3; Total surface area = 6a^2; Lateral surface area = 4a^2.",
+    "memory_tip": "Cube: Vol = a^3, TSA = 6a^2, LSA = 4a^2."
+  },
+  {
+    "id": 134,
+    "question": "A godown is in the form of a cuboid of measures\n60𝑚× 40𝑚× 30𝑚. How many cuboidal boxes can\nbe stored in it if the volume of one box is 0.8𝑚3?\nఒక గోడౌను 60 మీ × 40 మీ × 30 మీ కొలతలు గల దీరఘ\nనం\nరూపంలో ఉంది. ఒక పెట్ట ఘన పరిమాణం 0.8 మీ3 అయితే\nఅందులో ఎనిన పెట్టలను నిలవ చేయవచుి ?",
+    "options": [
+      {
+        "key": 1,
+        "text": "90"
+      },
+      {
+        "key": 2,
+        "text": "900"
+      },
+      {
+        "key": 3,
+        "text": "9000"
+      },
+      {
+        "key": 4,
+        "text": "90000"
+      }
+    ],
+    "answer": 4,
+    "hint": "Curved surface area of cylinder = 2πrh; Total surface area = 2πr(r + h).",
+    "memory_tip": "Cylinder: CSA = 2πrh, TSA = 2πr(h + r), Vol = πr^2h."
+  },
+  {
+    "id": 135,
+    "question": "A rectangular piece of paper 11𝑐𝑚× 4𝑐𝑚 is folded\nwithout over lapping to make a cylinder of height 4𝑐𝑚\nits base diameter is (in 𝑐𝑚)\n11 సం. మీ × 4 సం. మీ కొలతలు గల దీరఘ చతురస్రాకార కాగతం\nఒక దాని పై ఒకటి అవరించకుండా 4 సం. మీ ఎతుత గల ఒక\nస్థాపంగా మడవ బడంది. స్థాపం యొకక భూ వాయసారధం\n(సం. మీ లలో)",
+    "options": [
+      {
+        "key": 1,
+        "text": "3.5"
+      },
+      {
+        "key": 2,
+        "text": "7"
+      },
+      {
+        "key": 3,
+        "text": "7 4"
+      },
+      {
+        "key": 4,
+        "text": "14"
+      }
+    ],
+    "answer": 1,
+    "hint": "Volume of right circular cylinder = πr^2h.",
+    "memory_tip": "Cylinder Volume = Base area × Height = πr^2h."
+  },
+  {
+    "id": 136,
+    "question": "The height of a cuboid whose base area 180𝑐𝑚2 and\nvolume 900𝑐𝑚3 is (𝑖𝑛 𝑐𝑚)\nభూ వైశలయం 180 సం. మీ2 మరియు ఘన పరిమానం\n900 సం. మీ3 గా గల దీరఘ\nనం ఎతుత (సం. మీ లలో)",
+    "options": [
+      {
+        "key": 1,
+        "text": "0.5"
+      },
+      {
+        "key": 2,
+        "text": "5"
+      },
+      {
+        "key": 3,
+        "text": "2.5"
+      },
+      {
+        "key": 4,
+        "text": "1.25"
+      }
+    ],
+    "answer": 2,
+    "hint": "Slant height of cone: l = √(r^2 + h^2).",
+    "memory_tip": "Cone: l = √(r^2 + h^2), CSA = πrl, TSA = πr(l + r), Vol = 1/3 πr^2h."
+  },
+  {
+    "id": 137,
+    "question": "A milk tank is in the form of cylinder whose radius is\n1.5𝑚 and length is 7𝑚. Find the quantity of milk in\nliters that can be stored in the tank?\nఒక పాల టాయంకు స్థాపాకారం లో ఉంది దీని వాయసారధం 1.5 మీ\nమరియు పొడవు 7 మీ. టాయంకు లో ఎనిన ల్లట్రల పాలను\nనిలవచేయగలము?",
+    "options": [
+      {
+        "key": 1,
+        "text": "49500"
+      },
+      {
+        "key": 2,
+        "text": "4950"
+      },
+      {
+        "key": 3,
+        "text": "495"
+      },
+      {
+        "key": 4,
+        "text": "49.5"
+      }
+    ],
+    "answer": 1,
+    "hint": "Curved surface area of cone = πrl; Volume = 1/3 πr^2h.",
+    "memory_tip": "Volume of cone is 1/3 of cylinder with same base and height."
+  },
+  {
+    "id": 138,
+    "question": "If each edge of a cube is doubled its volume will\nbecomes ______ times to its original\nసమ ఘనం యొకక ప్రతి అంచును రటిటంపు చేస్తత దాని ఘనపరిమాణం\nమొదటి దానికి  ______  రటుల అగును",
+    "options": [
+      {
+        "key": 1,
+        "text": "2"
+      },
+      {
+        "key": 2,
+        "text": "4"
+      },
+      {
+        "key": 3,
+        "text": "6"
+      },
+      {
+        "key": 4,
+        "text": "8"
+      }
+    ],
+    "answer": 4,
+    "hint": "Surface area of sphere = 4πr^2; Volume = 4/3 πr^3.",
+    "memory_tip": "Sphere: Surface Area = 4πr^2, Volume = 4/3 πr^3."
+  },
+  {
+    "id": 139,
+    "question": "Given a cylindrical tank, in which situation will you\nfind volume\nఒక స్థాపాకార టాయంకు ఇచిిన ,మీరు ఏ సందరాులలో దాని\nఘనపరిమాణం కనుగొంటారు\n(a)\nTo find how much it can hold\nఅది ఎంత నిలవ చేయగలదో కనుగొనడానికి\n(b)   Number of cement bags required to plaster it\nదానిని పాలసటరీంగ్ చేయడానికి అవసరమైన సిమంటు బసాతల\nసంఖ్య కనుగొనటానికి\n(c)\nTo find the number of smaller tanks that can be\nfilled with water from it\nదానిలో ఉనన న్నటిని నింపడానికి అవసరమయ్యయ చినన\nటాయంకుల సంఖ్య కనుగొనటానికి",
+    "options": [
+      {
+        "key": 1,
+        "text": "a and c"
+      },
+      {
+        "key": 2,
+        "text": "a and b"
+      },
+      {
+        "key": 3,
+        "text": "b and c"
+      },
+      {
+        "key": 4,
+        "text": "All  a, b, c"
+      }
+    ],
+    "answer": 1,
+    "hint": "Hemisphere: Curved surface area = 2πr^2; Total surface area = 3πr^2; Volume = 2/3 πr^3.",
+    "memory_tip": "Hemisphere: CSA = 2πr^2, TSA = 3πr^2, Vol = 2/3 πr^3."
+  },
+  {
+    "id": 140,
+    "question": "Water is pouring into a cuboidal reservoir at the rate of\n60 liters per minute. If the volume of reservoir is\n108𝑚3 then it will take to fill the reservoir (𝑖𝑛 ℎ𝑜𝑢𝑟𝑠)\nఒక దీరఘ\nనకార జలాశయం లోనికి నిమిషానికి 60 ల్లట్రల వంతున\nన్నరు చేరుతుంది. జలాశయం ఘనపరిమాణం 108 ఘ. మీ అయిన\nజలాశయం నింపడానికి పటుట సమయం (గంట్లలో)",
+    "options": [
+      {
+        "key": 1,
+        "text": "1800"
+      },
+      {
+        "key": 2,
+        "text": "3"
+      },
+      {
+        "key": 3,
+        "text": "30"
+      },
+      {
+        "key": 4,
+        "text": "300"
+      }
+    ],
+    "answer": 3,
+    "hint": "When a solid is recast into another shape, the volume remains conserved.",
+    "memory_tip": "Conservation of volume: Volume of original solid = Volume of new solid(s)."
+  },
+  {
+    "id": 141,
+    "question": "The height and the slant height of a cone are 21𝑐𝑚 and\n28𝑐𝑚 respectively then its volume is (𝑖𝑛 𝑐𝑚3)\nశంఖువు ఎతుత మరియు ఏట్వాలు ఎతతలు వరుసగా 21 సం. మీ,\n28 సం. మీ అయిన శంఖువు యొకక ఘనపరిమాణం\n(ఘ. సం. మీ లలో)",
+    "options": [
+      {
+        "key": 1,
+        "text": "7546"
+      },
+      {
+        "key": 2,
+        "text": "7645"
+      },
+      {
+        "key": 3,
+        "text": "7564"
+      },
+      {
+        "key": 4,
+        "text": "7465"
+      }
+    ],
+    "answer": 1,
+    "hint": "Given height h = 21 cm, slant height l. Find radius r = √(l^2 - h^2).",
+    "memory_tip": "Cone relation: r = √(l^2 - h^2)."
+  },
+  {
+    "id": 142,
+    "question": "A right triangle ABC with sides 5𝑐𝑚, 12𝑐𝑚 and 13𝑐𝑚\nis revolved about the side 12𝑐𝑚 then the volume of\nsolid so obtained is (𝑖𝑛 𝑐𝑚3)\n5 సం.మీ, 12 సం.మీ, 13 సం.మీ భుజాలుగా గల లంబకోణ\nత్రిభుజం ABC, 12 సం.మీ  భుజం వెంబడ భ్రమణం చేయగా\nఏరపడే ఘనవస్తతవు ఘనపరిమాణం (ఘ.సం.మీ లలో)",
+    "options": [
+      {
+        "key": 1,
+        "text": "100𝜋"
+      },
+      {
+        "key": 2,
+        "text": "720 𝜋"
+      },
+      {
+        "key": 3,
+        "text": "24 𝜋"
+      },
+      {
+        "key": 4,
+        "text": "72 𝜋"
+      }
+    ],
+    "answer": 1,
+    "hint": "Find volume or surface area using standard formulas.",
+    "memory_tip": "Surface Area / Volume application."
+  },
+  {
+    "id": 143,
+    "question": "The amount of water displaced by a solid spherical ball\nof diameter 0.21𝑚 (𝑖𝑛 𝑙𝑖𝑡𝑒𝑟𝑠)\n0.21 మీ వాయసం కల్గన ఘనగోళాకారం బంతి దావరా సాాన భ్రంశం\nచెందిన న్నటి పరిమాణం (ల్ల. లలో)",
+    "options": [
+      {
+        "key": 1,
+        "text": "4.851"
+      },
+      {
+        "key": 2,
+        "text": "48.51"
+      },
+      {
+        "key": 3,
+        "text": "485.1"
+      },
+      {
+        "key": 4,
+        "text": "4851"
+      }
+    ],
+    "answer": 1,
+    "hint": "Displacement by sphere = Volume of sphere = 4/3 πr^3.",
+    "memory_tip": "Archimedes principle: Water displaced = volume of submerged body."
+  },
+  {
+    "id": 144,
+    "question": "The curved surface area of cone is 𝜋𝑟𝑙 then its total\nsurface area is\nఒక శంఖువు వక్రతల వైశలయం 𝜋𝑟𝑙 అయిన దాని సంపూరణతల\nవైశలయం",
+    "options": [
+      {
+        "key": 1,
+        "text": "𝜋𝑟𝑙+ 𝜋𝑟"
+      },
+      {
+        "key": 2,
+        "text": "𝜋𝑟𝑙+ 2𝜋𝑟"
+      },
+      {
+        "key": 3,
+        "text": "𝜋𝑟𝑙+ 𝜋𝑟2"
+      },
+      {
+        "key": 4,
+        "text": "𝜋𝑟𝑙+ 2𝜋𝑟2"
+      }
+    ],
+    "answer": 3,
+    "hint": "Total surface area of cone = Curved Surface Area + Base Area = πrl + πr^2.",
+    "memory_tip": "TSA of cone = πrl + πr^2 = πr(l + r)."
+  },
+  {
+    "id": 145,
+    "question": "The sum of the probabilities of all the elementary\nevents of an experiment is\nఒక ప్రయోగం యొకక అన్నన ప్రాథమిక ఘట్నల సంభావయతల  మొతతం",
+    "options": [
+      {
+        "key": 1,
+        "text": "0"
+      },
+      {
+        "key": 2,
+        "text": "1"
+      },
+      {
+        "key": 3,
+        "text": "2"
+      },
+      {
+        "key": 4,
+        "text": "10"
+      }
+    ],
+    "answer": 2,
+    "hint": "Sum of probabilities of all elementary events of an experiment is always equal to 1.",
+    "memory_tip": "P(E1) + P(E2) + ... + P(En) = 1."
+  },
+  {
+    "id": 146,
+    "question": "The probability of certain event is\nనిశ్చిత ఘట్న యొకక సంభావయత",
+    "options": [
+      {
+        "key": 1,
+        "text": "0"
+      },
+      {
+        "key": 2,
+        "text": "1 2"
+      },
+      {
+        "key": 3,
+        "text": "1"
+      },
+      {
+        "key": 4,
+        "text": "1 3"
+      }
+    ],
+    "answer": 3,
+    "hint": "Probability of a sure / certain event is 1.",
+    "memory_tip": "Certain event: P(E) = 1. Probability range: 0 ≤ P(E) ≤ 1."
+  },
+  {
+    "id": 147,
+    "question": "The probability of an impossible event is\nఅసాధ్య ఘట్న యొకక సంభావయత",
+    "options": [
+      {
+        "key": 1,
+        "text": "2 3"
+      },
+      {
+        "key": 2,
+        "text": "1"
+      },
+      {
+        "key": 3,
+        "text": "0"
+      },
+      {
+        "key": 4,
+        "text": "1 2"
+      }
+    ],
+    "answer": 3,
+    "hint": "Probability of an impossible event is 0.",
+    "memory_tip": "Impossible event: P(E) = 0."
+  },
+  {
+    "id": 148,
+    "question": "The probability of drawing a king card from a well-\nshuffled deck of 52 cards is\nబాగుగా కలపబడన 52 కారుీలు గల పేక ముకకల కట్ట నుండ రాజు\nకారుీను తీయు సంభావయత",
+    "options": [
+      {
+        "key": 1,
+        "text": "1 26"
+      },
+      {
+        "key": 2,
+        "text": "1 13"
+      },
+      {
+        "key": 3,
+        "text": "3 53"
+      },
+      {
+        "key": 4,
+        "text": "1 12"
+      }
+    ],
+    "answer": 2,
+    "hint": "Deck of 52 cards contains 4 kings. P(King) = 4 / 52 = 1 / 13.",
+    "memory_tip": "P(King) = Number of kings / Total cards = 4/52 = 1/13."
+  },
+  {
+    "id": 149,
+    "question": "The probability of drawing a face card from well-\nshuffled deck of 52 cards is\nబాగుగా కలపబడన 52 కారుీలు గల పేక ముకకల కట్ట నుండ ముఖ్\nకారుీను తీయు సంభావయత",
+    "options": [
+      {
+        "key": 1,
+        "text": "3 13"
+      },
+      {
+        "key": 2,
+        "text": "2 13"
+      },
+      {
+        "key": 3,
+        "text": "1 13"
+      },
+      {
+        "key": 4,
+        "text": "3 52"
+      }
+    ],
+    "answer": 1,
+    "hint": "Face cards are King, Queen, Jack (3 per suit × 4 suits = 12 cards). P(Face) = 12 / 52 = 3 / 13.",
+    "memory_tip": "Face cards: 12 cards. P = 12/52 = 3/13."
+  },
+  {
+    "id": 150,
+    "question": "The probability of getting an even number when a die\nis thrown ones\nఒక పాచికను ఒక సారి దొరిలస్తత సరిసంఖ్య ను పొందు సంభావయత",
+    "options": [
+      {
+        "key": 1,
+        "text": "1 3"
+      },
+      {
+        "key": 2,
+        "text": "1 2"
+      },
+      {
+        "key": 3,
+        "text": "1 6"
+      },
+      {
+        "key": 4,
+        "text": "5 6"
+      }
+    ],
+    "answer": 2,
+    "hint": "A standard die has numbers {1, 2, 3, 4, 5, 6}. Even numbers: {2, 4, 6} (3 outcomes). P(Even) = 3 / 6 = 1 / 2.",
+    "memory_tip": "P(Even) = 3/6 = 1/2."
+  },
+  {
+    "id": 151,
+    "question": "The probability of drawing a white marble randomly\nfrom a certain box contains 5 red marbles, 8 white\nmarbles and 4 green marbles.\n5 ఎర్రని, 8 తెలలని మరియు 4 ఆకుపచి గోళీలు గల ఒక పెట్ట నుండ\nయాదృచిికంగా ఒక తెలలని గోళిని తీయు సంభావయత",
+    "options": [
+      {
+        "key": 1,
+        "text": "5 17"
+      },
+      {
+        "key": 2,
+        "text": "4 17"
+      },
+      {
+        "key": 3,
+        "text": "12 17"
+      },
+      {
+        "key": 4,
+        "text": "8 17"
+      }
+    ],
+    "answer": 4,
+    "hint": "Probability = Number of favorable outcomes / Total possible outcomes.",
+    "memory_tip": "P(E) = n(E) / n(S)."
+  },
+  {
+    "id": 152,
+    "question": "The winning probability of a player A in a game with\nplayer B is 0.35. Then the winning probability of\nplayer B is\nఒకానొక ఆట్లో A ఆట్గాడు, B ఆట్గాడతో గెలుపొందే సంభావయత\n0.35. అయితే B ఆట్గాడు గెలుపొందే సంభావయత",
+    "options": [
+      {
+        "key": 1,
+        "text": "0.35"
+      },
+      {
+        "key": 2,
+        "text": "0.55"
+      },
+      {
+        "key": 3,
+        "text": "0.65"
+      },
+      {
+        "key": 4,
+        "text": "0.75"
+      }
+    ],
+    "answer": 3,
+    "hint": "P(winning) + P(losing) = 1. If P(losing) is 0.35, P(winning) = 1 - 0.35 = 0.65.",
+    "memory_tip": "Complementary event: P(A) + P(not A) = 1."
+  },
+  {
+    "id": 153,
+    "question": "In a normal year the probability of celebrating two\nfriends their birth day on same day is\nఒక సాధారణ సంవతసరంలో ఇదదరు స్తనహితులు ఒక రోజు తమ\nపుటిటన రోజును జరుపుకొనే సంభావయత",
+    "options": [
+      {
+        "key": 1,
+        "text": "1 2"
+      },
+      {
+        "key": 2,
+        "text": "1 365"
+      },
+      {
+        "key": 3,
+        "text": "1 366"
+      },
+      {
+        "key": 4,
+        "text": "1 24"
+      }
+    ],
+    "answer": 2,
+    "hint": "In a normal year (365 days), probability of a specific event occurring on an exact day.",
+    "memory_tip": "Normal year: 365 days. Probability = 1/365."
+  },
+  {
+    "id": 154,
+    "question": "When two dice are thrown the probability of getting\nsame number on the top of dice is\nరండు పాచికలు ఒకసారి దొరిలంచినపుడు రండంటిపై ముఖాలపై ఒక\nఅంకెను పొందే సంభావయత",
+    "options": [
+      {
+        "key": 1,
+        "text": "1 6"
+      },
+      {
+        "key": 2,
+        "text": "5 36"
+      },
+      {
+        "key": 3,
+        "text": "13 36"
+      },
+      {
+        "key": 4,
+        "text": "1 4"
+      }
+    ],
+    "answer": 1,
+    "hint": "When two dice are thrown, total outcomes = 36. Doublets: (1,1), (2,2), (3,3), (4,4), (5,5), (6,6) = 6 outcomes. P = 6/36 = 1/6.",
+    "memory_tip": "Doublets on two dice: 6/36 = 1/6."
+  },
+  {
+    "id": 155,
+    "question": "The probability of getting at least one head when two\ncoins tossed at a time\nఒకసారి రండు నణేలు ఎగురవేసినప్పుడు కన్నసం ఒక బొమి పడే\nసంభావయత",
+    "options": [
+      {
+        "key": 1,
+        "text": "0.25"
+      },
+      {
+        "key": 2,
+        "text": "0.50"
+      },
+      {
+        "key": 3,
+        "text": "0.75"
+      },
+      {
+        "key": 4,
+        "text": "1.0"
+      }
+    ],
+    "answer": 3,
+    "hint": "When two coins are tossed, outcomes: {HH, HT, TH, TT}. At least one head: {HH, HT, TH} (3 outcomes). P = 3/4 = 0.75.",
+    "memory_tip": "At least one head = 1 - P(no head) = 1 - 1/4 = 3/4 = 0.75."
+  },
+  {
+    "id": 156,
+    "question": "The probability of getting a head when a coin is tossed\nones is\nఒక నణేనిన ఒకసారి ఎగుర వేసినప్పుడు బొమి పడే సంభావయత",
+    "options": [
+      {
+        "key": 1,
+        "text": "0"
+      },
+      {
+        "key": 2,
+        "text": "1"
+      },
+      {
+        "key": 3,
+        "text": "1 2"
+      },
+      {
+        "key": 4,
+        "text": "− 1 2"
+      }
+    ],
+    "answer": 3,
+    "hint": "Tossing a single fair coin has 2 outcomes {H, T}. P(Head) = 1 / 2.",
+    "memory_tip": "Coin toss: P(Head) = 1/2 = 0.5."
+  },
+  {
+    "id": 157,
+    "question": "One of the point of trisection of the line segment\njoining points (2, −2) and (−7, 4)\n(2, −2) మరియు (−7, 4) బందువులను కలుపు రేఖాఖ్ండము\nయొకక ఒక త్రిధాకరణ బందువు",
+    "options": [
+      {
+        "key": 1,
+        "text": "(0, 0)"
+      },
+      {
+        "key": 2,
+        "text": "(2, 0)"
+      },
+      {
+        "key": 3,
+        "text": "(−1, 0)"
+      },
+      {
+        "key": 4,
+        "text": "(−7, 0)"
+      }
+    ],
+    "answer": 3,
+    "hint": "Points of trisection divide the segment in ratios 1:2 and 2:1 using section formula.",
+    "memory_tip": "Section formula: [(m1*x2 + m2*x1)/(m1+m2), (m1*y2 + m2*y1)/(m1+m2)]."
+  },
+  {
+    "id": 158,
+    "question": "If (𝑥, 𝑦) is equidistant from (7, 1) and (3, 5) then\nrelation between 𝑥 and 𝑦 is\n(𝑥, 𝑦) బందువు (7, 1) మరియు (3, 5) లకు సమాన దూరములో\nఉనన 𝑥 , 𝑦 ల మధ్య సంబంధ్ము",
+    "options": [
+      {
+        "key": 1,
+        "text": "𝑥−𝑦= 2"
+      },
+      {
+        "key": 2,
+        "text": "𝑥+ 𝑦= 2"
+      },
+      {
+        "key": 3,
+        "text": "2𝑥+ 𝑦= 0"
+      },
+      {
+        "key": 4,
+        "text": "𝑥−2𝑦= 5"
+      }
+    ],
+    "answer": 1,
+    "hint": "Distance formula: d = √[(x2 - x1)^2 + (y2 - y1)^2]. Equate distances and simplify.",
+    "memory_tip": "Equidistant point condition: PA = PB <=> PA^2 = PB^2. Gives x - y = 2."
+  },
+  {
+    "id": 159,
+    "question": "The distance between the points (4, 0) and (8, 0) is\n(in units)\n(4, 0) మరియు (8, 0) బందువుల మధ్యదూరము (యూనిట్లో\n)",
+    "options": [
+      {
+        "key": 1,
+        "text": "0"
+      },
+      {
+        "key": 2,
+        "text": "6"
+      },
+      {
+        "key": 3,
+        "text": "12"
+      },
+      {
+        "key": 4,
+        "text": "4"
+      }
+    ],
+    "answer": 4,
+    "hint": "Distance between (x1, y) and (x2, y) on horizontal line = |x2 - x1| = |8 - 4| = 4.",
+    "memory_tip": "Distance along parallel to x-axis = |x2 - x1|."
+  },
+  {
+    "id": 160,
+    "question": "If three points are collinear the area of triangle formed\nby those three points is (in sq. units)\nసరేఖీయాలు అయిన 3 బందువులచే ఏరపడే త్రిభుజ వైశలయం\n(చ. ప్రమాణలలో)",
+    "options": [
+      {
+        "key": 1,
+        "text": "3"
+      },
+      {
+        "key": 2,
+        "text": "0"
+      },
+      {
+        "key": 3,
+        "text": "1"
+      },
+      {
+        "key": 4,
+        "text": "10"
+      }
+    ],
+    "answer": 2,
+    "hint": "Collinear points lie on the same straight line, so area of triangle formed by them is 0.",
+    "memory_tip": "Collinear condition: Area of triangle = 0."
+  },
+  {
+    "id": 161,
+    "question": "The distance between the points (𝑥, 7) and (1, 15) is\n10 the value of 𝑥 is\n(𝑥, 7), (1, 15) ల మధ్య దూరం 10 యూనిటుల అయిన 𝑥 విలువ",
+    "options": [
+      {
+        "key": 1,
+        "text": "7 or -5"
+      },
+      {
+        "key": 2,
+        "text": "-7 or 5"
+      },
+      {
+        "key": 3,
+        "text": "5 or -5"
+      },
+      {
+        "key": 4,
+        "text": "0 or 5"
+      }
+    ],
+    "answer": 1,
+    "hint": "Use distance formula √[(x - 1)^2 + (7 - 15)^2] = d. Solve for x.",
+    "memory_tip": "Distance formula: (x - 1)^2 + (-8)^2 = d^2."
+  },
+  {
+    "id": 162,
+    "question": "(−4, 6), (2, −2) and (2, 5) are vertices of a triangle\nthen centroid is\n(−4, 6), (2, −2) మరియు (2, 5) త్రిభుజ శీరాాలుగా గల త్రిభుజ\nగురుతవ కంద్రము",
+    "options": [
+      {
+        "key": 1,
+        "text": "(3, 0)"
+      },
+      {
+        "key": 2,
+        "text": "(0, 3)"
+      },
+      {
+        "key": 3,
+        "text": "(−4, 5)"
+      },
+      {
+        "key": 4,
+        "text": "(6, 2)"
+      }
+    ],
+    "answer": 2,
+    "hint": "Centroid formula: G = [(x1 + x2 + x3)/3, (y1 + y2 + y3)/3]. (-4+2+2)/3 = 0/3 = 0; (6-2+5)/3 = 9/3 = 3.",
+    "memory_tip": "Centroid G = (∑x/3, ∑y/3) = (0, 3)."
+  },
+  {
+    "id": 163,
+    "question": "The distance between the points (0, 0) and (7, 4) is\n(in units)\n(0, 0), (7, 4)  బందువుల మధ్య దూరము ( యూనిట్లో\n)",
+    "options": [
+      {
+        "key": 1,
+        "text": "7"
+      },
+      {
+        "key": 2,
+        "text": "4"
+      },
+      {
+        "key": 3,
+        "text": "√65"
+      },
+      {
+        "key": 4,
+        "text": "√89"
+      }
+    ],
+    "answer": 3,
+    "hint": "Distance from origin (0,0) to (x, y) is √(x^2 + y^2) = √(7^2 + 4^2) = √(49 + 16) = √65.",
+    "memory_tip": "Distance from origin = √(x^2 + y^2) = √65."
+  },
+  {
+    "id": 164,
+    "question": "Coordinates of the point which divides the line\nsegment joining the points (4, −3) and (8, 5) in the\nratio 3:1 is\n(4, −3) మరియు (8, 5) బందువులను కలుపు రేఖా ఖ్ండానిన 3:1\nనిషపతిత లో విభజించే బందువు నిరూపకాలు",
+    "options": [
+      {
+        "key": 1,
+        "text": "(7, 3)"
+      },
+      {
+        "key": 2,
+        "text": "(3, 7)"
+      },
+      {
+        "key": 3,
+        "text": "(10, 3)"
+      },
+      {
+        "key": 4,
+        "text": "(7, 10)"
+      }
+    ],
+    "answer": 1,
+    "hint": "Apply section formula for internal division.",
+    "memory_tip": "Section formula: x = (mx2 + nx1)/(m+n), y = (my2 + ny1)/(m+n)."
+  },
+  {
+    "id": 165,
+    "question": "Centroid of a triangle divides the median in the ratio\nత్రిభుజ గురుతవ కంద్రం మధ్యగత రేఖ్ను విభజించు నిషపతిత",
+    "options": [
+      {
+        "key": 1,
+        "text": "1:1"
+      },
+      {
+        "key": 2,
+        "text": "2:5"
+      },
+      {
+        "key": 3,
+        "text": "2:1"
+      },
+      {
+        "key": 4,
+        "text": "5:3"
+      }
+    ],
+    "answer": 3,
+    "hint": "The centroid of a triangle divides each median in the ratio 2 : 1 from the vertex.",
+    "memory_tip": "Centroid ratio: Vertex to Centroid : Centroid to Midpoint = 2 : 1."
+  },
+  {
+    "id": 166,
+    "question": "The radius of the circle whose centre is (3, 2) and\npasses through (−5, 6) is (in units)\nబందువు(−5, 6) గుండా పోవు వృతతం యొకక కంద్రం (3, 2)\nఅయిన దాని వాయసారధము (యూనిట్లో\n)",
+    "options": [
+      {
+        "key": 1,
+        "text": "4"
+      },
+      {
+        "key": 2,
+        "text": "4√5"
+      },
+      {
+        "key": 3,
+        "text": "√5"
+      },
+      {
+        "key": 4,
+        "text": "2√3"
+      }
+    ],
+    "answer": 2,
+    "hint": "Radius = Distance from center to any point on circle. Use distance formula.",
+    "memory_tip": "Radius r = √[(x2-x1)^2 + (y2-y1)^2]."
+  },
+  {
+    "id": 167,
+    "question": "Midpoint of the line segment joining the points (3, 0)\nand (−1, 4) is\n(3, 0) మరియు (−1, 4) బందువులను కలుపు రేఖా ఖ్ండ మదయ\nబందు నిరూపకాలు",
+    "options": [
+      {
+        "key": 1,
+        "text": "(0, 0)"
+      },
+      {
+        "key": 2,
+        "text": "(2, 1)"
+      },
+      {
+        "key": 3,
+        "text": "(1, 2)"
+      },
+      {
+        "key": 4,
+        "text": "(3, 4)"
+      }
+    ],
+    "answer": 3,
+    "hint": "Midpoint formula: M = [(x1 + x2)/2, (y1 + y2)/2].",
+    "memory_tip": "Midpoint M = ((x1+x2)/2, (y1+y2)/2)."
+  },
+  {
+    "id": 168,
+    "question": "If (1, 2), (4, 𝑦), (𝑥, 6) and (3, 5) are vertices of a\nparallelogram then taken in an order value of 𝑥 and 𝑦\nare\n(1, 2), (4, 𝑦), (𝑥, 6) మరియు (3, 5) లు వరుసగా ఒక\nసమాంతర చతురుుజ శీరాాలయిన 𝑥, 𝑦 ల విలువలు",
+    "options": [
+      {
+        "key": 1,
+        "text": "𝑥= 3, 𝑦= 10"
+      },
+      {
+        "key": 2,
+        "text": "𝑥= 0, 𝑦= 10"
+      },
+      {
+        "key": 3,
+        "text": "𝑥= 3, 𝑦= 6"
+      },
+      {
+        "key": 4,
+        "text": "𝑥= 6, 𝑦= 3"
+      }
+    ],
+    "answer": 4,
+    "hint": "In a parallelogram, diagonals bisect each other: Midpoint of AC = Midpoint of BD.",
+    "memory_tip": "Parallelogram diagonal property: Midpoint(AC) = Midpoint(BD). Equate x and y coordinates."
+  },
+  {
+    "id": 169,
+    "question": "The first use of the idea of ‘sine’ in the way we use it\ntoday by\nమనం  ఈ రోజులోల ఉపయోగస్తతనన ‘sine’ అనే భావన మొట్ట\nమొదటి సారిగా ప్రసాతవించిన వారు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Bhaskaracharya భాసకరా చారుయడు"
+      },
+      {
+        "key": 2,
+        "text": "Varahamihara వరాహ్యమీహ్యర"
+      },
+      {
+        "key": 3,
+        "text": "Aryabhata ఆరయభట్ట"
+      },
+      {
+        "key": 4,
+        "text": "Srinivasa Ramanujan శ్రీనివాస రామానుజన్"
+      }
+    ],
+    "answer": 3,
+    "hint": "The concept of 'ardha-jya' or 'jya' (sine) was introduced by Aryabhata in Aryabhatiya (499 AD).",
+    "memory_tip": "Historical fact: Aryabhata introduced 'jya' which translated through Arabic into Latin 'sinus' (sine)."
+  },
+  {
+    "id": 170,
+    "question": "If tan 𝐴= 4\n3 then sin 𝐴=\ntan 𝐴= 4\n3 అయిన sin 𝐴=",
+    "options": [
+      {
+        "key": 1,
+        "text": "3 5"
+      },
+      {
+        "key": 2,
+        "text": "4 5"
+      },
+      {
+        "key": 3,
+        "text": "5 4"
+      },
+      {
+        "key": 4,
+        "text": "3 4"
+      }
+    ],
+    "answer": 2,
+    "hint": "If tan A = 4/3, opposite = 4, adjacent = 3 => hypotenuse = √(4^2 + 3^2) = 5. sin A = opp/hyp = 4/5.",
+    "memory_tip": "Pythagorean triplet (3, 4, 5): tan A = 4/3 => sin A = 4/5, cos A = 3/5."
+  },
+  {
+    "id": 171,
+    "question": "In ∆𝐴𝐵𝐶, right angled at B, 𝐴𝐵= 24𝑐𝑚, 𝐵𝐶= 7𝑐𝑚\nthen cos 𝐶 =\n∆𝐴𝐵𝐶  లో లంబ కోణం B వదద ఉంది మరియు 𝐴𝐵= 24సం. మీ,\n𝐵𝐶= 7సం. మీ అయిన  cos 𝐶 =",
+    "options": [
+      {
+        "key": 1,
+        "text": "25 24"
+      },
+      {
+        "key": 2,
+        "text": "24 25"
+      },
+      {
+        "key": 3,
+        "text": "7 25"
+      },
+      {
+        "key": 4,
+        "text": "7 24"
+      }
+    ],
+    "answer": 3,
+    "hint": "AB = 24, BC = 7 => AC = √(24^2 + 7^2) = √(576 + 49) = √625 = 25. sin C = opp/hyp = AB/AC or BC/AC depending on angle.",
+    "memory_tip": "Right triangle (7, 24, 25): sin θ = opposite / hypotenuse = 7/25."
+  },
+  {
+    "id": 172,
+    "question": "sin 45° + cos 45° =",
+    "options": [
+      {
+        "key": 1,
+        "text": "√2"
+      },
+      {
+        "key": 2,
+        "text": "1 2√2"
+      },
+      {
+        "key": 3,
+        "text": "1 √2"
+      },
+      {
+        "key": 4,
+        "text": "2√2"
+      }
+    ],
+    "answer": 1,
+    "hint": "sin 45° = 1/√2, cos 45° = 1/√2. sin 45° + cos 45° = 1/√2 + 1/√2 = 2/√2 = √2.",
+    "memory_tip": "Values: sin 45° = cos 45° = 1/√2. Sum = 2/√2 = √2."
+  },
+  {
+    "id": 173,
+    "question": "2 tan 30°\n1+tan2 30° =",
+    "options": [
+      {
+        "key": 1,
+        "text": "sin 60°"
+      },
+      {
+        "key": 2,
+        "text": "sin 30°"
+      },
+      {
+        "key": 3,
+        "text": "cos 60°"
+      },
+      {
+        "key": 4,
+        "text": "tan 60°"
+      }
+    ],
+    "answer": 1,
+    "hint": "2 tan 30° / (1 + tan^2 30°) = sin(2 × 30°) = sin 60°.",
+    "memory_tip": "Trigonometric identity: sin 2θ = 2 tan θ / (1 + tan^2 θ)."
+  },
+  {
+    "id": 174,
+    "question": "If sin(𝐴−𝐵) =\n1\n2, cos(𝐴+ 𝐵) =\n1\n2 ,\n0° < 𝐴+ 𝐵≤90°, 𝐴> 𝐵 then the value of 𝐴\nsin(𝐴−𝐵) =\n1\n2, cos(𝐴+ 𝐵) =\n1\n2 ,\n0° < 𝐴+ 𝐵≤90°, 𝐴> 𝐵 అయితే 𝐴 యొకక విలువ",
+    "options": [
+      {
+        "key": 1,
+        "text": "45°"
+      },
+      {
+        "key": 2,
+        "text": "15°"
+      },
+      {
+        "key": 3,
+        "text": "60°"
+      },
+      {
+        "key": 4,
+        "text": "30°"
+      }
+    ],
+    "answer": 1,
+    "hint": "Use angle sum or difference formula: sin(A - B) value to find angle.",
+    "memory_tip": "Standard trig values: sin 30° = 1/2, sin 45° = 1/√2, sin 60° = √3/2, sin 90° = 1."
+  },
+  {
+    "id": 175,
+    "question": "tan2 𝜃−sec2 𝜃=",
+    "options": [
+      {
+        "key": 1,
+        "text": "1"
+      },
+      {
+        "key": 2,
+        "text": "-1"
+      },
+      {
+        "key": 3,
+        "text": "2"
+      },
+      {
+        "key": 4,
+        "text": "1 2"
+      }
+    ],
+    "answer": 2,
+    "hint": "Recall fundamental identity: sec^2 θ - tan^2 θ = 1. Therefore, tan^2 θ - sec^2 θ = -1.",
+    "memory_tip": "Identity: 1 + tan^2 θ = sec^2 θ => tan^2 θ - sec^2 θ = -1."
+  },
+  {
+    "id": 176,
+    "question": "In a right triangle ABC, right angled at B, if tan 𝐴= 1\nthen 2 sin 𝐴cos 𝐴=\nలంబ కోణ త్రిభుజం ABC లో B వదద లంబకోణం కలదు\ntan 𝐴= 1 అయితే 2 sin 𝐴cos 𝐴=",
+    "options": [
+      {
+        "key": 1,
+        "text": "√2"
+      },
+      {
+        "key": 2,
+        "text": "1 √2"
+      },
+      {
+        "key": 3,
+        "text": "2√2"
+      },
+      {
+        "key": 4,
+        "text": "1"
+      }
+    ],
+    "answer": 4,
+    "hint": "Evaluate the trigonometric expression using standard triangle ratios.",
+    "memory_tip": "Trig evaluation: substitute values of sin, cos, or tan for 45°."
+  },
+  {
+    "id": 177,
+    "question": "tan 𝐴 × cot 𝐴=",
+    "options": [
+      {
+        "key": 1,
+        "text": "sin 𝐴 × cos 𝐴"
+      },
+      {
+        "key": 2,
+        "text": "cos 𝐴 × sec 𝐴"
+      },
+      {
+        "key": 3,
+        "text": "sec 𝐴 × 𝑐𝑜𝑠𝑒𝑐 𝐴"
+      },
+      {
+        "key": 4,
+        "text": "sin 𝐴 × sec 𝐴"
+      }
+    ],
+    "answer": 2,
+    "hint": "tan A × cot A = 1, and cos A × sec A = 1. Both equal 1.",
+    "memory_tip": "Reciprocal relations: tan A = 1/cot A, cos A = 1/sec A, sin A = 1/cosec A."
+  },
+  {
+    "id": 178,
+    "question": "sin 2𝐴= 2 sin 𝐴 is true when A=\nsin 2𝐴= 2 sin 𝐴 సతయమైతే A=",
+    "options": [
+      {
+        "key": 1,
+        "text": "0°"
+      },
+      {
+        "key": 2,
+        "text": "30°"
+      },
+      {
+        "key": 3,
+        "text": "45°"
+      },
+      {
+        "key": 4,
+        "text": "60°"
+      }
+    ],
+    "answer": 1,
+    "hint": "sin 2A = 2 sin A cos A. For this to equal 2 sin A, cos A must equal 1, which happens at A = 0°.",
+    "memory_tip": "When A = 0°: sin(0) = 0 and 2 sin(0) = 0."
+  },
+  {
+    "id": 179,
+    "question": "Which of the following is ‘tan A’ ratio\nక్రంది వానిలో ‘tan A’ నిషపతిత",
+    "options": [
+      {
+        "key": 1,
+        "text": "𝑜𝑝𝑝𝑜𝑠𝑖𝑡𝑒 𝑠𝑖𝑑𝑒 𝑡𝑜 𝐴 ℎ𝑦𝑝𝑜𝑡𝑒𝑛𝑢𝑠𝑒 𝐴 కు ఎదుటి భుజం కరణము"
+      },
+      {
+        "key": 2,
+        "text": "𝐴𝑑𝑗𝑎𝑐𝑒𝑛𝑡 𝑠𝑖𝑑𝑒 𝑡𝑜 𝐴 ℎ𝑦𝑝𝑜𝑡𝑒𝑛𝑢𝑠𝑒 𝐴 కు ఆసనన  భుజం కరణము"
+      },
+      {
+        "key": 3,
+        "text": "𝑜𝑝𝑝𝑜𝑠𝑖𝑡𝑒 𝑠𝑖𝑑𝑒 𝑡𝑜 𝐴 𝐴𝑑𝑗𝑎𝑐𝑒𝑛𝑡 𝑠𝑖𝑑𝑒 𝑡𝑜 𝐴 𝐴 కు ఎదుటి భుజం 𝐴 కు ఆసనన  భుజం"
+      },
+      {
+        "key": 4,
+        "text": "𝐴𝑑𝑗𝑎𝑐𝑒𝑛𝑡 𝑠𝑖𝑑𝑒 𝑡𝑜 𝐴 𝑜𝑝𝑝𝑜𝑠𝑖𝑡𝑒 𝑠𝑖𝑑𝑒 𝑡𝑜 𝐴 𝐴 కు ఆసనన  భుజం 𝐴 కు ఎదుటి భుజం"
+      }
+    ],
+    "answer": 3,
+    "hint": "In a right triangle, tan A = Opposite side / Adjacent side.",
+    "memory_tip": "SOH-CAH-TOA: tan θ = Opposite / Adjacent."
+  },
+  {
+    "id": 180,
+    "question": "sin 60° cos 30° + sin 30° cos 60° =",
+    "options": [
+      {
+        "key": 1,
+        "text": "0"
+      },
+      {
+        "key": 2,
+        "text": "2"
+      },
+      {
+        "key": 3,
+        "text": "1"
+      },
+      {
+        "key": 4,
+        "text": "2+√3 2"
+      }
+    ],
+    "answer": 3,
+    "hint": "Use identity: sin A cos B + cos A sin B = sin(A + B) = sin(60° + 30°) = sin 90° = 1.",
+    "memory_tip": "Compound angle formula: sin(A + B) = sin A cos B + cos A sin B. sin 90° = 1."
+  },
+  {
+    "id": 181,
+    "question": "If the length of the shadow of a person is equal to the\nheight of the person, then the angle of inclination of\nsun rays is\nఒక వయకిత న్నడ పొడవు ఆ వయకిత ఎతుత కు సమానమైన స్థరయ కిరణల\nపడే కోణము",
+    "options": [
+      {
+        "key": 1,
+        "text": "30°"
+      },
+      {
+        "key": 2,
+        "text": "60°"
+      },
+      {
+        "key": 3,
+        "text": "45°"
+      },
+      {
+        "key": 4,
+        "text": "90°"
+      }
+    ],
+    "answer": 3,
+    "hint": "If height of person = length of shadow (h = s), then tan θ = h / s = 1 => θ = 45°.",
+    "memory_tip": "When height = shadow: tan θ = 1 => Angle of elevation θ = 45°."
+  },
+  {
+    "id": 182,
+    "question": "The length of the shadow of a tower is √3 times the\nheight of the tower then the angle of inclination is\nఒక ట్వర్ యొకక న్నడ పొడవు దాని ఎతుతకు √3  రటుల అయిన పతన\nకోణం విలువ",
+    "options": [
+      {
+        "key": 1,
+        "text": "30°"
+      },
+      {
+        "key": 2,
+        "text": "60°"
+      },
+      {
+        "key": 3,
+        "text": "45°"
+      },
+      {
+        "key": 4,
+        "text": "90°"
+      }
+    ],
+    "answer": 1,
+    "hint": "Length of shadow = √3 × height. tan θ = height / shadow = h / (h√3) = 1/√3 => θ = 30°.",
+    "memory_tip": "tan θ = 1/√3 => Angle of elevation = 30°."
+  },
+  {
+    "id": 183,
+    "question": "A person observes the top of a pole at a point on the\nground 15m away from the foot of the tower at the\nangle of 60° then the height of the pole is (in m)\nఒక సాంభ పాదం నుండ 15 మీ దూరంలో గల ఒక బందువు నుండ\nఒక వయకిత ఆ సాంభ పై కొనను 60° కోణం తో గమనిస్తత ఆ సాంభం ఎతుత\n(మీ లలో)",
+    "options": [
+      {
+        "key": 1,
+        "text": "45"
+      },
+      {
+        "key": 2,
+        "text": "15√3"
+      },
+      {
+        "key": 3,
+        "text": "15 √3"
+      },
+      {
+        "key": 4,
+        "text": "30"
+      }
+    ],
+    "answer": 2,
+    "hint": "tan θ = Height / Base. Given distance and angle, find height = distance × tan θ.",
+    "memory_tip": "Height = Base × tan θ. For 30°: H = d × (1/√3); for 60°: H = d × √3."
+  },
+  {
+    "id": 184,
+    "question": "When the length of the shadow of a tower and the\nangle of inclination ‘𝜃’ is given then the trigonometric\nratio used to find the height of the tower is\nఒక ట్వర్ యొకక న్నడ పొడవు మరియు పతన కోణం ‘𝜃’\nఇచిినప్పుడు ఆ ట్వర్ ఎతుత ను కనుగొనడానికి ఉపయోగంచు\nత్రికోణమితీయ నిషపతిత",
+    "options": [
+      {
+        "key": 1,
+        "text": "sin 𝜃"
+      },
+      {
+        "key": 2,
+        "text": "cos 𝜃"
+      },
+      {
+        "key": 3,
+        "text": "tan 𝜃"
+      },
+      {
+        "key": 4,
+        "text": "sec 𝜃"
+      }
+    ],
+    "answer": 3,
+    "hint": "The trigonometric ratio relating height (opposite) and shadow (adjacent) is tan θ.",
+    "memory_tip": "tan θ = Opposite (height) / Adjacent (shadow)."
+  },
+  {
+    "id": 185,
+    "question": "A person observed the top of a flag pole at an angle of\n45° from the point on the ground which is 40m away\nfrom the foot of the flag pole then the height of flag\npole is (in m)\nఒక వయకిత జండా సాంభం నుండ 40 మీ దూరంలో గల ఒక బందువు\nనుండ ఆ జండా సాంభం పై కొనను 45° కోణముతో గమనించిన\nఆయన జండా సాంభం ఎతుత (మీ. లలో)",
+    "options": [
+      {
+        "key": 1,
+        "text": "40√3"
+      },
+      {
+        "key": 2,
+        "text": "40 √3"
+      },
+      {
+        "key": 3,
+        "text": "45"
+      },
+      {
+        "key": 4,
+        "text": "40"
+      }
+    ],
+    "answer": 4,
+    "hint": "Use right triangle trigonometry to calculate the required height.",
+    "memory_tip": "tan θ = flag height / distance."
+  },
+  {
+    "id": 186,
+    "question": "The ratio of height of a tree to the shadow of the tree is\n√3: 1 then the angle of inclination at that time is\nఒక చెటుట యొకక ఎతుత మరియు ఆ సమయంలో న్నడ పొడవుల నిషపతిత\n√3 ∶1 అయిన పతన కోణము విలువ",
+    "options": [
+      {
+        "key": 1,
+        "text": "30°"
+      },
+      {
+        "key": 2,
+        "text": "60°"
+      },
+      {
+        "key": 3,
+        "text": "45°"
+      },
+      {
+        "key": 4,
+        "text": "90°"
+      }
+    ],
+    "answer": 2,
+    "hint": "Ratio of height to shadow is √3 : 1 => tan θ = √3 => θ = 60°.",
+    "memory_tip": "tan θ = √3 => Angle of elevation θ = 60°."
+  },
+  {
+    "id": 187,
+    "question": "The length of metal wire required from the top of\nelectrical pole to a point which is 5m away from the\nfoot of an electrical pole making an angle of 60° with\nthe ground is (in m)\nఒక విదుయత్ సతంభము యొకక పై కొన నుండ ఆ సతంభ పాదం నకు\n5 మీ దూరంలో గల బందువు కు ఒక లోహపు తీగను భూమితో 60°\nచేయూనటుల కటుట్కు అవసరమగు తీగ పొడవు (మీ. లలో)",
+    "options": [
+      {
+        "key": 1,
+        "text": "5√3 2"
+      },
+      {
+        "key": 2,
+        "text": "10 √3"
+      },
+      {
+        "key": 3,
+        "text": "5√3"
+      },
+      {
+        "key": 4,
+        "text": "10"
+      }
+    ],
+    "answer": 4,
+    "hint": "Find hypotenuse using Pythagoras theorem or sin / cos ratio.",
+    "memory_tip": "Wire length = Hypotenuse = √(h^2 + d^2)."
+  },
+  {
+    "id": 188,
+    "question": "An observer 1.5m tall is 28.5m away from a chimney.\nThe angle of elevation of the top of the chimney from\nher eyes is 45°, the height of the chimney is (in m)\n1.5 మీ ఎతుత వునన ఒక పరిశీలకురాలు చిమీన నుండ 28.5 మీ\nదూరంలో వుననది. ఆమ తన కంటి నుండ చిమీన పై చివరకు చేస్త\nఊరధవ కోణం 45° అయిన ఆ చిమీన ఎతుత (మీ. లలో)",
+    "options": [
+      {
+        "key": 1,
+        "text": "28.5"
+      },
+      {
+        "key": 2,
+        "text": "30"
+      },
+      {
+        "key": 3,
+        "text": "57"
+      },
+      {
+        "key": 4,
+        "text": "27"
+      }
+    ],
+    "answer": 2,
+    "hint": "Total height = Observer's height + height above eye level = 1.5m + 28.5 × tan 45° = 1.5 + 28.5 = 30m.",
+    "memory_tip": "Total height = observer height + distance × tan 45° = 1.5 + 28.5 = 30 m."
+  },
+  {
+    "id": 189,
+    "question": "The angle of elevation of the top of a tower from the\npoint on the ground, which is 30m away from the foot\nof the tower is 30° then the height of the tower (in m)\nఒక ట్వర్ యొకక పై కొన ట్వర్ కు 30 మీ దూరం లో వునన బందువు\nనుండ 30° ఊరధవ కోణము చేసిన ట్వర్ యొకక ఎతుత (మీ. లలో)",
+    "options": [
+      {
+        "key": 1,
+        "text": "10 √3"
+      },
+      {
+        "key": 2,
+        "text": "20√3"
+      },
+      {
+        "key": 3,
+        "text": "30√3"
+      },
+      {
+        "key": 4,
+        "text": "10√3"
+      }
+    ],
+    "answer": 4,
+    "hint": "tan 30° = h / 30 => h = 30 × tan 30° = 30 / √3 = 10√3.",
+    "memory_tip": "tan 30° = 1/√3 => h = 30/√3 = 10√3 m."
+  },
+  {
+    "id": 190,
+    "question": "The angle formed by the line of sight with the\nhorizontal when the point being viewed is above the\nhorizontal level is\nపరిశీలకుడు చూస్త బందువు క్షితిజ సమాంతర రేఖ్కు ఎగువన వుంటే\nదృష్టట రేఖ్ క్షితిజ సమాంతర రేఖ్తో చేస్త కోణము",
+    "options": [
+      {
+        "key": 1,
+        "text": "Angle of elevation ఊరధవ కోణము"
+      },
+      {
+        "key": 2,
+        "text": "Angle of depression నిమన కోణము"
+      },
+      {
+        "key": 3,
+        "text": "Angle of inclination పతన కోణము"
+      },
+      {
+        "key": 4,
+        "text": "Alternate angle ఏకాంతర కోణము"
+      }
+    ],
+    "answer": 1,
+    "hint": "Angle above the horizontal line of sight to an elevated object is the Angle of Elevation (ఊర్ధ్వ కోణము).",
+    "memory_tip": "Looking UP = Angle of Elevation (ఊర్ధ్వ కోణం)."
+  },
+  {
+    "id": 191,
+    "question": "The angle formed by the line of sight with the\nhorizontal when the point being viewed is below the\nhorizontal level is\nపరిశీలకుడు చూస్త బందువు క్షితిజ సమాంతర రేఖ్కు దిగువన వుంటే\nదృష్టట రేఖ్ క్షితిజ సమాంతర రేఖ్తో చేస్త కోణము",
+    "options": [
+      {
+        "key": 1,
+        "text": "Angle of elevation ఊరధవ కోణము"
+      },
+      {
+        "key": 2,
+        "text": "Angle of depression నిమన కోణము"
+      },
+      {
+        "key": 3,
+        "text": "Angle of inclination పతన కోణము"
+      },
+      {
+        "key": 4,
+        "text": "Alternate angle ఏకాంతర కోణము"
+      }
+    ],
+    "answer": 2,
+    "hint": "Angle below the horizontal line of sight to a lower object is the Angle of Depression (నిమ్న కోణము).",
+    "memory_tip": "Looking DOWN = Angle of Depression (నిమ్న కోణం)."
+  },
+  {
+    "id": 192,
+    "question": "In ∆𝑃𝑄𝑅, right angle at ‘Q’. 𝑃𝑄= 3𝑐𝑚 and\n𝑃𝑅= 6𝑐𝑚 then the value of ∠𝑄𝑃𝑅=\n∆𝑃𝑄𝑅 లో ‘Q’ వదద లంబకోణము కలదు. 𝑃𝑄= 3సం. మీ\nమరియు 𝑃𝑅= 6సం. మీ అయిన ∠𝑄𝑃𝑅  విలువ",
+    "options": [
+      {
+        "key": 1,
+        "text": "30°"
+      },
+      {
+        "key": 2,
+        "text": "45°"
+      },
+      {
+        "key": 3,
+        "text": "60°"
+      },
+      {
+        "key": 4,
+        "text": "90°"
+      }
+    ],
+    "answer": 3,
+    "hint": "Find angle using sin θ = opposite / hypotenuse or cos θ = adjacent / hypotenuse.",
+    "memory_tip": "trig ratio value matches 60°."
+  },
+  {
+    "id": 193,
+    "question": "“Mathematics is the mirror of civilization” these are\nthe words given by\n“గణితము సాంసృతికి అదదము వంటిది” ఈ మాట్లు అననవారు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Hogben హ్యబేన్"
+      },
+      {
+        "key": 2,
+        "text": "Aristotil అరిసాటిల్"
+      },
+      {
+        "key": 3,
+        "text": "Lindsay ల్ండ్ స్త"
+      },
+      {
+        "key": 4,
+        "text": "Gauss గాస్"
+      }
+    ],
+    "answer": 1,
+    "hint": "“Mathematics is the mirror of civilization” was stated by Lancelot Hogben.",
+    "memory_tip": "Memory quote: Mirror of Civilization = Hogben (హాగ్ బెన్)."
+  },
+  {
+    "id": 194,
+    "question": "“Mathematics is gateway and key to all sciences”,\nStated by the mathematician is\n“సకల శసారలకు మూలం ‘గణితం’ అని చెపిపనది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Becon బేకన్"
+      },
+      {
+        "key": 2,
+        "text": "Locke లాక"
+      },
+      {
+        "key": 3,
+        "text": "Gauss గాస్"
+      },
+      {
+        "key": 4,
+        "text": "Lindsay ల్ండ్ స్త"
+      }
+    ],
+    "answer": 1,
+    "hint": "“Mathematics is the gateway and key to all sciences” was stated by Roger Bacon.",
+    "memory_tip": "Memory quote: Gateway and Key = Roger Bacon (రోజర్ బేకన్)."
+  },
+  {
+    "id": 195,
+    "question": "Author of the book “Elements”\n“ఎల్మంట్స” గ్రంధ్ రచయిత",
+    "options": [
+      {
+        "key": 1,
+        "text": "Pythagoras పైథాగరస్"
+      },
+      {
+        "key": 2,
+        "text": "Thales థేల్స"
+      },
+      {
+        "key": 3,
+        "text": "Rene Descarte రనెడెకారట"
+      },
+      {
+        "key": 4,
+        "text": "Euclid యూకిలడ్"
+      }
+    ],
+    "answer": 4,
+    "hint": "The classic mathematical treatise “Elements” (13 books) was written by Euclid of Alexandria.",
+    "memory_tip": "Euclid = Father of Geometry, Author of 'Elements'."
+  },
+  {
+    "id": 196,
+    "question": "Mathematics derived from two Greek words. One is\nmanthanien the other one is\nMathematics అనే ఆంగల పదం గ్రీకు భాషలోని రండు పదాల\nకలయికతో ఏరపడనది. అందులో ఒకటి manthanien అయిన\nరండవది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Technie"
+      },
+      {
+        "key": 2,
+        "text": "Tichnee"
+      },
+      {
+        "key": 3,
+        "text": "Techne"
+      },
+      {
+        "key": 4,
+        "text": "Tecne"
+      }
+    ],
+    "answer": 3,
+    "hint": "Mathematics is derived from Greek words: 'Mathema' (learning/knowledge) and 'Techne' (art/craft).",
+    "memory_tip": "Greek etymology: Mathema (learning) + Techne (art)."
+  },
+  {
+    "id": 197,
+    "question": "A mathematician who defined “Mathematics is the\nscience that draws necessary conclusions”, is\n“గణితం అంటే అవసరం అయిన నిరాదరణలను రాబటేట శసరం” అని\nనిరవచించిన గణిత శసరవేతత",
+    "options": [
+      {
+        "key": 1,
+        "text": "Benjamin peirce బంజిమన్ పియర్స"
+      },
+      {
+        "key": 2,
+        "text": "Aristotle అరిసాటిల్"
+      },
+      {
+        "key": 3,
+        "text": "Locke లాక్"
+      },
+      {
+        "key": 4,
+        "text": "Lindsay ల్ండ్ స్త"
+      }
+    ],
+    "answer": 1,
+    "hint": "“Mathematics is the science that draws necessary conclusions” was defined by Benjamin Peirce.",
+    "memory_tip": "Benjamin Peirce: 'Science that draws necessary conclusions'."
+  },
+  {
+    "id": 198,
+    "question": "Which of the following does not belong to the ‘nature\nof mathematics’\nక్రంది వాటిలో గణిత సవభావానికి చెందని అంశం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Chance to check సరిచూస్తకొనే అవకాశం"
+      },
+      {
+        "key": 2,
+        "text": "Mathematics is not logical గణిత తారికక మైనది కాదు"
+      },
+      {
+        "key": 3,
+        "text": "Accuracy ఖ్చిితతవం"
+      },
+      {
+        "key": 4,
+        "text": "Abstractness అమూరత లక్షణం"
+      }
+    ],
+    "answer": 2,
+    "hint": "Mathematics is inherently logical, precise, abstract, and deductive. Claiming it is 'not logical' is incorrect.",
+    "memory_tip": "Nature of Mathematics: Logical, Abstract, Exact, Systematic, Deductive."
+  },
+  {
+    "id": 199,
+    "question": "The objective that does not belongs to ‘Affective\ndomain’ is\n‘భావావేశ రంగానికి’ చెందని లక్షయము",
+    "options": [
+      {
+        "key": 1,
+        "text": "Receiving గ్రహించడం"
+      },
+      {
+        "key": 2,
+        "text": "Precision / sensitive స్తనిశ్చతతవం"
+      },
+      {
+        "key": 3,
+        "text": "Organisation వయవసాాపనం"
+      },
+      {
+        "key": 4,
+        "text": "Responding ప్రతిసపందించడం"
+      }
+    ],
+    "answer": 2,
+    "hint": "Affective domain (Krathwohl): Receiving, Responding, Valuing, Organization, Characterization. 'Precision' belongs to Psychomotor domain.",
+    "memory_tip": "Domains: Cognitive (Bloom), Affective (Krathwohl), Psychomotor (Simpson/Dave). Precision = Psychomotor."
+  },
+  {
+    "id": 200,
+    "question": "This objective belongs to ‘Affective domain’ is\n‘భావావేశ రంగానికి’ చెందిన లక్షయము",
+    "options": [
+      {
+        "key": 1,
+        "text": "Manipulation హసతలాఘవం"
+      },
+      {
+        "key": 2,
+        "text": "Naturalization సహజీకరణం"
+      },
+      {
+        "key": 3,
+        "text": "Sensitive స్తనిశ్చతతవం"
+      },
+      {
+        "key": 4,
+        "text": "Valuing విలువకట్టడం"
+      }
+    ],
+    "answer": 4,
+    "hint": "Valuing (విలువకట్టడం) is the 3rd level in Krathwohl's taxonomy of the Affective Domain.",
+    "memory_tip": "Affective hierarchy: Receiving -> Responding -> Valuing -> Organization -> Characterization."
+  },
+  {
+    "id": 201,
+    "question": "The name of the mathematician who revealed\napproximately the value of 𝜋 as 3.1416 is\n𝜋 విలువ స్థమారుగా 3.1416 అని మొదటిసారిగా తెల్పిన గణిత\nశసరవేతత",
+    "options": [
+      {
+        "key": 1,
+        "text": "Brahmagupta బ్రహి గుపత"
+      },
+      {
+        "key": 2,
+        "text": "Aryabhata ఆరయభట్ట"
+      },
+      {
+        "key": 3,
+        "text": "Bhaskracharya భాసకరాచారయ"
+      },
+      {
+        "key": 4,
+        "text": "Euclid యూకిలడ్"
+      }
+    ],
+    "answer": 2,
+    "hint": "Aryabhata gave the value of π as 3.1416 (62832 / 20000) and revealed it is approximately irrational.",
+    "memory_tip": "Aryabhata: π ≈ 62832/20000 = 3.1416 (Aryabhatiya)."
+  },
+  {
+    "id": 202,
+    "question": "“For common calculation, we can take 𝜋= √10”. This\nstatement was proposed by the mathematician\nసామానయ గణనలకు 𝜋= √10 గా తీస్తకొనవచుినని\nప్రతిపాదించిన గణిత శసరవేతత",
+    "options": [
+      {
+        "key": 1,
+        "text": "Bhaskaracharya భాసకరచారయ"
+      },
+      {
+        "key": 2,
+        "text": "Aryabhata ఆరయభట్ట"
+      },
+      {
+        "key": 3,
+        "text": "Brahma gupta బ్రహిగుపత"
+      },
+      {
+        "key": 4,
+        "text": "Euclid యూకిలడ్"
+      }
+    ],
+    "answer": 1,
+    "hint": "Bhaskaracharya in Lilavati mentioned practical approximations including taking π = √10.",
+    "memory_tip": "Bhaskaracharya II: Author of Lilavati and Bijaganita, π ≈ √10."
+  },
+  {
+    "id": 203,
+    "question": "“Prime numbers are infinite” statement was given by\n“ప్రధాన సంఖ్యలు అనంతం” అని చెపిపనవారు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Srinivasa Ramanujan శ్రీనివాస రామానుజన్"
+      },
+      {
+        "key": 2,
+        "text": "Euclid యూకిలడ్"
+      },
+      {
+        "key": 3,
+        "text": "Aryabhata ఆరయభట్ట"
+      },
+      {
+        "key": 4,
+        "text": "Bhaskracharya భాసకరాచారయ"
+      }
+    ],
+    "answer": 2,
+    "hint": "Euclid proved that the set of prime numbers is infinite (Euclid's Theorem on primes).",
+    "memory_tip": "Euclid: Infinitude of primes proof via contradiction."
+  },
+  {
+    "id": 204,
+    "question": "“The sum of three angles in a triangle is 180° or two\nright angles”. This statement was given by\n“త్రిభుజంలోని మూడు కోణల మొతతం 180° లేదా రండు\nలంబకోణలు”. అని చెపిపనవారు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Pythagoras పైథాగరస్"
+      },
+      {
+        "key": 2,
+        "text": "Euclid యూకిలడ్"
+      },
+      {
+        "key": 3,
+        "text": "Brahmagupta బ్రహిగుపత"
+      },
+      {
+        "key": 4,
+        "text": "Aryabhata ఆరయభట్ట"
+      }
+    ],
+    "answer": 1,
+    "hint": "The theorem that the sum of angles of a triangle is 180° was first proven by the Pythagorean school.",
+    "memory_tip": "Pythagoras school: Sum of 3 angles of triangle = 2 right angles (180°)."
+  },
+  {
+    "id": 205,
+    "question": "The teaching method considered as the ‘Product of\nthinking’ is\n‘ఆలోచన ఫల్తంగా’ వయవహరింపబడే గణిత బోధ్న పదదతి",
+    "options": [
+      {
+        "key": 1,
+        "text": "Laboratory method ప్రయోగశల పదదతి"
+      },
+      {
+        "key": 2,
+        "text": "Heuristic method అనేవషణ పదదతి"
+      },
+      {
+        "key": 3,
+        "text": "Analysis method విశ్శలషణ పదదతి"
+      },
+      {
+        "key": 4,
+        "text": "Synthesis method సంశ్శలషణ పదదతి"
+      }
+    ],
+    "answer": 4,
+    "hint": "Synthesis method starts from known facts and proceeds to unknown (leads to the final product/proof).",
+    "memory_tip": "Analysis = Breaking down (process of discovery); Synthesis = Combining (product of thought)."
+  },
+  {
+    "id": 206,
+    "question": "Who propagated Deductive method in mathematics\nగణిత శసరంలో ఎవరు నిగమన పదదతిని ప్రతిపాదించారు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Armstrong ఆర్ి సారంగ్"
+      },
+      {
+        "key": 2,
+        "text": "Cominius కొమిన్నయస్"
+      },
+      {
+        "key": 3,
+        "text": "Pestalozzi పెసాటలజీ"
+      },
+      {
+        "key": 4,
+        "text": "Bellord బలార్ీ"
+      }
+    ],
+    "answer": 2,
+    "hint": "Comenius strongly supported deductive approaches (general principle to specific instances) in educational pedagogy.",
+    "memory_tip": "Deductive method: General rule -> Specific examples (Comenius)."
+  },
+  {
+    "id": 207,
+    "question": "Who said that “Education is life”\n“విదయయ్య జీవితం” అని చెపిపనవారు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Young యంగ్"
+      },
+      {
+        "key": 2,
+        "text": "Kilpatric కిల్ పాట్రిక్"
+      },
+      {
+        "key": 3,
+        "text": "John Dewey జాన్ డ్యయయి"
+      },
+      {
+        "key": 4,
+        "text": "Stevenson స్టటవెనసన్"
+      }
+    ],
+    "answer": 3,
+    "hint": "John Dewey, the progressive philosopher and father of Pragmatism, proclaimed: 'Education is life itself, not preparation for life.'",
+    "memory_tip": "John Dewey: 'Education is not preparation for life; education is life itself.'"
+  },
+  {
+    "id": 208,
+    "question": "The method which leads from “particular to general” is\n“ప్రతేయక అంశం నుండ సాధారణ అంశనికి” దారి తీయు పదదతి",
+    "options": [
+      {
+        "key": 1,
+        "text": "Inductive ఆగమన"
+      },
+      {
+        "key": 2,
+        "text": "Deductive నిగమన"
+      },
+      {
+        "key": 3,
+        "text": "Analysis విశ్శలషణ"
+      },
+      {
+        "key": 4,
+        "text": "Synthesis సంశ్శలషణ"
+      }
+    ],
+    "answer": 1,
+    "hint": "Inductive method proceeds from Particular examples to General rule (Concrete to Abstract).",
+    "memory_tip": "Inductive = Particular to General, Known to Unknown, Concrete to Abstract."
+  },
+  {
+    "id": 209,
+    "question": "By using this method we come to know that the\n“problem solving procedure” only\nఈ పదదతి దావరా “సమసయ పరిషాకర విధానం మాత్రమే” తెలుస్తతంది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Synthesis సంశ్శలషణ"
+      },
+      {
+        "key": 2,
+        "text": "Analysis విశ్శలషణ"
+      },
+      {
+        "key": 3,
+        "text": "Project ప్రాజకుట"
+      },
+      {
+        "key": 4,
+        "text": "Deductive నిగమన"
+      }
+    ],
+    "answer": 2,
+    "hint": "Analysis method breaks the problem into parts to understand 'why' and find how the proof was discovered.",
+    "memory_tip": "Analysis = 'Unknown to Known' (Unveils the reasoning behind the solution)."
+  },
+  {
+    "id": 210,
+    "question": "This method proceeds from particular examples to\ngeneral rules of formulas is\nఉదాహరణ నుండ స్థత్రానిన తయారు చేస్త పదదతి",
+    "options": [
+      {
+        "key": 1,
+        "text": "Deductive నిగమన"
+      },
+      {
+        "key": 2,
+        "text": "Inductive ఆగమన"
+      },
+      {
+        "key": 3,
+        "text": "Synthesis సంశ్శలషణ"
+      },
+      {
+        "key": 4,
+        "text": "Analytic విశ్శలషణ"
+      }
+    ],
+    "answer": 2,
+    "hint": "Proceeding from specific examples to general formulas is the Inductive method.",
+    "memory_tip": "Inductive approach: Examples -> Observation -> Generalization / Formula."
+  },
+  {
+    "id": 211,
+    "question": "This is the convenient method to derive formula for\ncompound interest is\nచక్రవడ్డీ స్థత్రానిన రాబట్టా\nనికి అనువైన బోధ్న పదదతి",
+    "options": [
+      {
+        "key": 1,
+        "text": "Inductive method అగమన పదదతి"
+      },
+      {
+        "key": 2,
+        "text": "Deductive method నిగమన పదదతి"
+      },
+      {
+        "key": 3,
+        "text": "Analytic method విశ్శలషణ పదదతి"
+      },
+      {
+        "key": 4,
+        "text": "Synthetic method సంశ్శలషణ పదదతి"
+      }
+    ],
+    "answer": 1,
+    "hint": "Inductive method is the most natural and convenient method for students to discover and derive new mathematical formulas.",
+    "memory_tip": "Formula derivation in school math = Inductive method (followed by Deductive practice)."
+  },
+  {
+    "id": 212,
+    "question": "This method is based on the principles “learning by\ndoing” and “learning by observing” is\n“చేయడం దావరా నేరుికోవడం” , “పరిశీలన దావరా నేరుికోవడం”\nఅనే స్థత్రాలను కల్గ వునన బోధ్న పదదతి",
+    "options": [
+      {
+        "key": 1,
+        "text": "Inductive అగమన"
+      },
+      {
+        "key": 2,
+        "text": "Deductive నిగమన"
+      },
+      {
+        "key": 3,
+        "text": "Analytic విశ్శలషణ"
+      },
+      {
+        "key": 4,
+        "text": "Laboratory ప్రయోగశల"
+      }
+    ],
+    "answer": 4,
+    "hint": "Laboratory method in mathematics involves hands-on experiments, measurements, and practical verification.",
+    "memory_tip": "Laboratory method: 'Learning by doing' & 'Learning by observation' with mathematical equipment."
+  },
+  {
+    "id": 213,
+    "question": "This method is based on the principle “learning by\ndoing” is\n“చేయుట్ దావరా నేరుికోవట్ం” అనే స్థత్రం ఆధారంగా పనిచెయు\nపదదతి",
+    "options": [
+      {
+        "key": 1,
+        "text": "Project method ప్రాజక్ట పదదతి"
+      },
+      {
+        "key": 2,
+        "text": "Heuristic method అనేవషణ పదదతి"
+      },
+      {
+        "key": 3,
+        "text": "Problem solving సమసాయ సాధ్న"
+      },
+      {
+        "key": 4,
+        "text": "Deductive నిగమన"
+      }
+    ],
+    "answer": 1,
+    "hint": "Project method is an authentic purposeful activity carried out in natural settings, based on 'Learning by doing'.",
+    "memory_tip": "Project method (Kilpatrick / Dewey): Purposeful activity in real-life context."
+  },
+  {
+    "id": 214,
+    "question": "“A project is a bit of real life that has been imported\ninto school”. This definition was given by\n“పాఠశలలోనికి దిగుమతి చేసిన నిజ జీవిత భాగమే ప్రకలపన” అని\nనిరవచించినది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Kilpatrick కిల్ పాట్రిక్"
+      },
+      {
+        "key": 2,
+        "text": "Ballard బలార్ీ"
+      },
+      {
+        "key": 3,
+        "text": "Stevenson స్టటవెన్ సన్"
+      },
+      {
+        "key": 4,
+        "text": "Armstrong ఆర్ి సారంగ్"
+      }
+    ],
+    "answer": 2,
+    "hint": "“A project is a bit of real life that has been imparted into the school” is the definition by Ballard.",
+    "memory_tip": "Memory tip: 'Bit of real life in school' = Ballard definition of project."
+  },
+  {
+    "id": 215,
+    "question": "This is not a limitation to analytic method\nవిశ్శలషణ పదదతి పరిమితి కానిది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Lengthy method ఇది ఒక స్తదీరఘ పదదతి"
+      },
+      {
+        "key": 2,
+        "text": "It takes more time దీనికి ఎకుకవ సమయం పడుతుంది"
+      },
+      {
+        "key": 3,
+        "text": "We cannot solve problems with speed సమసయలను వేగంగా సాధించలేము"
+      },
+      {
+        "key": 4,
+        "text": "This is suitable for all kinds of problem ఇది అన్నన రకాల సమసయల సాధ్నకు అనువైనది"
+      }
+    ],
+    "answer": 4,
+    "hint": "Analysis method is lengthy and requires skilled guidance, but fosters deep logical thinking; it is not suited for quick routine syllabus completion.",
+    "memory_tip": "Limitation of Analysis: Time-consuming. Strength: Develops discovery & inquiry mindset."
+  },
+  {
+    "id": 216,
+    "question": "This is the time-saving teaching method\nసమయానిన పొదుపు చేస్త బోధ్న పదదతి",
+    "options": [
+      {
+        "key": 1,
+        "text": "Inductive method ఆగమన పదదతి"
+      },
+      {
+        "key": 2,
+        "text": "Synthetic method సంశ్శలషణ పదదతి"
+      },
+      {
+        "key": 3,
+        "text": "Analytic method విశ్శలషణ పదదతి"
+      },
+      {
+        "key": 4,
+        "text": "Heuristic method అనేవషణ పదదతి"
+      }
+    ],
+    "answer": 2,
+    "hint": "Synthetic method is concise, elegant, straightforward, and time-saving because it presents the finished proof directly.",
+    "memory_tip": "Synthetic method: Fast, neat, memory-friendly, time-saving."
+  },
+  {
+    "id": 217,
+    "question": "This item does not included in the unit plan\nసమగ్ర యూనిట్ పథకం లో లేని అంశం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Content analysis విషయ విశ్శలషణ"
+      },
+      {
+        "key": 2,
+        "text": "Teaching learning material బోధ్నభయసన సామగ్రి"
+      },
+      {
+        "key": 3,
+        "text": "Teaching method బోధ్న పదదతి"
+      },
+      {
+        "key": 4,
+        "text": "Objectives and specifications లక్ష్యయలు మరియు సపష్టటకరణలు"
+      }
+    ],
+    "answer": 3,
+    "hint": "A Unit Plan outlines sub-units, learning outcomes, teaching-learning activities, and assessment; specific step-by-step teaching methods are detailed in daily Lesson Plans.",
+    "memory_tip": "Unit Plan = Broad overview of topics & periods; Period Lesson Plan = Specific micro-steps."
+  },
+  {
+    "id": 218,
+    "question": "“The student explains in his own words”. Belongs to\nthis academic standard\n“విదాయరిధ సంత మాట్లోల వివరించుట్”. అనేది ఈ\nవిదాయప్రమాణమునకు చెందును",
+    "options": [
+      {
+        "key": 1,
+        "text": "Connection అను సంధానము"
+      },
+      {
+        "key": 2,
+        "text": "Communication వయకతపరచడం"
+      },
+      {
+        "key": 3,
+        "text": "Reasoning - proof కారణలు చెపపడం-నిరూపణలు"
+      },
+      {
+        "key": 4,
+        "text": "Representation - visualisation ప్రాతినిధ్య పరచడం - దృశీయకరణ"
+      }
+    ],
+    "answer": 2,
+    "hint": "Explaining mathematical concepts in one's own words represents the academic standard of Communication (వ్యక్తపరచడం).",
+    "memory_tip": "AP Academic Standards: Problem Solving, Reasoning & Proof, Communication, Connection, Representation."
+  },
+  {
+    "id": 219,
+    "question": "Which of the following item does not belong to\n5E – learning model?\nక్రంది వాటిలో 5E- అభయసన నమూన కు చెందని అంశం ఏది?",
+    "options": [
+      {
+        "key": 1,
+        "text": "Engage నిమగనం కావడం"
+      },
+      {
+        "key": 2,
+        "text": "Explore అనేవష్టంచడం"
+      },
+      {
+        "key": 3,
+        "text": "Explain వివరించడం"
+      },
+      {
+        "key": 4,
+        "text": "Experience అనుభవం"
+      }
+    ],
+    "answer": 4,
+    "hint": "Bloom's Cognitive Domain includes Knowledge, Comprehension, Application, Analysis, Synthesis, Evaluation.",
+    "memory_tip": "Cognitive levels: Remember -> Understand -> Apply -> Analyze -> Evaluate -> Create."
+  },
+  {
+    "id": 220,
+    "question": "“Pupils will prepare meaningful problems and solve\nthem”. This as one of the vision of school\nmathematics, is stated in\n“పిలలే అరధవంతమైన సమసయలు తయారు చేస్తకొని వారే సవయంగా\nపరిషకరిసాతరు”. వేనిలో ఇది పాఠశల సాాయి గణిత దృకపథంగా\nపేర్కకనబడంది",
+    "options": [
+      {
+        "key": 1,
+        "text": "NPE – 1986 & POA – 1982"
+      },
+      {
+        "key": 2,
+        "text": "NCF – 2005  & APSCF – 2011"
+      },
+      {
+        "key": 3,
+        "text": "NPE – 1986 & NCF – 2005"
+      },
+      {
+        "key": 4,
+        "text": "POA – 1992 & NCF – 2005"
+      }
+    ],
+    "answer": 2,
+    "hint": "Creating student-generated meaningful problems and real-world math exploration is emphasized by NCF-2005 & APSCF-2011.",
+    "memory_tip": "NCF-2005 / APSCF-2011: Shift from rote learning to problem posing and problem solving."
+  },
+  {
+    "id": 221,
+    "question": "“Importance to core elements and reduction in course\ncontent in curriculum”, proposed by\n“ పాఠయ ప్రణళిక విషయ భారానిన తగగంచి మౌల్క అంశలకు\nప్రాధానయత” ఇవావలనే ప్రతిపాదన దీనిలోన్నది",
+    "options": [
+      {
+        "key": 1,
+        "text": "NPE – 1986"
+      },
+      {
+        "key": 2,
+        "text": "POA – 1992"
+      },
+      {
+        "key": 3,
+        "text": "NCF – 2005"
+      },
+      {
+        "key": 4,
+        "text": "NEP – 2020"
+      }
+    ],
+    "answer": 4,
+    "hint": "NEP-2020 emphasizes reduction in curriculum content to core essentials to make space for critical thinking and inquiry-based learning.",
+    "memory_tip": "NEP 2020: Focus on core elements, reduction in course content, experiential learning."
+  },
+  {
+    "id": 222,
+    "question": "“Education must move towards less content and more\ntowards learning”. This is proposed by\n“తకుకవ విషయం, ఎకుకవ ఆలోచన దిశగా విదయ సాగట్ం” అని\nప్రతిపాదించినది",
+    "options": [
+      {
+        "key": 1,
+        "text": "NEP – 2020"
+      },
+      {
+        "key": 2,
+        "text": "NCF – 2005"
+      },
+      {
+        "key": 3,
+        "text": "POA – 1992"
+      },
+      {
+        "key": 4,
+        "text": "NPE – 1986"
+      }
+    ],
+    "answer": 1,
+    "hint": "“Education must move towards less content and more learning about how to think critically and solve problems” is a key vision of NEP 2020.",
+    "memory_tip": "NEP 2020 Key Mantra: Less content, more critical thinking and holistic development."
+  },
+  {
+    "id": 223,
+    "question": "“A problem corner can be started by the maths club,\nwith suitable puzzles and mathematical problems at all\nlevels”. This recommendation is made by\n“అన్నన సాాయిలకు ఉపయుకతమైన పజిల్స, గణిత సమసయలలో సమసయ\nకారనర్ ను గణిత కలబ్ ప్రారంభించవచుి “. అని సిఫ్యరస్త చేసినది",
+    "options": [
+      {
+        "key": 1,
+        "text": "NPE – 1986"
+      },
+      {
+        "key": 2,
+        "text": "POA – 1992"
+      },
+      {
+        "key": 3,
+        "text": "NEP – 2020"
+      },
+      {
+        "key": 4,
+        "text": "APSCF – 2011"
+      }
+    ],
+    "answer": 4,
+    "hint": "Establishing a 'Problem Corner' / 'Ganitha Moola' via school mathematics club is recommended in APSCF-2011.",
+    "memory_tip": "APSCF-2011: Mathematics club activities, problem corner for fostering mathematical curiosity."
+  },
+  {
+    "id": 224,
+    "question": "“Bilingual teaching learning material should be\navailable”. In which of the following this was\nmentioned\n“దివ భాషా బోధ్నభయసన సామగ్రి ని అందుబాటులో ఉంచాల్”. అని\nదేనిలో ప్రసాతవించబడనది",
+    "options": [
+      {
+        "key": 1,
+        "text": "NCF – 2005"
+      },
+      {
+        "key": 2,
+        "text": "APSCF – 2011"
+      },
+      {
+        "key": 3,
+        "text": "NEP – 2020"
+      },
+      {
+        "key": 4,
+        "text": "NPE – 1986"
+      }
+    ],
+    "answer": 3,
+    "hint": "NEP 2020 strongly recommends preparing bilingual teaching-learning materials (TLMs) and textbooks.",
+    "memory_tip": "NEP 2020 Language policy: Bilingual textbooks and learning materials for regional medium learners."
+  },
+  {
+    "id": 225,
+    "question": "In the Herbartian steps of a lesson plan, the step\n“Generalization” comes before this step\nపాఠయపథకం లోని హెరాారిాయన్ సోపానలలో\n“సాధారణీకరించుట్” అనే సోపానం, ఈ  సోపాననికి ముందు\nవెంట్నే ఉంటుంది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Presentation సమరపణ"
+      },
+      {
+        "key": 2,
+        "text": "Preparation సననహం"
+      },
+      {
+        "key": 3,
+        "text": "Recapitulation పునరివమరే"
+      },
+      {
+        "key": 4,
+        "text": "Association సంసరగం"
+      }
+    ],
+    "answer": 1,
+    "hint": "Herbartian 5 steps: 1. Preparation, 2. Presentation (సమర్పణ), 3. Association / Comparison, 4. Generalization, 5. Application.",
+    "memory_tip": "Herbartian steps sequence: Preparation -> Presentation -> Comparison -> Generalization -> Application."
+  },
+  {
+    "id": 226,
+    "question": "“Children learn to enjoy mathematics rather than fear\nit”. This suggestion is form\n“గణిత అభయసన భయం కల్గంచేలా కాక, పిలలు\nఆనందించేదిగా\nఉండాల్” అని స్థచించినది",
+    "options": [
+      {
+        "key": 1,
+        "text": "NCF – 2005, APSCF – 2011"
+      },
+      {
+        "key": 2,
+        "text": "NCF – 2005, RTE – 2009"
+      },
+      {
+        "key": 3,
+        "text": "RTE – 2009, APSCF – 2011"
+      },
+      {
+        "key": 4,
+        "text": "NCF – 2005, NPE – 1986"
+      }
+    ],
+    "answer": 1,
+    "hint": "“Children learn to enjoy mathematics rather than fear it” is the foundational vision of NCF-2005 and APSCF-2011.",
+    "memory_tip": "NCF-2005 Math Vision: Children enjoy math, see it as part of life, and talk about math."
+  },
+  {
+    "id": 227,
+    "question": "The educationist who suggested to follow certain rules\nin framing mathematical instructional objectives\nగణిత బోధ్న లక్ష్యయలను రూపొందించుట్లో కొనిన నియమాలు\nపాటించాలని స్థచించిన విదాయవేతత",
+    "options": [
+      {
+        "key": 1,
+        "text": "Breslich బ్రెసిలచ్"
+      },
+      {
+        "key": 2,
+        "text": "Munnik మునినక్"
+      },
+      {
+        "key": 3,
+        "text": "Frust ఫ్రస్ట"
+      },
+      {
+        "key": 4,
+        "text": "Herbart హెరాార్ట"
+      }
+    ],
+    "answer": 3,
+    "hint": "Educational guidelines for textbook and lesson design were systematically structured by educationist Frust.",
+    "memory_tip": "Textbook and curriculum design recommendations = Frust."
+  },
+  {
+    "id": 228,
+    "question": "In the Herbartian steps of a lesson plan, the step\nAssociation comes before this step\nపాఠయపథకం లోని హెరాారిాయన్ సోపానలలో “సంసరగం” అనే\nసోపానం, ఈ  సోపాననికి ముందుగా ఉంటుంది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Presentation సమరపణ"
+      },
+      {
+        "key": 2,
+        "text": "Application వినియోగం"
+      },
+      {
+        "key": 3,
+        "text": "Recapitulation పునరివమరే"
+      },
+      {
+        "key": 4,
+        "text": "Generalisation సాధారణీకరణ"
+      }
+    ],
+    "answer": 4,
+    "hint": "In Herbartian steps, drawing common principles or mathematical rules after comparison is Generalisation (సాధారణీకరణ).",
+    "memory_tip": "Generalisation = Deriving the rule, formula, or law after comparing multiple examples."
+  },
+  {
+    "id": 229,
+    "question": "The evaluation tool that reflect a student’s personality\nis\nఒక విదాయరిధ యొకక వయకితవం ప్రతి బంబంచే మూలాయంకన\nసాధ్నము",
+    "options": [
+      {
+        "key": 1,
+        "text": "Check list చెక్ ల్స్తట"
+      },
+      {
+        "key": 2,
+        "text": "Rating scale రేటింగు స్తకలు"
+      },
+      {
+        "key": 3,
+        "text": "Anecdotal record ఏనకోీట్ల్ రికారుీ"
+      },
+      {
+        "key": 4,
+        "text": "Questionnaire ప్రశనవళి"
+      }
+    ],
+    "answer": 3,
+    "hint": "Anecdotal record is an objective written narrative description of significant student behavior and personality incidents.",
+    "memory_tip": "Anecdotal Record: Informal narrative record of student's personality traits and behavioral episodes."
+  },
+  {
+    "id": 230,
+    "question": "“Evaluation is continuous process”. This statement\nwas given by\n“మూలాయంకనము అనేది అవిరళ ప్రక్రయ” అని పేర్కకననది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Secondary Education Committee సకండరీ విదాయ కమీషన్"
+      },
+      {
+        "key": 2,
+        "text": "Eshwarbai Patel ఈశవరభాయ్ పటేల్ కమిటీ"
+      },
+      {
+        "key": 3,
+        "text": "Kothari commission కోఠారి కమీషన్"
+      },
+      {
+        "key": 4,
+        "text": "Yashpal committee యష్ పాల్ కమిటీ"
+      }
+    ],
+    "answer": 3,
+    "hint": "“Evaluation is a continuous process, forms an integral part of the total educational system” was stated by Kothari Commission (1964-66).",
+    "memory_tip": "Kothari Commission (1964-66): 'Evaluation is a continuous process...' (Origin of CCE)."
+  },
+  {
+    "id": 231,
+    "question": "This evaluation conducted after the completion of the\nteaching learning process\nబోధ్నభయసన ప్రక్రయ పూరిత అయినపుడు చేస్త మూలాయంకనము",
+    "options": [
+      {
+        "key": 1,
+        "text": "Summative సంగ్రహణతిక"
+      },
+      {
+        "key": 2,
+        "text": "Formative నిరాిణతిక"
+      },
+      {
+        "key": 3,
+        "text": "Diagnostic లోపనిరాధరణ"
+      },
+      {
+        "key": 4,
+        "text": "Prognostic ప్రాగుపితక"
+      }
+    ],
+    "answer": 1,
+    "hint": "Summative assessment (సంగ్రహణాత్మక మూల్యాంకనం) is conducted at the end of an instructional term/year to evaluate overall achievement.",
+    "memory_tip": "Summative = End of term / course assessment for grading and certification."
+  },
+  {
+    "id": 232,
+    "question": "This evaluation conducted during the completion of\nthe teaching learning process\nబోధ్నభయసన ప్రక్రయ జరుగుతుననప్పుడు చేస్త  మూలాయంకనము",
+    "options": [
+      {
+        "key": 1,
+        "text": "Summative సంగ్రహణతిక"
+      },
+      {
+        "key": 2,
+        "text": "Formative నిరాిణతిక"
+      },
+      {
+        "key": 3,
+        "text": "Diagnostic లోపనిరాధరణ"
+      },
+      {
+        "key": 4,
+        "text": "Progrostic ప్రాగుపితక"
+      }
+    ],
+    "answer": 2,
+    "hint": "Formative assessment (నిర్మాణాత్మక మూల్యాంకనం) is conducted continuously during the teaching-learning process for learning feedback.",
+    "memory_tip": "Formative = During instruction (Assessment FOR Learning)."
+  },
+  {
+    "id": 233,
+    "question": "The tool which is not used in formative assessment\nనిరాిణతిక మదింపులో ఉపయోగంచని సాధ్నం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Pupils written work విదాయరుధల రాత పని"
+      },
+      {
+        "key": 2,
+        "text": "Project work ప్రాజకుట పని"
+      },
+      {
+        "key": 3,
+        "text": "slip test సిలప్ ట్స్ట"
+      },
+      {
+        "key": 4,
+        "text": "Teacher’s written work ఉపాధాయయుల రాత పని"
+      }
+    ],
+    "answer": 4,
+    "hint": "In AP CCE Formative Assessment, the 4 tools are: 1. Student response (10m), 2. Written work / notebooks (10m), 3. Project work (10m), 4. Slip test (20m). Teacher's personal diary is not a tool.",
+    "memory_tip": "CCE 4 Tools: Student Reflection (10), Notebooks (10), Projects (10), Slip Test (20)."
+  },
+  {
+    "id": 234,
+    "question": "The tool which has more weightage in formative\nassessment\nనిరాిణతిక మదింపులో అధిక భారతవం కల్గన మూలాయంకన\nసాధ్నం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Student’s participation-responses పిలల భాగసావమయం – ప్రతిసపందనలు"
+      },
+      {
+        "key": 2,
+        "text": "Students written work విదాయరుధల రాతపని"
+      },
+      {
+        "key": 3,
+        "text": "Project work ప్రాజకుట పని"
+      },
+      {
+        "key": 4,
+        "text": "Slip test సిలప్ ట్స్ట"
+      }
+    ],
+    "answer": 4,
+    "hint": "Slip test carries 20 marks out of 50 total marks in Formative Assessment (highest weightage: 40%).",
+    "memory_tip": "Formative Assessment Weightage: Slip test has 20 marks out of 50 (highest)."
+  },
+  {
+    "id": 235,
+    "question": "Which of the following does not belong to objective\ntype questions?\nక్రంది వాటిలో విషయ నిషఠ ప్రశనలు రకానికి చెందనిది?",
+    "options": [
+      {
+        "key": 1,
+        "text": "Multiple choice questions బాహుళైచిిక ప్రశనలు"
+      },
+      {
+        "key": 2,
+        "text": "Matching జత పరచడం"
+      },
+      {
+        "key": 3,
+        "text": "Odd man out విభినన అంశనిన గురితంచుట్"
+      },
+      {
+        "key": 4,
+        "text": "Association form సంసరగ రూపం"
+      }
+    ],
+    "answer": 4,
+    "hint": "Association form is an open-ended / supply type item, whereas multiple choice, matching, and true/false are objective selection types.",
+    "memory_tip": "Objective items: True/False, Multiple Choice, Matching (selection type). Association = supply type."
+  },
+  {
+    "id": 236,
+    "question": "Which of the following does not belong to very short\nanswer type questions?\nక్రంది వాటిలో లఘు సమాధాన ప్రశనల రకానికి చెందనిది?",
+    "options": [
+      {
+        "key": 1,
+        "text": "Completion form పూరణం"
+      },
+      {
+        "key": 2,
+        "text": "Association form సంసరగం"
+      },
+      {
+        "key": 3,
+        "text": "Analogy form సాదృశయ రూపం"
+      },
+      {
+        "key": 4,
+        "text": "Odd man out విభినన అంశనిన గురితంచుట్"
+      }
+    ],
+    "answer": 4,
+    "hint": "Odd man out questions test classification/objective reasoning, distinct from purely descriptive very short answer questions.",
+    "memory_tip": "Item classification: Odd-man out is an objective analytical format."
+  },
+  {
+    "id": 237,
+    "question": "Which of the following belong to objective type\nquestions?\nక్రంది వాటిలో విషయ నిషఠ ప్రశనలు రకానికి చెందినది ఏది?",
+    "options": [
+      {
+        "key": 1,
+        "text": "Alternative response type ప్రతాయమానయం ప్రశనలు"
+      },
+      {
+        "key": 2,
+        "text": "Completion form పూరణం"
+      },
+      {
+        "key": 3,
+        "text": "Association form సంసరగం"
+      },
+      {
+        "key": 4,
+        "text": "Analogy form సాదృశయ రూపం"
+      }
+    ],
+    "answer": 1,
+    "hint": "Alternative response type (True/False, Yes/No, Right/Wrong) is a classic objective question format.",
+    "memory_tip": "Alternative response = True/False or Yes/No (objective test item)."
+  },
+  {
+    "id": 238,
+    "question": "Which of the following belong to very short answer\ntype questions?\nక్రంది వాటిలో లఘు సమాధాన ప్రశనల రకానికి చెందినది ఏది ?",
+    "options": [
+      {
+        "key": 1,
+        "text": "Association form సంసరగం"
+      },
+      {
+        "key": 2,
+        "text": "Matching జతపరచడం"
+      },
+      {
+        "key": 3,
+        "text": "Multiple choice బాహుళైచిిక ప్రశనలు"
+      },
+      {
+        "key": 4,
+        "text": "Odd man out విభినన అంశనిన గురితంచుట్"
+      }
+    ],
+    "answer": 1,
+    "hint": "Association form is considered a very short answer supply item where learner directly supplies connected words.",
+    "memory_tip": "Very Short Answer = Supply type requiring concise 1-word or phrase response."
+  },
+  {
+    "id": 239,
+    "question": "Circle : 2𝜋𝑟 :: square : ? . This type of question\nbelongs to\nవృతతం : 2𝜋𝑟 :: చతురస్రం : ? . ఈ రకమైన ప్రశన దీనికి చెందును",
+    "options": [
+      {
+        "key": 1,
+        "text": "Completion question పూరకం"
+      },
+      {
+        "key": 2,
+        "text": "Association form సంసరగం"
+      },
+      {
+        "key": 3,
+        "text": "Analogy form సాదృశయ రూపం"
+      },
+      {
+        "key": 4,
+        "text": "Matching జతపరచడం"
+      }
+    ],
+    "answer": 3,
+    "hint": "Circle : 2πr :: Square : 4s is an Analogy (సాదృశ్య రూపం) type question testing relationship between perimeter formulas.",
+    "memory_tip": "Analogy format: A : B :: C : D (Tests pattern & structural relationship)."
+  },
+  {
+    "id": 240,
+    "question": "This learning aid is used to understand that\nmultiplication is repeated addition, and division is\nrepeated subtraction\nగుణకారానిన పునరావృత సంకలనంగా, భాగహ్యరం పునరావృత\nవయవకలనంగా ను అరధం చేస్తకోవడానికి ఉపయోగంచే బోధ్న\nసామగ్రి",
+    "options": [
+      {
+        "key": 1,
+        "text": "Peg board పెగ్ బోరుీ"
+      },
+      {
+        "key": 2,
+        "text": "Geo board జియో బోరుీ"
+      },
+      {
+        "key": 3,
+        "text": "Grid paper గళళ కాగతం"
+      },
+      {
+        "key": 4,
+        "text": "Beads frame పూసల చట్రం"
+      }
+    ],
+    "answer": 1,
+    "hint": "Peg board is a learning manipulative used to visualize geometric figures, coordinate grids, and perimeters.",
+    "memory_tip": "Peg board / Geoboard: Visual aid for shapes, polygons, and coordinate relations."
+  }
+]

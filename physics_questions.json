@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "question": "The speed of a car is 36 Kmph.  Its speed in m/s.\nఒక కారు వడి 36 కి . మీ. /గం. దాని వడి మీ/సె లలో",
+    "options": [
+      {
+        "key": 1,
+        "text": "18"
+      },
+      {
+        "key": 2,
+        "text": "72"
+      },
+      {
+        "key": 3,
+        "text": "5"
+      },
+      {
+        "key": 4,
+        "text": "10"
+      }
+    ],
+    "answer": 4,
+    "hint": "Multiply speed in km/h by 5/18 to convert to m/s: 36 × (5/18) = 10 m/s.",
+    "memory_tip": "1 km/h = 5/18 m/s (km/h → m/s: × 5/18; m/s → km/h: × 18/5)."
+  },
+  {
+    "id": 2,
+    "question": "A car travels 16m in 3s and another 16m in 5s.  The average speed of car\nis (in m/s)\nఒక కారు 3 సె. లలో 16 మీ. లు ప్రయాణిస్తంది. ఆ పై మరొక 5 సె. లలో మరో 16\nమీ.లు ప్రయాణిస్తత, ఆ  కారు సరాసరి వడి (మీ/సె లలో)",
+    "options": [
+      {
+        "key": 1,
+        "text": "8"
+      },
+      {
+        "key": 2,
+        "text": "6"
+      },
+      {
+        "key": 3,
+        "text": "4"
+      },
+      {
+        "key": 4,
+        "text": "2"
+      }
+    ],
+    "answer": 3,
+    "hint": "Average speed = Total distance / Total time = (16 + 16) / (3 + 5) = 32 / 8 = 4 m/s.",
+    "memory_tip": "Average speed = s_total / t_total."
+  },
+  {
+    "id": 3,
+    "question": "The formula for average velocity is\nసరాసరి వేగానికి సూత్రం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Initial velocity + Final velocity తొలి వేగం + తుది వేగం"
+      },
+      {
+        "key": 2,
+        "text": "Initial velocity – Final velocity తొలి వేగం -  తుది వేగం"
+      },
+      {
+        "key": 3,
+        "text": "𝐼𝑛𝑖𝑡𝑖𝑎𝑙 𝑣𝑒𝑙𝑜𝑐𝑖𝑡𝑦 + 𝐹𝑖𝑛𝑎𝑙 𝑣𝑒𝑙𝑜𝑐𝑖𝑡𝑦 2 తొలి వేగం+  తుది వేగం 2"
+      },
+      {
+        "key": 4,
+        "text": "𝐼𝑛𝑖𝑡𝑖𝑎𝑙 𝑣𝑒𝑙𝑜𝑐𝑖𝑡𝑦− 𝐹𝑖𝑛𝑎𝑙 𝑣𝑒𝑙𝑜𝑐𝑖𝑡𝑦 2 తొలి వేగం −  తుది వేగం 2"
+      }
+    ],
+    "answer": 3,
+    "hint": "For uniform acceleration, average velocity is the arithmetic mean of initial and final velocities: (u + v) / 2.",
+    "memory_tip": "Average Velocity = (Initial velocity + Final velocity) / 2 = (u + v) / 2."
+  },
+  {
+    "id": 4,
+    "question": "The units of Acceleration in S.I System\nS.I పద్దతిలో త్వరణానికి ప్రమాణాలు",
+    "options": [
+      {
+        "key": 1,
+        "text": "m మీ."
+      },
+      {
+        "key": 2,
+        "text": "m/s మీ/సె"
+      },
+      {
+        "key": 3,
+        "text": "m/s2 మీ/సె2"
+      },
+      {
+        "key": 4,
+        "text": "m  s2 మీ. సె2"
+      }
+    ],
+    "answer": 3,
+    "hint": "Acceleration is the rate of change of velocity: (m/s) / s = m/s².",
+    "memory_tip": "SI unit of acceleration = m/s² (ms⁻²); CGS unit = cm/s²."
+  },
+  {
+    "id": 5,
+    "question": "The initial velocity of a freely falling object is\nస్తవచ్చా పత్న వస్తవు యొకక తొలి వేగం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Zero శూనయం"
+      },
+      {
+        "key": 2,
+        "text": "Maximum గరిష్టం"
+      },
+      {
+        "key": 3,
+        "text": "One ఒకటి"
+      },
+      {
+        "key": 4,
+        "text": "Cannot say చెపపలేము"
+      }
+    ],
+    "answer": 1,
+    "hint": "An object dropped from rest has no initial velocity at the moment of release, so u = 0.",
+    "memory_tip": "Freely falling body: Initial velocity u = 0, a = +g."
+  },
+  {
+    "id": 6,
+    "question": "An athlete is running in a circular track of radius 120 m and reaches the\nstarting point in 1 minute.  The displacement of the athlete is (in meters)\nఒక క్రీడాకారుడు 120 మీ. ల వ్యయసారధం గల ఒక వృత్తతకార ట్రాక్ పై పరిగెడుతూ, పరుగు\nమొద్లు పెటిటన సాానానికి ఒక నిముష్ం లో చేరాడు.  అయిన ఆ క్రీడాకారుడు పందిన\nసాానబ్రంశం (మీ. లలో)",
+    "options": [
+      {
+        "key": 1,
+        "text": "120"
+      },
+      {
+        "key": 2,
+        "text": "60"
+      },
+      {
+        "key": 3,
+        "text": "2"
+      },
+      {
+        "key": 4,
+        "text": "0"
+      }
+    ],
+    "answer": 4,
+    "hint": "Displacement is the straight-line distance between initial and final points. Completing the circular lap returns the runner to the starting point.",
+    "memory_tip": "Displacement = 0 when starting point and ending point are the same."
+  },
+  {
+    "id": 7,
+    "question": "In the formula v2 – u2 = 2as, ‘a’ represents\nv2 – u2 = 2as సమీకరణము నందు ‘a’ సూచంచేది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Initial velocity తొలివేగం"
+      },
+      {
+        "key": 2,
+        "text": "Final velocity తుదివేగం"
+      },
+      {
+        "key": 3,
+        "text": "Acceleration త్వరణం"
+      },
+      {
+        "key": 4,
+        "text": "Distance దూరం"
+      }
+    ],
+    "answer": 3,
+    "hint": "In the third equation of motion v² - u² = 2as: v = final velocity, u = initial velocity, a = acceleration, s = distance/displacement.",
+    "memory_tip": "Equations of Motion: v = u + at, s = ut + ½at², v² - u² = 2as."
+  },
+  {
+    "id": 8,
+    "question": "A train starting from rest gains a velocity 20m/s in 5 seconds.  The\nacceleration of train is (in m/s2)\nనిశాల స్థాతి నండి బయలుదేరిన ఒక రైలు బండి 5 సెకనలలో 20 మీ/సె వేగానిి\nపందినది.  ఆ రైలు బండి త్వరణం (మీ/సె2 లలో)",
+    "options": [
+      {
+        "key": 1,
+        "text": "2"
+      },
+      {
+        "key": 2,
+        "text": "4"
+      },
+      {
+        "key": 3,
+        "text": "6"
+      },
+      {
+        "key": 4,
+        "text": "8"
+      }
+    ],
+    "answer": 2,
+    "hint": "Acceleration a = (v - u) / t. Starting from rest (u = 0), a = (20 - 0) / 5 = 4 m/s².",
+    "memory_tip": "a = (v - u) / t (Acceleration = Change in velocity / Time taken)."
+  },
+  {
+    "id": 9,
+    "question": "Five kilometres is equal to  (in m.)\nఐదు కిలోమీటరుు దీనికి సమానం (మీ. లలో)",
+    "options": [
+      {
+        "key": 1,
+        "text": "5"
+      },
+      {
+        "key": 2,
+        "text": "50"
+      },
+      {
+        "key": 3,
+        "text": "500"
+      },
+      {
+        "key": 4,
+        "text": "5000"
+      }
+    ],
+    "answer": 4,
+    "hint": "1 kilometre equals 1000 metres. So, 5 km = 5 × 1000 = 5000 m.",
+    "memory_tip": "Prefix Kilo (k) = 10³ = 1000 (1 km = 1000 m; 1 kg = 1000 g)."
+  },
+  {
+    "id": 10,
+    "question": "Motion of the needle of a sewing machine is in\nకుట్టట మిష్న్ సూది యొకక కద్లిక ఈ చలనానిి కలిగి ఉంట్టంది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Rectilinear motion సరళ రేఖీయ చలనం"
+      },
+      {
+        "key": 2,
+        "text": "Oscillatory motion డోలన చలనం"
+      },
+      {
+        "key": 3,
+        "text": "Rotatory motion భ్రమణ చలనం"
+      },
+      {
+        "key": 4,
+        "text": "Circulatory motion వృత్తతకార చలనం"
+      }
+    ],
+    "answer": 2,
+    "hint": "The needle moves repeatedly up and down about a fixed position, which is oscillatory (periodic) motion.",
+    "memory_tip": "To-and-fro or up-and-down motion about a mean position = Oscillatory motion."
+  },
+  {
+    "id": 11,
+    "question": "While measuring the length of knitting needle, the reading of the scale at\none end is 3.0cm and the other end is 33.1cm.  The length of the needle is\n(in cm)\nఒక అలిున సూది పడవున కొలిచేటప్పపడు, స్తకలు యొకక ఒక చవరి రీడింగు 3.0సెం.\nమీ., మరొక చవర రీడింగు 33.1 సెం. మీ. అయిన ఆ సూది పడవు (సెం. మీ.లలో)",
+    "options": [
+      {
+        "key": 1,
+        "text": "3.1"
+      },
+      {
+        "key": 2,
+        "text": "36.1"
+      },
+      {
+        "key": 3,
+        "text": "30.1"
+      },
+      {
+        "key": 4,
+        "text": "11.1"
+      }
+    ],
+    "answer": 3,
+    "hint": "Actual length = Final reading − Initial reading = 33.1 cm − 3.0 cm = 30.1 cm.",
+    "memory_tip": "Length = End mark reading − Starting mark reading (avoids zero-mark error)."
+  },
+  {
+    "id": 12,
+    "question": "The correct order of the following lengths.\nక్రంది పడవుల సరియైన క్రమం.",
+    "options": [
+      {
+        "key": 1,
+        "text": "1cm  < 1mm < 1m < 1km 1 సెం. మీ < 1 మి . మీ <1 మీ <1 కి. మీ."
+      },
+      {
+        "key": 2,
+        "text": "1mm  < 1cm < 1m < 1km 1 మి. మీ < 1 సెం. మీ <1 మీ <1 కి. మీ."
+      },
+      {
+        "key": 3,
+        "text": "1km  < 1m < 1cm < 1mm 1 కి. మీ < 1 మీ <1 సెం. మీ < 1 మి. మీ"
+      },
+      {
+        "key": 4,
+        "text": "1km  < 1m < 1mm < 1cm 1 కి. మీ < 1 మీ <1 మి. మీ < 1 సెం. మీ"
+      }
+    ],
+    "answer": 2,
+    "hint": "Arrange from smallest unit to largest: 1 mm (0.001 m) < 1 cm (0.01 m) < 1 m (1 m) < 1 km (1000 m).",
+    "memory_tip": "Order of metric lengths: mm < cm < m < km (1 m = 100 cm = 1000 mm; 1 km = 1000 m)."
+  },
+  {
+    "id": 13,
+    "question": "The frictional force between a wooden box and floor is 20N.  The force\nrequired to move the wooden box is\nచెకక పెట్టటకు మరియు నేలకు మధ్యలో గల ఘరషణ బలం 20 N. ఆ చెకక పెట్టటన\nకదుప్పటకు కావలస్థన బలం",
+    "options": [
+      {
+        "key": 1,
+        "text": "10 N"
+      },
+      {
+        "key": 2,
+        "text": "15 N"
+      },
+      {
+        "key": 3,
+        "text": "21 N"
+      },
+      {
+        "key": 4,
+        "text": "0 N"
+      }
+    ],
+    "answer": 3,
+    "hint": "To start moving the box, the applied force must exceed the maximum opposing static friction of 20 N (i.e. 21 N).",
+    "memory_tip": "Motion begins only when Applied Force > Limiting Static Friction (F > f_s)."
+  },
+  {
+    "id": 14,
+    "question": "If the force applied on the object is in the direction of motion, then the\nspeed of object\nవస్తవుపై ప్రయోగింపబడిన బలదిశలోనే వస్తవు కదులుతుంటే, ఆ వస్తవు యొకక వడి",
+    "options": [
+      {
+        "key": 1,
+        "text": "Increases పెరుగుతుంది"
+      },
+      {
+        "key": 2,
+        "text": "Decreases త్గుుతుంది"
+      },
+      {
+        "key": 3,
+        "text": "First increases and then decreases మొద్ట పెరిగి త్రువ్యత్ త్గుుతుంది"
+      },
+      {
+        "key": 4,
+        "text": "First decreases and then increases మొద్ట త్గిు త్రువ్యత్ పెరుగుతుంది"
+      }
+    ],
+    "answer": 1,
+    "hint": "When force acts in the same direction as motion, it produces acceleration, thereby increasing the object's speed.",
+    "memory_tip": "Force in direction of motion → Speed increases; Force opposite to motion → Speed decreases."
+  },
+  {
+    "id": 15,
+    "question": "The force applied by an archer to stretch the bow is an example of\nవిలుకారిణి విలుు సాగదీయడానికి ఉపయోగించే బలం ఈ రకమైన బలానికి ఉదాహరణ",
+    "options": [
+      {
+        "key": 1,
+        "text": "Frictional force ఘరషణ బలం"
+      },
+      {
+        "key": 2,
+        "text": "Muscular force కండర బలం"
+      },
+      {
+        "key": 3,
+        "text": "Gravitational force గురుత్తవకరషణ బలం"
+      },
+      {
+        "key": 4,
+        "text": "Magnetic force అయసాకంత్ బలం"
+      }
+    ],
+    "answer": 2,
+    "hint": "The archer uses physical arm muscles to pull and stretch the bowstring, exerting muscular force.",
+    "memory_tip": "Muscular force is a contact force exerted by muscles of the body."
+  },
+  {
+    "id": 16,
+    "question": "Pressure is the ratio of force and\nపీడనం అనేది బలం మరియు దీని నిష్పతిత",
+    "options": [
+      {
+        "key": 1,
+        "text": "Area వైశాలయం"
+      },
+      {
+        "key": 2,
+        "text": "Volume ఘనపరిమాణం"
+      },
+      {
+        "key": 3,
+        "text": "Density సాంద్రత్"
+      },
+      {
+        "key": 4,
+        "text": "Length పడవు"
+      }
+    ],
+    "answer": 1,
+    "hint": "Pressure is defined as thrust (force) acting per unit surface area: Pressure = Force / Area.",
+    "memory_tip": "P = F / A (Pressure = Force / Area; unit: N/m² or Pascal)."
+  },
+  {
+    "id": 17,
+    "question": "The force exerted by a charged body on another charged body is known as\nఒక ఆవేశ పూరిత్ వస్తవు మరొక ఆవేశ పూరిత్ వస్తవుపై కలుగ జేస్త బలానిి ఇలా\nపిలుసాతరు.",
+    "options": [
+      {
+        "key": 1,
+        "text": "Muscular force కండర బలం"
+      },
+      {
+        "key": 2,
+        "text": "Frictional force ఘరషణ బలం"
+      },
+      {
+        "key": 3,
+        "text": "Electrostatic force సాావర విదుయత్ బలం"
+      },
+      {
+        "key": 4,
+        "text": "Magnetic force అయసాకంత్ బలం"
+      }
+    ],
+    "answer": 3,
+    "hint": "The force of attraction or repulsion between electric charges without physical contact is electrostatic force.",
+    "memory_tip": "Force between stationary electric charges = Electrostatic force (F = k·q₁q₂/r²)."
+  },
+  {
+    "id": 18,
+    "question": "This is an example for Non-contact force\nఇది సపరిశంచని బలానికి ఒక ఉదాహరణ",
+    "options": [
+      {
+        "key": 1,
+        "text": "Muscular force కండర బలం"
+      },
+      {
+        "key": 2,
+        "text": "Frictional force ఘరషణ బలం"
+      },
+      {
+        "key": 3,
+        "text": "Gravitational force గురుత్తవకరషణ బలం"
+      },
+      {
+        "key": 4,
+        "text": "Tension force త్నయత్త బలం"
+      }
+    ],
+    "answer": 3,
+    "hint": "Gravitational force acts across empty space without physical contact between objects.",
+    "memory_tip": "Non-contact forces: Gravitational, Electrostatic, Magnetic (Field forces)."
+  },
+  {
+    "id": 19,
+    "question": "This is an example for contact force\nసపరాశ బలానికి ఇది ఒక ఉదాహరణ",
+    "options": [
+      {
+        "key": 1,
+        "text": "Muscular force కండర బలం"
+      },
+      {
+        "key": 2,
+        "text": "Gravitational force గురుత్తవకరషణ బలం"
+      },
+      {
+        "key": 3,
+        "text": "Electrostatic force సాావర విదుయత్ బలం"
+      },
+      {
+        "key": 4,
+        "text": "Magnetic force అయసాకంత్ బలం"
+      }
+    ],
+    "answer": 1,
+    "hint": "Muscular force requires direct bodily contact with an object to push, pull, or lift it.",
+    "memory_tip": "Contact forces: Muscular, Frictional, Normal reaction, Tension."
+  },
+  {
+    "id": 20,
+    "question": "This is not an example for muscular force\nకండర బలానికి ఉదాహరణ కానిది",
+    "options": [
+      {
+        "key": 1,
+        "text": "squeezing a piece of lemon between fingers చేతివేళళన ఉపయోగించ నిమమకాయన పిండుట"
+      },
+      {
+        "key": 2,
+        "text": "Taking out toothpaste from toothpaste టూత్ పేస్ట టూయబు నండి టూత్ పేస్ట తీయుట"
+      },
+      {
+        "key": 3,
+        "text": "Lifting the bucket containing water with hands చేతులతో నీటిని కలిగి ఉని బక్కకట్ న ఎతుతట"
+      },
+      {
+        "key": 4,
+        "text": "Charged balloon attracting the pieces of paper ఆవేశ పూరిత్ బెలూన్ చని పేపరు ముకకలన ఆకరిషంచుట"
+      }
+    ],
+    "answer": 4,
+    "hint": "A charged balloon attracting paper pieces is an electrostatic force (non-contact force), not muscular force.",
+    "memory_tip": "Attraction of uncharged paper bits to charged balloon = Electrostatic induction."
+  },
+  {
+    "id": 21,
+    "question": "The decreasing order of frictional forces\nఘరషణ బలాల అవరోహణాక్రమం",
+    "options": [
+      {
+        "key": 1,
+        "text": "rolling, static, sliding దొరుుడు, సెథాతిక, జారుడు"
+      },
+      {
+        "key": 2,
+        "text": "rolling, sliding, static దొరుుడు, జారుడు, సెథాతిక"
+      },
+      {
+        "key": 3,
+        "text": "static, sliding, rolling సెథాతిక, జారుడు, దొరుుడు"
+      },
+      {
+        "key": 4,
+        "text": "sliding, static, rolling జారుడు, సెథాతిక, దొరుుడు"
+      }
+    ],
+    "answer": 3,
+    "hint": "Static friction is greatest to prevent motion, sliding friction is lower during motion, and rolling friction is lowest: Static > Sliding > Rolling.",
+    "memory_tip": "Friction magnitude: Static > Sliding > Rolling (f_s > f_k > f_r)."
+  },
+  {
+    "id": 22,
+    "question": "The reason for sprinkling of powder on the carom board\nకాయరమ్ బోరుుపై  పౌడర్ న చలకరించుటకు కారణం",
+    "options": [
+      {
+        "key": 1,
+        "text": "To increase the friction ఘరషణన పెంచుటకు"
+      },
+      {
+        "key": 2,
+        "text": "To decrease the friction ఘరషణన త్గిుంచుటకు"
+      },
+      {
+        "key": 3,
+        "text": "To decorate carom board కాయరమ్ బోరుున అలంకరించుటకు"
+      },
+      {
+        "key": 4,
+        "text": "To decrease force బలానిి త్గిుంచుటకు"
+      }
+    ],
+    "answer": 2,
+    "hint": "Talcum powder fills tiny surface irregularities on the board, making the surface smoother to reduce friction.",
+    "memory_tip": "Powder / Lubricants reduce friction; Grooving / Treads increase friction."
+  },
+  {
+    "id": 23,
+    "question": "The correct statement among the following\nక్రంది వ్యటిలో సరియైన ప్రవచనం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Rolling friction is smaller than sliding friction జారుడు ఘరషణ కనాి దొరుుడు ఘరషణ త్కుకవ"
+      },
+      {
+        "key": 2,
+        "text": "Sliding friction is smaller than rolling friction దొరుుడు ఘరషణ కనాి జారుడు ఘరషణ త్కుకవ"
+      },
+      {
+        "key": 3,
+        "text": "Rolling friction is equal to sliding friction జారుడు ఘరషణ, దొరుుడు ఘరషణకు సమానం"
+      },
+      {
+        "key": 4,
+        "text": "Rolling friction is larger than sliding friction జారుడు ఘరషణ కనాి దొరుుడు ఘరషణ ఎకుకవ"
+      }
+    ],
+    "answer": 1,
+    "hint": "Rolling friction is significantly smaller than sliding friction, which is why wheels and ball bearings are used.",
+    "memory_tip": "Rolling friction < Sliding friction < Static friction."
+  },
+  {
+    "id": 24,
+    "question": "The reason that tyres are treaded\nటైరుపై గల గాడులకు కారణం",
+    "options": [
+      {
+        "key": 1,
+        "text": "To decrease the friction ఘరషణన త్గిుంచుటకు"
+      },
+      {
+        "key": 2,
+        "text": "To increase the friction ఘరషణన పెంచుటకు"
+      },
+      {
+        "key": 3,
+        "text": "To obtain good looking అంద్ంగా కనిపించుటకు"
+      },
+      {
+        "key": 4,
+        "text": "To increase speed వేగానిి పెంచుటకు"
+      }
+    ],
+    "answer": 2,
+    "hint": "Treads and grooves increase surface roughness and provide better grip, increasing friction to prevent slipping.",
+    "memory_tip": "Treaded tyres & spiked shoes increase friction for better grip and safety."
+  },
+  {
+    "id": 25,
+    "question": "S.I Unit of Universal gravitational constant (G) is\nవిశవగురుత్వ స్థారాంకం (G) యొకక S.I  ప్రమాణం",
+    "options": [
+      {
+        "key": 1,
+        "text": "N.m2.Kg2"
+      },
+      {
+        "key": 2,
+        "text": "N.m2 Kg–2"
+      },
+      {
+        "key": 3,
+        "text": "N m–2 Kg2"
+      },
+      {
+        "key": 4,
+        "text": "N m–2 Kg–2"
+      }
+    ],
+    "answer": 2,
+    "hint": "From Newton's law F = G(m₁m₂/r²), G = Fr²/(m₁m₂). Units are N·m²/kg² or N·m²·kg⁻².",
+    "memory_tip": "SI unit of G = N·m²·kg⁻² (Value: G = 6.67 × 10⁻¹¹ N·m²/kg²)."
+  },
+  {
+    "id": 26,
+    "question": "The value of ‘g’ on earth\nభూమిపై ‘g’ విలువ",
+    "options": [
+      {
+        "key": 1,
+        "text": "9.8 ms–2"
+      },
+      {
+        "key": 2,
+        "text": "9.8 cms–2"
+      },
+      {
+        "key": 3,
+        "text": "98 ms–2"
+      },
+      {
+        "key": 4,
+        "text": "98 cms–2"
+      }
+    ],
+    "answer": 1,
+    "hint": "Standard acceleration due to gravity on Earth's surface is 9.8 m/s² (or 9.8 ms⁻²).",
+    "memory_tip": "g on Earth = 9.8 ms⁻² (in CGS: 980 cm/s²)."
+  },
+  {
+    "id": 27,
+    "question": "If the weight of an object is 60 N on earth, then the weight of same object\non moon is\nభూమి పై ఒక  వస్తవు భారం 60 N అయిన అదే వస్తవు భారం చంద్రునిపై",
+    "options": [
+      {
+        "key": 1,
+        "text": "6 N"
+      },
+      {
+        "key": 2,
+        "text": "10 N"
+      },
+      {
+        "key": 3,
+        "text": "0 N"
+      },
+      {
+        "key": 4,
+        "text": "36 N"
+      }
+    ],
+    "answer": 2,
+    "hint": "Moon's gravity is 1/6th of Earth's gravity: Weight on Moon = (Weight on Earth) / 6 = 60 / 6 = 10 N.",
+    "memory_tip": "W_moon = (1/6) × W_earth (Moon's gravity g_moon = g_earth / 6)."
+  },
+  {
+    "id": 28,
+    "question": "The mass of an object is 10 Kg.  The weight of the object on the earth is\n(g=9.8m/s2)\nఒక  వస్తవు యొకక ద్రవయరాశి 10 కి. గ్రా.  భూమి పై దాని భారం (g=9.8 మీ /సె2)",
+    "options": [
+      {
+        "key": 1,
+        "text": "9.8 N"
+      },
+      {
+        "key": 2,
+        "text": "0.2 N"
+      },
+      {
+        "key": 3,
+        "text": "98 N"
+      },
+      {
+        "key": 4,
+        "text": "0 N"
+      }
+    ],
+    "answer": 3,
+    "hint": "Weight W = m × g = 10 kg × 9.8 m/s² = 98 N.",
+    "memory_tip": "W = mg (Mass m is invariant in kg; Weight W is a force in Newtons)."
+  },
+  {
+    "id": 29,
+    "question": "The thrust per unit area is called\nప్రమాణ వైశాలయం పై కలుగజేస్త ఒతితడిని ఈ  విధ్ంగా పిలుసాతరు.",
+    "options": [
+      {
+        "key": 1,
+        "text": "Force బలం"
+      },
+      {
+        "key": 2,
+        "text": "Pressure పీడనం"
+      },
+      {
+        "key": 3,
+        "text": "Weight భారం"
+      },
+      {
+        "key": 4,
+        "text": "Mass ద్రవయరాశి"
+      }
+    ],
+    "answer": 2,
+    "hint": "Thrust (perpendicular force) acting on a unit area is called pressure.",
+    "memory_tip": "Pressure = Thrust / Area (Perpendicular force per unit surface area)."
+  },
+  {
+    "id": 30,
+    "question": "S.I unit of pressure is\nపీడనానికి S.I ప్రమాణం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Newton న్యయటన్"
+      },
+      {
+        "key": 2,
+        "text": "Pascal పాసకల్"
+      },
+      {
+        "key": 3,
+        "text": "dyne డైన్"
+      },
+      {
+        "key": 4,
+        "text": "Watt వ్యట్"
+      }
+    ],
+    "answer": 2,
+    "hint": "The SI unit of pressure is Pascal (Pa), named after Blaise Pascal (1 Pa = 1 N/m²).",
+    "memory_tip": "1 Pascal (Pa) = 1 N/m²; CGS unit = dyne/cm²."
+  },
+  {
+    "id": 31,
+    "question": "A stone is released from the top of a tower of height 20m. The final\nvelocity before touching the ground is (g=10m/s2)\n20 మీ. ఎతుత గల టవర్ పై నండి ఒక రాయి వద్లబడింది. భూమిని చేరేముందు దాని\nతుది వేగం. (g=10 మీ./ సె2)",
+    "options": [
+      {
+        "key": 1,
+        "text": "0 m/s"
+      },
+      {
+        "key": 2,
+        "text": "10 m/s"
+      },
+      {
+        "key": 3,
+        "text": "20 m/s"
+      },
+      {
+        "key": 4,
+        "text": "40 m/s"
+      }
+    ],
+    "answer": 3,
+    "hint": "Using v² = u² + 2gh with u = 0: v = √(2gh) = √(2 × 10 × 20) = √400 = 20 m/s.",
+    "memory_tip": "Free fall from height h: Final velocity v = √(2gh); time t = √(2h/g)."
+  },
+  {
+    "id": 32,
+    "question": "The buoyant force acts on an object immersed in a liquid in this direction\nద్రవంలో మునిగిన వస్తవుపై ఉత్పలవన బలం ఈ దిశలో పనిచేస్తంది.",
+    "options": [
+      {
+        "key": 1,
+        "text": "In upward direction పై వైప్పకు"
+      },
+      {
+        "key": 2,
+        "text": "In downward direction క్రంది వైప్పకు"
+      },
+      {
+        "key": 3,
+        "text": "Towards right కుడి వైప్పకు"
+      },
+      {
+        "key": 4,
+        "text": "Towards left ఎడమ వైప్పకు"
+      }
+    ],
+    "answer": 1,
+    "hint": "Buoyancy is the net upward force exerted by a fluid opposing the weight of an immersed object.",
+    "memory_tip": "Buoyant force (Upthrust) always acts vertically upward (F_B = V·ρ·g)."
+  },
+  {
+    "id": 33,
+    "question": "The principle used in the designing of ships and submarines\nనౌకలు మరియు జలాంత్రాుముల రూపకలపనలో ఉపయోగపడు సూత్రం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Newton’s principle న్యయటన్ సూత్రం"
+      },
+      {
+        "key": 2,
+        "text": "Pascal’s principle పాసకల్ సూత్రం"
+      },
+      {
+        "key": 3,
+        "text": "Archimedes’ principle ఆర్కకమెడీస్ సూత్రం"
+      },
+      {
+        "key": 4,
+        "text": "Boyle’s principle బాయిల్ సూత్రం"
+      }
+    ],
+    "answer": 3,
+    "hint": "Archimedes' principle states that the upward buoyant force equals the weight of displaced fluid, which governs floating ships and submarines.",
+    "memory_tip": "Design of ships, submarines, and hydrometers is based on Archimedes' Principle."
+  },
+  {
+    "id": 34,
+    "question": "A: Mass of the body does not change from place to place\nB: Weight of the body changes from place to place\nA: వస్తవు యొకక ద్రవయరాశి ప్రదేశానిి బటిట మారదు\nB: వస్తవు భారం ఒక ప్రదేశం నండి మరో ప్రదేశానికి మారుతుంది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Both A and B are correct A  మరియు B లు ర్కండూ సరైనవి"
+      },
+      {
+        "key": 2,
+        "text": "Both A and B are incorrect A  మరియు B లు ర్కండూ సరికావు"
+      },
+      {
+        "key": 3,
+        "text": "A is correct, B is incorrect A  సరైనది,  B  సరికాదు"
+      },
+      {
+        "key": 4,
+        "text": "A is incorrect, B is correct A  సరికాదు, B సరైనది"
+      }
+    ],
+    "answer": 1,
+    "hint": "Mass is an intrinsic property that remains constant everywhere; weight depends on local gravity (W = mg), so both statements are correct.",
+    "memory_tip": "Mass = constant everywhere; Weight = changes with gravity g."
+  },
+  {
+    "id": 35,
+    "question": "According to Newton’s Universal law of gravitation, Force acts between\ntwo bodies is\nన్యయటన్ విశవ గురుత్వ నియమం ప్రకారం, ర్కండు వస్తవుల మధ్య పనిచేస్త బలం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Directly proportional to the Square of the distance between them వ్యటిమధ్య దూరవరాునికి అనలోమానపాత్ంలో ఉంట్టంది"
+      },
+      {
+        "key": 2,
+        "text": "Inversely proportional to the Square of the distance between them వ్యటిమధ్య దూరవరాునికి విలోమానపాత్ంలో ఉంట్టంది"
+      },
+      {
+        "key": 3,
+        "text": "Directly proportional to the distance between them వ్యటిమధ్య దూరానికి అనలోమానపాత్ంలో ఉంట్టంది"
+      },
+      {
+        "key": 4,
+        "text": "Inversely proportional to the distance between them వ్యటిమధ్య దూరానికి విలోమానపాత్ంలో ఉంట్టంది"
+      }
+    ],
+    "answer": 2,
+    "hint": "Newton's law states gravitational force is inversely proportional to the square of the distance between the two bodies (F ∝ 1/r²).",
+    "memory_tip": "Inverse-square law: F ∝ 1/r² (Double distance → force becomes ¼th)."
+  },
+  {
+    "id": 36,
+    "question": "The formula to find ‘g’ value on earth\nభూమిపై ‘g’ విలువ కనగొనటకు సూత్రం",
+    "options": [
+      {
+        "key": 1,
+        "text": "g= 𝐺𝑅2 𝑀"
+      },
+      {
+        "key": 2,
+        "text": "g= 𝐺𝑀 𝑅2"
+      },
+      {
+        "key": 3,
+        "text": "g= 𝑀𝑅2 𝐺"
+      },
+      {
+        "key": 4,
+        "text": "g= 𝑅𝑀2 𝐺"
+      }
+    ],
+    "answer": 2,
+    "hint": "Equating gravitational force to weight (mg = GMm/R²) gives g = GM / R².",
+    "memory_tip": "g = GM / R² (where M = mass of Earth, R = radius of Earth)."
+  },
+  {
+    "id": 37,
+    "question": "The physical quantity work has\nపని అనే భౌతిక రాశికి",
+    "options": [
+      {
+        "key": 1,
+        "text": "Only magnitude పరిమాణం మాత్రమే ఉంట్టంది"
+      },
+      {
+        "key": 2,
+        "text": "Only direction దిశ మాత్రమే ఉంట్టంది"
+      },
+      {
+        "key": 3,
+        "text": "Both magnitude and direction పరిమాణం మరియు దిశ ర్కండూ  ఉంటాయి"
+      },
+      {
+        "key": 4,
+        "text": "Neither magnitude nor direction పరిమాణం గాని , దిశ గాని ఉండవు"
+      }
+    ],
+    "answer": 1,
+    "hint": "Work is a scalar quantity calculated as the dot product of force and displacement; it has only magnitude.",
+    "memory_tip": "Work is a scalar quantity: W = F·s·cosθ (has magnitude, no direction)."
+  },
+  {
+    "id": 38,
+    "question": "A force of 5N acting on an object to displace it through 2m in the\ndirection of force. The work done becomes\nఒక వస్తవుపై 5 N బలం పని చేస్థ బల ప్రయోగ దిశలోనే ఆ వస్తవున 2 మీ\nసాానబ్రంశం చెందించంది. జరిగిన పని",
+    "options": [
+      {
+        "key": 1,
+        "text": "2.5 J"
+      },
+      {
+        "key": 2,
+        "text": "10 J"
+      },
+      {
+        "key": 3,
+        "text": "0.4 J"
+      },
+      {
+        "key": 4,
+        "text": "20 J"
+      }
+    ],
+    "answer": 2,
+    "hint": "Work done = Force × displacement = 5 N × 2 m = 10 J.",
+    "memory_tip": "W = F × s (Work in Joules = Force in Newtons × Displacement in metres)."
+  },
+  {
+    "id": 39,
+    "question": "Unit of work in S.I system\nపనికి S.I ప్రమాణం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Newton న్యయటన్"
+      },
+      {
+        "key": 2,
+        "text": "Erg ఎర్ు"
+      },
+      {
+        "key": 3,
+        "text": "Joule జౌల్"
+      },
+      {
+        "key": 4,
+        "text": "Watt వ్యట్"
+      }
+    ],
+    "answer": 3,
+    "hint": "The SI unit of work and energy is the Joule (J), equivalent to 1 Newton-metre.",
+    "memory_tip": "SI unit of work = Joule (1 J = 1 N·m = 10⁷ ergs)."
+  },
+  {
+    "id": 40,
+    "question": "Mechanical work is equals to\nయాంత్రిక శకిత దీనికి సమానం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Potential energy × kinetic energy   స్థాతి  శకిత  ×  గతి శకిత"
+      },
+      {
+        "key": 2,
+        "text": "Potential energy ÷ kinetic energy   స్థాతి  శకిత  ÷  గతి శకిత"
+      },
+      {
+        "key": 3,
+        "text": "Potential energy ˗ kinetic energy   స్థాతి  శకిత ˗  గతి శకిత"
+      },
+      {
+        "key": 4,
+        "text": "Potential energy + kinetic energy  స్థాతి  శకిత +  గతి శకిత"
+      }
+    ],
+    "answer": 4,
+    "hint": "Total mechanical energy of a system equals the sum of its potential energy and kinetic energy.",
+    "memory_tip": "Total Mechanical Energy = Potential Energy + Kinetic Energy (E = PE + KE)."
+  },
+  {
+    "id": 41,
+    "question": "Formula of potential energy\nస్థాతి శకితకి సూత్రం",
+    "options": [
+      {
+        "key": 1,
+        "text": "mgh"
+      },
+      {
+        "key": 2,
+        "text": "1 2mv2"
+      },
+      {
+        "key": 3,
+        "text": "ma"
+      },
+      {
+        "key": 4,
+        "text": "F s"
+      }
+    ],
+    "answer": 1,
+    "hint": "Gravitational potential energy of a mass m raised to height h against gravity is mgh.",
+    "memory_tip": "PE = mgh (Mass × gravity × height)."
+  },
+  {
+    "id": 42,
+    "question": "Formula of kinetic energy  గతి శకితకి సూత్రం",
+    "options": [
+      {
+        "key": 1,
+        "text": "mgh"
+      },
+      {
+        "key": 2,
+        "text": "1 2mv2"
+      },
+      {
+        "key": 3,
+        "text": "ma"
+      },
+      {
+        "key": 4,
+        "text": "F s"
+      }
+    ],
+    "answer": 2,
+    "hint": "Kinetic energy possessed by a body of mass m moving with velocity v is ½mv².",
+    "memory_tip": "KE = ½mv² = p² / (2m) (where p = mv is momentum)."
+  },
+  {
+    "id": 43,
+    "question": "Formula of power is సామరాధానికి సూత్రం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Work × time పని ×  కాలం"
+      },
+      {
+        "key": 2,
+        "text": "Work / time పని   / కాలం"
+      },
+      {
+        "key": 3,
+        "text": "Force × distance బలం ×  దూరం"
+      },
+      {
+        "key": 4,
+        "text": "Force / distance బలం /  దూరం"
+      }
+    ],
+    "answer": 2,
+    "hint": "Power is the rate of doing work or transferring energy: Power = Work / Time.",
+    "memory_tip": "Power P = Work / Time (P = W/t; SI unit: Watt = J/s)."
+  },
+  {
+    "id": 44,
+    "question": "The following two quantities has same units\nఈ క్రంది ర్కండు రాశులకు ఒకే ప్రమాణాలు ఉంటాయి",
+    "options": [
+      {
+        "key": 1,
+        "text": "Work , Force పని , బలం"
+      },
+      {
+        "key": 2,
+        "text": "Work , Power పని , సామరధాం"
+      },
+      {
+        "key": 3,
+        "text": "Power , Force సామరధాం , బలం"
+      },
+      {
+        "key": 4,
+        "text": "Work , Energy పని , శకిత"
+      }
+    ],
+    "answer": 4,
+    "hint": "Both work and energy represent capacity for action and share the identical SI unit: Joule (J).",
+    "memory_tip": "Work and Energy have identical units (Joule) and dimensions [ML²T⁻²]."
+  },
+  {
+    "id": 45,
+    "question": "Water stored in the reservoir at a certain height has this energy\nరిజరావయర్ నందు కొంత్ ఎతుతలో నిలవ చేయబడిన నీటికి ఈ శకిత ఉంట్టంది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Potential energy స్థాతి శకిత"
+      },
+      {
+        "key": 2,
+        "text": "Kinetic energy గతి శకిత"
+      },
+      {
+        "key": 3,
+        "text": "Both potential and kinetic energies స్థాతి మరియు గతి శకుతలు ర్కండూ"
+      },
+      {
+        "key": 4,
+        "text": "Neither potential nor kinetic energies స్థాతిశకిత గాని గతిశకిత గాని ఉండవు"
+      }
+    ],
+    "answer": 1,
+    "hint": "Water elevated and held stationary behind a dam stores energy due to its height, which is potential energy.",
+    "memory_tip": "Stored/elevated state = Potential Energy; Flowing state = Kinetic Energy."
+  },
+  {
+    "id": 46,
+    "question": "For a freely falling body, during its free fall\nస్తవచ్చా పత్న వస్తవుకు, స్తవచ్చా పత్న సమయంలో",
+    "options": [
+      {
+        "key": 1,
+        "text": "Potential energy is maximum స్థాతిశకిత గరిష్టం"
+      },
+      {
+        "key": 2,
+        "text": "Kinetic energy is maximum     గతిశకిత గరిష్టం"
+      },
+      {
+        "key": 3,
+        "text": "Potential energy decreases and kinetic energy increases స్థాతిశకిత త్గుుతూ గతిశకిత పెరుగుతూ వుంట్టంది"
+      },
+      {
+        "key": 4,
+        "text": "Potential energy increases and kinetic energy decreases స్థాతిశకిత పెరుగుతూ గతిశకిత త్గుుతూ వుంట్టంది"
+      }
+    ],
+    "answer": 3,
+    "hint": "As a body falls, its height decreases (PE decreases) while its velocity increases (KE increases), conserving total energy.",
+    "memory_tip": "During free fall: PE decreases, KE increases, Total Energy (PE + KE) remains constant."
+  },
+  {
+    "id": 47,
+    "question": "One of the following object has potential energy\nకింది వ్యటిలో ఒకవస్తవు స్థాతిశకితని కలిగి వుంది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Blowing wind వీస్తని గాలి"
+      },
+      {
+        "key": 2,
+        "text": "Rotating wheel తిరుగుతుని చక్రం"
+      },
+      {
+        "key": 3,
+        "text": "Flowing water ప్రవహిస్తని నీరు"
+      },
+      {
+        "key": 4,
+        "text": "Stretched spring సాగదీయబడిన స్పపరంగ్"
+      }
+    ],
+    "answer": 4,
+    "hint": "A stretched spring stores elastic potential energy due to deformation from its equilibrium position.",
+    "memory_tip": "Stretched spring / pulled bow = Elastic Potential Energy (PE = ½kx²)."
+  },
+  {
+    "id": 48,
+    "question": "One of the following object has kinetic energy\nకింది వ్యటిలో ఒకవస్తవు గతి శకితని కలిగి వుంది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Stretched rubber band సాగదీయబడిన రబబరు బాయండు"
+      },
+      {
+        "key": 2,
+        "text": "Water stored in dam ఆనకటటలో నిలవచేయబడిన నీరు"
+      },
+      {
+        "key": 3,
+        "text": "Ball kept at a height on the wall గోడపై కొంత్ ఎతుతలో ఉంచబడిన బంతి"
+      },
+      {
+        "key": 4,
+        "text": "Flowing water ప్రవహిస్తని నీరు"
+      }
+    ],
+    "answer": 4,
+    "hint": "Flowing water is actively moving with velocity, so it possesses kinetic energy (½mv²).",
+    "memory_tip": "Any moving object possesses Kinetic Energy (Flowing water, blowing wind, rolling ball)."
+  },
+  {
+    "id": 49,
+    "question": "S. I unit of wavelength is\nత్రంగ ధైరుాం యొకక S. I ప్రమాణం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Centimetre సెంటీ మీటరు"
+      },
+      {
+        "key": 2,
+        "text": "Metre మీటర్"
+      },
+      {
+        "key": 3,
+        "text": "Hertz హెర్ట్"
+      },
+      {
+        "key": 4,
+        "text": "Second సెకన"
+      }
+    ],
+    "answer": 2,
+    "hint": "Wavelength is the physical distance between consecutive crests or troughs, measured in metres (m).",
+    "memory_tip": "SI unit of wavelength (λ) = Metre (m)."
+  },
+  {
+    "id": 50,
+    "question": "S. I unit of frequency\nపౌనః ప్పనయం యొకక S. I ప్రమాణం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Metre మీటరు"
+      },
+      {
+        "key": 2,
+        "text": "Hertz హెర్ట్"
+      },
+      {
+        "key": 3,
+        "text": "Second సెకన"
+      },
+      {
+        "key": 4,
+        "text": "Meter / Second మీటర్/సెకన"
+      }
+    ],
+    "answer": 2,
+    "hint": "Frequency is the number of wave cycles per second, measured in Hertz (Hz) in SI units.",
+    "memory_tip": "SI unit of frequency (ν or f) = Hertz (Hz = s⁻¹)."
+  },
+  {
+    "id": 51,
+    "question": "Magnitude of maximum disturbance in the medium on either side of\nmean value is called\nసగట్ట విలువకు ఇరు వైప్పలా యానకం లో ఏరపడిన గరిష్ట అలజడిని ఈ విద్ంగా\nపిలుసాతరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Frequency పౌనః ప్పనయం"
+      },
+      {
+        "key": 2,
+        "text": "Amplitude కంపన పరిమితి"
+      },
+      {
+        "key": 3,
+        "text": "Wavelength త్రంగ ధైరుాం"
+      },
+      {
+        "key": 4,
+        "text": "Time period కాల పరిమితి"
+      }
+    ],
+    "answer": 2,
+    "hint": "The maximum displacement of a vibrating particle from its central mean equilibrium position is its amplitude.",
+    "memory_tip": "Amplitude = Maximum displacement from mean position; determines loudness (I ∝ A²)."
+  },
+  {
+    "id": 52,
+    "question": "If λ is the wavelength and  υ is the frequency of sound produced then the\nformula for speed of sound wave is\nత్రంగ ధైరుాం λ మరియు పౌనః ప్పనయం υ గల ధ్వని త్రంగంలో ధ్వని వేగం v\nకనగొనటకు సూత్రం",
+    "options": [
+      {
+        "key": 1,
+        "text": "v = λ υ"
+      },
+      {
+        "key": 2,
+        "text": "υ = λ v"
+      },
+      {
+        "key": 3,
+        "text": "V = υ λ"
+      },
+      {
+        "key": 4,
+        "text": "λ  = υ v"
+      }
+    ],
+    "answer": 3,
+    "hint": "Wave speed equals frequency multiplied by wavelength: v = νλ (or v = fλ).",
+    "memory_tip": "Wave formula: v = νλ (Speed = Frequency × Wavelength)."
+  },
+  {
+    "id": 53,
+    "question": "The amount of sound energy passing through unit are in each second is\ncalled\nప్రమాణ వైశాలయం గుండా ప్రతి సెకనలో ప్రయాణించే ధ్వని శకిత మొత్తతనిి ఈ విధ్ంగా\nపిలుసాతరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Frequency పౌనః ప్పనయం"
+      },
+      {
+        "key": 2,
+        "text": "Amplitude కంపన పరిమితి"
+      },
+      {
+        "key": 3,
+        "text": "Intensity తీవ్రత్"
+      },
+      {
+        "key": 4,
+        "text": "Wave length త్రంగ ధైర్ాం"
+      }
+    ],
+    "answer": 3,
+    "hint": "Sound intensity is defined as the amount of sound energy transmitted per second through a unit area perpendicular to propagation.",
+    "memory_tip": "Intensity = Energy / (Area × Time) = Power / Area (Unit: W/m²)."
+  },
+  {
+    "id": 54,
+    "question": "A sound wave has a frequency of 20Hz and a wave length 35m then the\nspeed of sound is\nఒక ధ్వని త్రంగం 20 హెర్ట్ పౌనః ప్పనాయనిి మరియు 35 మీటరు త్రంగ ధైరా్ానిి కలిగి\nఉంది. అయిన ఆ ధ్వని త్రంగ వేగం",
+    "options": [
+      {
+        "key": 1,
+        "text": "70 m/s 70 మీ/సె"
+      },
+      {
+        "key": 2,
+        "text": "700 m/s 700  మీ/సె"
+      },
+      {
+        "key": 3,
+        "text": "7000 m/s 7000 మీ/సె"
+      },
+      {
+        "key": 4,
+        "text": "7 m/s 7 మీ/సె"
+      }
+    ],
+    "answer": 2,
+    "hint": "Speed v = frequency × wavelength = 20 Hz × 35 m = 700 m/s.",
+    "memory_tip": "v = ν × λ (20 × 35 = 700 m/s)."
+  },
+  {
+    "id": 55,
+    "question": "The repeated reflection that results in the persistence of sound is calle\nపలు మారుు పరావరతనం కారణంగా సాగదీయబడిన ధ్వనిని ఈ విధ్ంగా పిలుసాతరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Echo ప్రతిధ్వని"
+      },
+      {
+        "key": 2,
+        "text": "Multiple reflections బహుళ పరావరతనాలు"
+      },
+      {
+        "key": 3,
+        "text": "Reverberation ప్రతినాద్ం"
+      },
+      {
+        "key": 4,
+        "text": "Frequency పౌనఃప్పనయం"
+      }
+    ],
+    "answer": 3,
+    "hint": "The persistence or prolonged presence of sound in an enclosed hall due to repeated reflections is reverberation.",
+    "memory_tip": "Persistence of sound = Reverberation; Distinct reflected sound after 0.1 s = Echo."
+  },
+  {
+    "id": 56,
+    "question": "The frequency of sound wave is 60 Hz. The number of times does it\nvibrate in one second is\nఒక ధ్వని  త్రంగం యొకక పౌనఃప్పనయం 60 Hz. అది ఒక సెకనలో చేస్త కంపనాల\nసంఖ్య",
+    "options": [
+      {
+        "key": 1,
+        "text": "6"
+      },
+      {
+        "key": 2,
+        "text": "10"
+      },
+      {
+        "key": 3,
+        "text": "60"
+      },
+      {
+        "key": 4,
+        "text": "1/60"
+      }
+    ],
+    "answer": 3,
+    "hint": "Frequency is defined as vibrations per second. A 60 Hz wave vibrates exactly 60 times in one second.",
+    "memory_tip": "1 Hz = 1 vibration per second (60 Hz = 60 vibrations/second)."
+  },
+  {
+    "id": 57,
+    "question": "Temperature of an object is 250C. Its temperature in kelvin scale\nఒక వస్తవు యొకక ఉష్ణోగ్రత్ 250C. దాని ఉష్ణోగ్రత్ క్కలివన్ స్తకలులో",
+    "options": [
+      {
+        "key": 1,
+        "text": "298 K"
+      },
+      {
+        "key": 2,
+        "text": "248 K"
+      },
+      {
+        "key": 3,
+        "text": "300 K"
+      },
+      {
+        "key": 4,
+        "text": "25 K"
+      }
+    ],
+    "answer": 1,
+    "hint": "Convert Celsius to Kelvin: K = °C + 273.15 ≈ 25 + 273 = 298 K.",
+    "memory_tip": "T(K) = t(°C) + 273 (25°C + 273 = 298 K)."
+  },
+  {
+    "id": 58,
+    "question": "Two objects A and B are in thermal equilibrium. If the temperature of A\nis 300C , Then the temperature of B is\nA మరియు B అనే వస్తవులు ఉష్ో సమత్తస్థాతిలో ఉనాియి.  A యొకక ఉష్ణోగ్రత్ 300C\nఅయిన B యొకక ఉష్ణోగ్రత్",
+    "options": [
+      {
+        "key": 1,
+        "text": "00C"
+      },
+      {
+        "key": 2,
+        "text": "300C"
+      },
+      {
+        "key": 3,
+        "text": "3000C"
+      },
+      {
+        "key": 4,
+        "text": "600C"
+      }
+    ],
+    "answer": 2,
+    "hint": "Thermal equilibrium means both objects have reached identical temperatures, so B is also at 30°C.",
+    "memory_tip": "Thermal Equilibrium → Equal Temperatures (T_A = T_B, no net heat transfer)."
+  },
+  {
+    "id": 59,
+    "question": "1 Calorie is equal to\n1 క్కలోరీ దీనికి సమానం",
+    "options": [
+      {
+        "key": 1,
+        "text": "4186 J"
+      },
+      {
+        "key": 2,
+        "text": "418.6 J"
+      },
+      {
+        "key": 3,
+        "text": "41.86 J"
+      },
+      {
+        "key": 4,
+        "text": "4.186 J"
+      }
+    ],
+    "answer": 4,
+    "hint": "1 calorie is the heat needed to raise 1g of water by 1°C, equal to 4.186 Joules (mechanical equivalent of heat).",
+    "memory_tip": "1 Calorie = 4.186 Joules (or 4.2 J; 1 kcal = 4186 J)."
+  },
+  {
+    "id": 60,
+    "question": "Boiling point of water at normal atmospheric pressure is\nసాదారణ వ్యత్తవరణ పీడనం వద్ద నీటి మరుగు సాానం",
+    "options": [
+      {
+        "key": 1,
+        "text": "00C"
+      },
+      {
+        "key": 2,
+        "text": "1000C"
+      },
+      {
+        "key": 3,
+        "text": "1100C"
+      },
+      {
+        "key": 4,
+        "text": "-50C"
+      }
+    ],
+    "answer": 2,
+    "hint": "Under standard atmospheric pressure (1 atm), pure water boils at 100°C (373 K).",
+    "memory_tip": "Pure water at 1 atm: Freezing point = 0°C (273 K); Boiling point = 100°C (373 K)."
+  },
+  {
+    "id": 61,
+    "question": "A spherical mirror whose reflecting surface curved inwards is called\nఒక గోళాకార ద్రపణ పరావరతన త్లం లోపలివైప్పకు వంగి వుంటే దానిని ఈ విధ్ంగా\nపిలుసాతరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Concave mirror ప్పటాకార ద్రపణం"
+      },
+      {
+        "key": 2,
+        "text": "Convex mirror కుంభాకార ద్రపణం"
+      },
+      {
+        "key": 3,
+        "text": "Plane mirror సమత్ల ద్రపణం"
+      },
+      {
+        "key": 4,
+        "text": "Plano convex mirror సమత్ల కుంభాకార ద్రపణం"
+      }
+    ],
+    "answer": 1,
+    "hint": "A spherical mirror with its reflective surface curved inward (like a cave) is a concave mirror.",
+    "memory_tip": "Curved inwards = Concave mirror (converging); Curved outwards = Convex mirror (diverging)."
+  },
+  {
+    "id": 62,
+    "question": "If an object is placed at centre of curvature in front of a concave mirror\nthen the characteristics of image\nఒక ప్పటాకార ద్రపణం ముందు దాని వక్రత్ కేంద్రం వద్ద వస్తవున ఉంచనప్పపడు\nప్రతిబంబ లక్షణాలు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Real , inverted and diminished నిజ , త్లక్రందులు  మరియు క్షయీకృత్"
+      },
+      {
+        "key": 2,
+        "text": "Real , inverted and magnified నిజ , త్లక్రందులు  మరియు వృదీదకృత్"
+      },
+      {
+        "key": 3,
+        "text": "Real , inverted and same size నిజ , త్లక్రందులు  మరియు సమాన పరిమాణం"
+      },
+      {
+        "key": 4,
+        "text": "Virtual  , erect and same size మిధ్యయ , నిటారు   మరియు సమాన పరిమాణం"
+      }
+    ],
+    "answer": 3,
+    "hint": "When an object is placed at the centre of curvature (C) of a concave mirror, the image is formed at C, real, inverted, and of identical size.",
+    "memory_tip": "Concave mirror: Object at C → Image at C (Magnification m = -1; same size, real & inverted)."
+  },
+  {
+    "id": 63,
+    "question": "To form an image at infinite distance, the object should be placed in front\nof a concave mirror at\nప్రతిబంబం అనంత్ దూరంలో ఏరపడటానికి వస్తవున ప్పటాకార ద్రపణం ముందు ఈ\nసాానం లో ఉంచ్చలి",
+    "options": [
+      {
+        "key": 1,
+        "text": "At focus నాభి వద్ద"
+      },
+      {
+        "key": 2,
+        "text": "At pole ధ్ృవం వద్ద"
+      },
+      {
+        "key": 3,
+        "text": "At centre of curvature వక్రత్ కేంద్రం వద్ద"
+      },
+      {
+        "key": 4,
+        "text": "Between pole and focus ధ్ృవం మరియు నాభి మధ్యలో"
+      }
+    ],
+    "answer": 1,
+    "hint": "Light rays emerging from the principal focus (F) become parallel after reflection, focusing at infinity.",
+    "memory_tip": "Concave mirror: Object at Focus (F) ↔ Image at Infinity (∞)."
+  },
+  {
+    "id": 64,
+    "question": "This lens is called converging lens\nఈ కటకానిి కేంద్రీకరణ కటకం అని పిలుసాతరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Concave lens ప్పటాకార కటకం"
+      },
+      {
+        "key": 2,
+        "text": "Convex lens కుంభాకార కటకం"
+      },
+      {
+        "key": 3,
+        "text": "Plano concave lens సమత్ల ప్పటాకార కటకం"
+      },
+      {
+        "key": 4,
+        "text": "Plano convex lens సమత్ల కుంభాకార కటకం"
+      }
+    ],
+    "answer": 2,
+    "hint": "A convex lens is thicker at the centre and bends incoming parallel light rays inward to a single focus, converging them.",
+    "memory_tip": "Convex lens = Converging lens; Concave lens = Diverging lens."
+  },
+  {
+    "id": 65,
+    "question": "Lens formula among the following\nకింది వ్యటిలో కటక సూత్రం",
+    "options": [
+      {
+        "key": 1,
+        "text": "1 𝑢 + 1 𝑣 = 1 𝑓"
+      },
+      {
+        "key": 2,
+        "text": "1 𝑣 - 1 𝑢 = 1 𝑓"
+      },
+      {
+        "key": 3,
+        "text": "1 𝑣 = 1 𝑓 - 1 𝑢"
+      },
+      {
+        "key": 4,
+        "text": "1 𝑢 = 1 𝑓 - 1 𝑣"
+      }
+    ],
+    "answer": 2,
+    "hint": "The lens formula relates image distance v, object distance u, and focal length f: 1/v - 1/u = 1/f.",
+    "memory_tip": "Lens formula: 1/v - 1/u = 1/f; Mirror formula: 1/v + 1/u = 1/f."
+  },
+  {
+    "id": 66,
+    "question": "The power of the lens with focal length 2metres ( in diapters)\n2 మీటరు నాబాయంత్రం  గల కటక సామరధాం ( డై అపటర్ లలో)",
+    "options": [
+      {
+        "key": 1,
+        "text": "0.1"
+      },
+      {
+        "key": 2,
+        "text": "0.2"
+      },
+      {
+        "key": 3,
+        "text": "0.5"
+      },
+      {
+        "key": 4,
+        "text": "2"
+      }
+    ],
+    "answer": 3,
+    "hint": "Power P = 1 / f(in metres) = 1 / 2 = 0.5 Dioptres.",
+    "memory_tip": "Power P = 1 / f(m) = 100 / f(cm) (Unit: Dioptre, D)."
+  },
+  {
+    "id": 67,
+    "question": "The following material cannot be used to make a lens\nకటక త్యారీకి ఉపయోగ పడని పదారదం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Water నీరు"
+      },
+      {
+        "key": 2,
+        "text": "Glass గాజు"
+      },
+      {
+        "key": 3,
+        "text": "Plastic పాుస్థటక్"
+      },
+      {
+        "key": 4,
+        "text": "Clay బంక మటిట"
+      }
+    ],
+    "answer": 4,
+    "hint": "A lens must be made of a transparent refracting material. Clay is completely opaque and cannot refract light.",
+    "memory_tip": "Lens materials must be transparent (Glass, Water, Clear Plastic); Opaque clay cannot make a lens."
+  },
+  {
+    "id": 68,
+    "question": "The human eye forms the image of an object at its\nమానవుని కని ఒక వస్తవు యొకక ప్రతి బంబానిి ఇకకడ ఏరపరుస్తంది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Cornea కారిియా"
+      },
+      {
+        "key": 2,
+        "text": "Iris కనపాప"
+      },
+      {
+        "key": 3,
+        "text": "Pupil త్తరక"
+      },
+      {
+        "key": 4,
+        "text": "Retina ర్కటీనా"
+      }
+    ],
+    "answer": 4,
+    "hint": "The light-sensitive inner surface at the back of the human eye where the real, inverted image is focused is the retina.",
+    "memory_tip": "Retina = Image screen of human eye (contains photoreceptors: rods and cones)."
+  },
+  {
+    "id": 69,
+    "question": "The change in the focal length of the eye lens is caused by the action of\nదీని  వలన కంటి కటకం యొకక నాబాయంత్రం మారుతుంది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Pupil త్తరక"
+      },
+      {
+        "key": 2,
+        "text": "Retina ర్కటీనా"
+      },
+      {
+        "key": 3,
+        "text": "Ciliary muscles స్థలియరీ కండరాలు"
+      },
+      {
+        "key": 4,
+        "text": "Iris కనపాప"
+      }
+    ],
+    "answer": 3,
+    "hint": "Ciliary muscles alter the curvature and shape of the flexible eye lens to adjust its focal length (accommodation).",
+    "memory_tip": "Power of Accommodation is controlled by Ciliary muscles."
+  },
+  {
+    "id": 70,
+    "question": "The splitting of white light into component colours is\nతెలుని కాంతి దాని అంశీబూత్ రంగులుగా విడిపోవడానిి ఈ విద్ంగా పిలుసాతరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Scattering పరిక్షేపణము"
+      },
+      {
+        "key": 2,
+        "text": "Dispersion విక్షేపణము"
+      },
+      {
+        "key": 3,
+        "text": "Reflection పరావరతనము"
+      },
+      {
+        "key": 4,
+        "text": "Refraction వక్రీభవనము"
+      }
+    ],
+    "answer": 2,
+    "hint": "The phenomenon of splitting white light into its constituent rainbow colors (VIBGYOR) when passing through a prism is dispersion.",
+    "memory_tip": "White light splitting into 7 colours = Dispersion (VIBGYOR: Violet bends most, Red bends least)."
+  },
+  {
+    "id": 71,
+    "question": "The defect arises due to gradual weakening of ciliary muscles and\ndiminishing the flexibility of eye lens is\nస్థలియారీ కండరాలు క్రమంగా బలహీన పడడం మరియు కంటి కటకం యొకక సాగే\nగుణం త్గుడం వలన ఏరపడే లోపం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Myopia హ్రసవ ద్ృష్టట"
+      },
+      {
+        "key": 2,
+        "text": "Hypermetropia ధీర్ద్ృష్టట"
+      },
+      {
+        "key": 3,
+        "text": "Presbyopia చత్తవరం"
+      },
+      {
+        "key": 4,
+        "text": "blindness అంధ్త్వం"
+      }
+    ],
+    "answer": 3,
+    "hint": "Loss of accommodation power in elderly individuals due to weakening ciliary muscles and hardening of the eye lens is presbyopia.",
+    "memory_tip": "Presbyopia = Old age vision defect (corrected using bi-focal lenses)."
+  },
+  {
+    "id": 72,
+    "question": "The lens used to correct the eye defect myopia\nహ్రసవ ద్ృష్టట లోపానిి సవరించుటకు వ్యడే కటకం",
+    "options": [
+      {
+        "key": 1,
+        "text": "concave lens ప్పటాకార కటకం"
+      },
+      {
+        "key": 2,
+        "text": "convex lens కుంభాకార కటకం"
+      },
+      {
+        "key": 3,
+        "text": "plano convex lens సమత్ల కుంభాకార కటకం"
+      },
+      {
+        "key": 4,
+        "text": "plano concave lens సమత్ల ప్పటాకార కటకం"
+      }
+    ],
+    "answer": 1,
+    "hint": "Myopia (short-sightedness) causes images to form in front of the retina; a concave (diverging) lens is used to correct it.",
+    "memory_tip": "Myopia → Concave lens; Hypermetropia → Convex lens; Astigmatism → Cylindrical lens."
+  },
+  {
+    "id": 73,
+    "question": "The S.I unit of potential difference\nపట్టనిషయల్ బేధ్యనికి S.I ప్రమాణం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Ampere ఆంపియర్"
+      },
+      {
+        "key": 2,
+        "text": "Volt వోల్ట"
+      },
+      {
+        "key": 3,
+        "text": "Joule జౌల్"
+      },
+      {
+        "key": 4,
+        "text": "Ohm ఓమ్"
+      }
+    ],
+    "answer": 1,
+    "hint": "Potential difference is work done per unit charge (V = W/Q), measured in Volts (V). [Official key indicates (1), but standard SI unit is Volt (2)].",
+    "memory_tip": "SI unit of Potential Difference = Volt (V = J/C); Current = Ampere (A); Resistance = Ohm (Ω)."
+  },
+  {
+    "id": 74,
+    "question": "Work done in moving a charge of 2C across two points having a\npotential difference 12V is\n12 V పట్టనిషయల్ భేద్ం గల ర్కండు బందువుల మధ్య 2 C ఆవేశానిి కదిలించుటకు\nజరగవలస్థన పని",
+    "options": [
+      {
+        "key": 1,
+        "text": "6 J"
+      },
+      {
+        "key": 2,
+        "text": "12 J"
+      },
+      {
+        "key": 3,
+        "text": "24 J"
+      },
+      {
+        "key": 4,
+        "text": "10 J"
+      }
+    ],
+    "answer": 2,
+    "hint": "Work done W = Q × V = 2 C × 12 V = 24 J. [Note: Official key marks (2) 12 J; standard formula gives 24 J (3)].",
+    "memory_tip": "W = Q × V (Work in Joules = Charge in Coulombs × Potential Difference in Volts)."
+  },
+  {
+    "id": 75,
+    "question": "If the length of the wire increased by 2 times, then the resistance of the\nwire increases\nby\nతీగ పడవున 2 ర్కట్టు పెంచనప్పపడు ఆ తీగ నిరోధ్ం విలువ ఇనిి ర్కట్టు పెరుగున",
+    "options": [
+      {
+        "key": 1,
+        "text": "2 times 2 ర్కట్టు"
+      },
+      {
+        "key": 2,
+        "text": "4 times 4 ర్కట్టు"
+      },
+      {
+        "key": 3,
+        "text": "½ times ½ ర్కట్టు"
+      },
+      {
+        "key": 4,
+        "text": "¼ times ¼ ర్కట్టు"
+      }
+    ],
+    "answer": 3,
+    "hint": "Resistance is directly proportional to length (R ∝ l). Increasing wire length by 2 times increases resistance by 2 times. [Note: Official key marks (3); standard relation gives (1)].",
+    "memory_tip": "R = ρ·l / A → R ∝ l (Directly proportional to wire length)."
+  },
+  {
+    "id": 76,
+    "question": "If the area of the cross section of the wire increases by 2 times, then the\nresistance increases by\nతీగ మధ్యచేేద్న వైశాలాయనిి 2 ర్కట్టు పెంచనప్పడు దాని నిరోధ్ం విలువ ఇనిి  ర్కట్టు\nపెరుగుతుంది",
+    "options": [
+      {
+        "key": 1,
+        "text": "2 times 2 ర్కట్టు"
+      },
+      {
+        "key": 2,
+        "text": "4 times 4 ర్కట్టు"
+      },
+      {
+        "key": 3,
+        "text": "½ times ½ ర్కట్టు"
+      },
+      {
+        "key": 4,
+        "text": "¼ times ¼ ర్కట్టు"
+      }
+    ],
+    "answer": 1,
+    "hint": "Resistance is inversely proportional to cross-sectional area (R ∝ 1/A). Doubling area halves resistance (½ times). [Note: Official key marks (1); standard relation gives (3)].",
+    "memory_tip": "R ∝ 1/A (Thicker wire has lower resistance; Area × 2 → Resistance ÷ 2)."
+  },
+  {
+    "id": 77,
+    "question": "Resistors with resistance values 2 Ὠ, 4Ὠ are connected in series then the\nresultant resistance will be\n2 Ὠ , 4Ὠ  నిరోధ్ విలువలు కలిగిన నిరోధ్యలన శ్రేణిలో కలిపినప్పడు ఫలిత్ నిరోధ్\nవిలువ",
+    "options": [
+      {
+        "key": 1,
+        "text": "2 Ω"
+      },
+      {
+        "key": 2,
+        "text": "4 Ω"
+      },
+      {
+        "key": 3,
+        "text": "6 Ω"
+      },
+      {
+        "key": 4,
+        "text": "1/6 Ω"
+      }
+    ],
+    "answer": 3,
+    "hint": "In a series circuit, resistances add up directly: R_eq = R₁ + R₂ = 2 Ω + 4 Ω = 6 Ω.",
+    "memory_tip": "Series connection: R_total = R₁ + R₂ + ... (Equivalent resistance is always larger than the largest resistor)."
+  },
+  {
+    "id": 78,
+    "question": "Resistors with resistances 5 Ω and 10 Ω are connected in parallel then the\nresultant resistance will be\n5 Ω మరియు  10 Ω నిరోధ్ విలువలు కలిగిన నిరోధ్యలన సమాంత్రంగా కలిపినప్పడు\nఫలిత్ నిరోధ్ం విలువ",
+    "options": [
+      {
+        "key": 1,
+        "text": "5 Ω"
+      },
+      {
+        "key": 2,
+        "text": "15 Ω"
+      },
+      {
+        "key": 3,
+        "text": "3/10 Ω"
+      },
+      {
+        "key": 4,
+        "text": "10/3 Ω"
+      }
+    ],
+    "answer": 4,
+    "hint": "For two resistors in parallel: R_eq = (R₁ × R₂) / (R₁ + R₂) = (5 × 10) / (5 + 10) = 50 / 15 = 10/3 Ω.",
+    "memory_tip": "Parallel connection: R_eq = (R₁·R₂) / (R₁ + R₂) (Equivalent resistance is smaller than the smallest resistor)."
+  },
+  {
+    "id": 79,
+    "question": "When a current of 2A passed through the resistance of 5 Ω then the\npotential difference between the terminals of resistor is\n5 Ω ల నిరోధ్ం గుండా 2 A కర్కంట్ ప్రవహిస్తనిప్పడు ఆ నిరోధ్ం ర్కండు కొనల మధ్య\nపట్టనిషయల్ భేధ్ం",
+    "options": [
+      {
+        "key": 1,
+        "text": "3 V"
+      },
+      {
+        "key": 2,
+        "text": "2.5 V"
+      },
+      {
+        "key": 3,
+        "text": "0.4 V"
+      },
+      {
+        "key": 4,
+        "text": "10 V"
+      }
+    ],
+    "answer": 4,
+    "hint": "Using Ohm's law: Potential difference V = I × R = 2 A × 5 Ω = 10 V.",
+    "memory_tip": "Ohm's Law: V = I × R (Voltage = Current × Resistance)."
+  },
+  {
+    "id": 80,
+    "question": "One kilo watt hour (KWH) is equal to\nఒక కిలో వ్యట్ అవర్ (KWH ) దీనికి సమానం",
+    "options": [
+      {
+        "key": 1,
+        "text": "3.6×106 erg 3.6×106 ఎర్ు"
+      },
+      {
+        "key": 2,
+        "text": "3.6×106 joul 3.6×106  జౌల్"
+      },
+      {
+        "key": 3,
+        "text": "3.6  erg 3.6 ఎర్ు"
+      },
+      {
+        "key": 4,
+        "text": "3.6  joule 3.6 జౌల్"
+      }
+    ],
+    "answer": 2,
+    "hint": "1 kWh = 1000 W × 3600 s = 3,600,000 J = 3.6 × 10⁶ Joules.",
+    "memory_tip": "1 Commercial unit of electricity = 1 kWh = 3.6 × 10⁶ Joules."
+  },
+  {
+    "id": 81,
+    "question": "The following terms does not represent electrical power in a circuit\nకింది వ్యనిలో ఒక విదుయత్ వలయంలో విదుయత్ సామరధామున సూచంచనిది",
+    "options": [
+      {
+        "key": 1,
+        "text": "i2R"
+      },
+      {
+        "key": 2,
+        "text": "iR2"
+      },
+      {
+        "key": 3,
+        "text": "V i"
+      },
+      {
+        "key": 4,
+        "text": "V2/ R"
+      }
+    ],
+    "answer": 2,
+    "hint": "Electric power formulas are P = VI = I²R = V²/R. The term iR² does not represent power.",
+    "memory_tip": "Power formulas: P = VI, P = I²R, P = V²/R (iR² is not power; I²R is power)."
+  },
+  {
+    "id": 82,
+    "question": "The S.I unit of resistivity\nనిరోద్కత్ యొకక S . I ప్రమాణం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Ω"
+      },
+      {
+        "key": 2,
+        "text": "Ω - m"
+      },
+      {
+        "key": 3,
+        "text": "Ω m2"
+      },
+      {
+        "key": 4,
+        "text": "Ω / m2"
+      }
+    ],
+    "answer": 2,
+    "hint": "From R = ρl/A, resistivity ρ = RA/l = (Ω × m²) / m = Ω·m (Ohm-metre).",
+    "memory_tip": "SI unit of Resistivity (ρ) = Ω·m; Conductivity (σ) = (Ω·m)⁻¹ or Siemens/m."
+  },
+  {
+    "id": 83,
+    "question": "1 Volt =    1 𝑐𝑜𝑢𝑙𝑢𝑚𝑏\n1 వోల్ట  =  1 కులుంబ్",
+    "options": [
+      {
+        "key": 1,
+        "text": "1 joule"
+      },
+      {
+        "key": 2,
+        "text": "1 ohm"
+      },
+      {
+        "key": 3,
+        "text": "1 watt"
+      },
+      {
+        "key": 4,
+        "text": "1 ampere"
+      }
+    ],
+    "answer": 1,
+    "hint": "From potential definition V = W / Q, 1 Volt = 1 Joule / 1 Coulomb.",
+    "memory_tip": "1 Volt = 1 Joule / 1 Coulomb (1 V = 1 J·C⁻¹)."
+  },
+  {
+    "id": 84,
+    "question": "1 ohm =  1 𝑎𝑚𝑝𝑒𝑟𝑒\n1 ఓమ్  =  1 ఆుంపియర్",
+    "options": [
+      {
+        "key": 1,
+        "text": "1 coulomb"
+      },
+      {
+        "key": 2,
+        "text": "1 joule"
+      },
+      {
+        "key": 3,
+        "text": "1 volt"
+      },
+      {
+        "key": 4,
+        "text": "1 watt"
+      }
+    ],
+    "answer": 3,
+    "hint": "From Ohm's law R = V / I, 1 Ohm = 1 Volt / 1 Ampere.",
+    "memory_tip": "1 Ohm = 1 Volt / 1 Ampere (1 Ω = 1 V·A⁻¹)."
+  },
+  {
+    "id": 85,
+    "question": "The physical quantity magnetic field has\nఅయసాకంత్ క్షేత్రం అనే భౌతిక రాశికి",
+    "options": [
+      {
+        "key": 1,
+        "text": "Only magnitude పరిమాణం మాత్రమే ఉంట్టంది"
+      },
+      {
+        "key": 2,
+        "text": "Only direction దిశ మాత్రమే ఉంట్టంది"
+      },
+      {
+        "key": 3,
+        "text": "Both magnitude and direction పరిమాణం మరియు దిశ ర్కండు వుంటాయి"
+      },
+      {
+        "key": 4,
+        "text": "Neither magnitude nor direction పరిమాణం కానీ దిశ కానీ ఉండదు"
+      }
+    ],
+    "answer": 3,
+    "hint": "A magnetic field has both magnitude (field strength) and a defined direction (tangent to field lines), making it a vector quantity.",
+    "memory_tip": "Magnetic field (B) is a vector quantity (has both magnitude and direction; unit: Tesla)."
+  },
+  {
+    "id": 86,
+    "question": "In right hand thumb rule, thumb indicates the direction of\nకుడిచేతి బొటన వేలి నిబంధ్నలో బొటన వేలు ఈ దిశన చూప్పతుంది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Magnetic field అయసాకంత్ క్షేత్రం"
+      },
+      {
+        "key": 2,
+        "text": "Electric current విదుయత్ ప్రవ్యహం"
+      },
+      {
+        "key": 3,
+        "text": "Induced current నివేశ విదుయత్"
+      },
+      {
+        "key": 4,
+        "text": "Induced magnetic field నివేశ అయసాకంత్ క్షేత్రం"
+      }
+    ],
+    "answer": 2,
+    "hint": "In Maxwell's right-hand thumb rule, the outstretched thumb points in the direction of electric current.",
+    "memory_tip": "Right-Hand Thumb Rule: Thumb = Current direction; Curled fingers = Magnetic field lines."
+  },
+  {
+    "id": 87,
+    "question": "The direction of magnetic lines of force outside the bar magnet\nద్ండయసాకంత్ వెలుపల అయసాకంత్ బలరేఖ్ల దిశ",
+    "options": [
+      {
+        "key": 1,
+        "text": "From north to south ఉత్తరం నండి ద్క్షిణం వైప్ప"
+      },
+      {
+        "key": 2,
+        "text": "From south to north ద్క్షిణం నండి ఉత్తరం వైప్ప"
+      },
+      {
+        "key": 3,
+        "text": "From east to west తూరుప నండి పడమరకు"
+      },
+      {
+        "key": 4,
+        "text": "From west to east పడమర నండి తూరుపకు"
+      }
+    ],
+    "answer": 1,
+    "hint": "Outside a bar magnet, magnetic flux lines emerge from the North pole and enter the South pole.",
+    "memory_tip": "Magnetic field lines: Outside magnet: North → South; Inside magnet: South → North."
+  },
+  {
+    "id": 88,
+    "question": "If a current passes through the horizontal powerline from east to west\nthen the direction of magnetic field at a point below the wire when\nviewed from east to west\nక్షితిజ సమాంత్ర విధ్యయత్ తీగలో విధ్యయత్ ప్రవ్యహం తూరుప నండి పడమర వైప్ప\nప్రవహిస్తంటే దాని కింద్ ఒక బందువు వద్ద తూరుప నండి చూస్థనప్పపడు అయసాకంత్\nక్షేత్ర దిశ",
+    "options": [
+      {
+        "key": 1,
+        "text": "In clockwise direction in a plane perpendicular to the wire తీగకు లంబ దిశలో గల త్లంలో సవయ దిశలో"
+      },
+      {
+        "key": 2,
+        "text": "In anti clockwise direction in a plane perpendicular to the wire తీగకు లంబ దిశలో గల త్లంలో అపసవయదిశలో"
+      },
+      {
+        "key": 3,
+        "text": "In clockwise direction in a plane parallel to the wire తీగకు సమాంత్ర  దిశలో గల త్లంలో సవయ దిశలో"
+      },
+      {
+        "key": 4,
+        "text": "In anti clockwise direction in a plane parallel to the wire తీగకు సమాంత్ర  దిశలో గల త్లంలో అపసవయదిశలో"
+      }
+    ],
+    "answer": 1,
+    "hint": "Point right thumb west (along current). Looking from the east end, the fingers curl in a clockwise direction below the wire.",
+    "memory_tip": "Right-hand grip rule: East-to-west current produces clockwise circular field lines when viewed from east."
+  },
+  {
+    "id": 89,
+    "question": "In Flemings left hand rule central finger indicates the direction of\nఫ్లుమింగ్ ఎడమ చేతి నిబంద్నలో మధ్య వేలు ఈ దిశన చూపిస్తంది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Magnetic field అయసాకంత్ క్షేత్రం"
+      },
+      {
+        "key": 2,
+        "text": "Current విదుయత్ ప్రవ్యహం"
+      },
+      {
+        "key": 3,
+        "text": "Force on the conductor వ్యహకంపై పనిచేస్త బలం"
+      },
+      {
+        "key": 4,
+        "text": "Induced current నివేశ విదుయత్"
+      }
+    ],
+    "answer": 2,
+    "hint": "In Fleming's Left-Hand Rule, the middle (central) finger represents the direction of electric current.",
+    "memory_tip": "Fleming's Left-Hand Rule (FBI): Thumb = Force (F), Forefinger = B-field, Middle finger = Current (I)."
+  },
+  {
+    "id": 90,
+    "question": "In Flemings left hand rule fore finger indicates the direction of\nఫ్లుమింగ్ ఎడమ చేతి నిబంద్నలో చూప్పడు వేలు ఈ దిశన చూపిస్తంది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Magnetic field అయసాకంత్ క్షేత్రం"
+      },
+      {
+        "key": 2,
+        "text": "Current electricity విదుయత్ ప్రవ్యహం"
+      },
+      {
+        "key": 3,
+        "text": "Force on the conductor వ్యహకంపై పనిచేస్త బలం"
+      },
+      {
+        "key": 4,
+        "text": "Induced current నివేశ విదుయత్"
+      }
+    ],
+    "answer": 1,
+    "hint": "In Fleming's Left-Hand Rule, the forefinger (index finger) points in the direction of the magnetic field.",
+    "memory_tip": "Forefinger = Field (Magnetic Field B)."
+  },
+  {
+    "id": 91,
+    "question": "In Flemings left hand rule, thumb  indicates the direction of\nఫ్లుమింగ్ ఎడమ చేతి నిబంద్నలో బొటన వేలు ఈ దిశన చూపిస్తంది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Magnetic field అయసాకంత్ క్షేత్రం"
+      },
+      {
+        "key": 2,
+        "text": "Current electricity విదుయత్ ప్రవ్యహం"
+      },
+      {
+        "key": 3,
+        "text": "Force on the conductor వ్యహకంపై పనిచేస్త బలం"
+      },
+      {
+        "key": 4,
+        "text": "Induced current నివేశ విదుయత్"
+      }
+    ],
+    "answer": 3,
+    "hint": "In Fleming's Left-Hand Rule, the thumb indicates the direction of motion or mechanical force acting on the conductor.",
+    "memory_tip": "Thumb = Thrust / Mechanical Force (F)."
+  },
+  {
+    "id": 92,
+    "question": "At the time of short circuit ,  the current in the circuit\nషార్ట సరూకాట్ సమయంలో వలయంలో విదుయత్ ప్రవ్యహం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Reduces substantially గణనీయంగా త్గుుతుంది"
+      },
+      {
+        "key": 2,
+        "text": "Does not change మారదు"
+      },
+      {
+        "key": 3,
+        "text": "Increases heavily బారీగా పెరుగుతుంది"
+      },
+      {
+        "key": 4,
+        "text": "Vary continuously నిరంత్రంగా మారుతూ ఉంట్టంది"
+      }
+    ],
+    "answer": 3,
+    "hint": "During a short circuit, live and neutral wires make direct contact, resistance drops to near zero, and current increases abruptly and substantially.",
+    "memory_tip": "Short circuit: Resistance R → 0, Current I → Increases substantially (causing sparks/fire)."
+  },
+  {
+    "id": 93,
+    "question": "Units of magnetic flux density is\nఅయసాకంత్ అభివ్యహ సాంద్రత్కు ప్రమాణాలు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Weber వెబర్"
+      },
+      {
+        "key": 2,
+        "text": "Weber- meter వెబర్- మీటర్"
+      },
+      {
+        "key": 3,
+        "text": "Weber/meter వెబర్/మీటర్"
+      },
+      {
+        "key": 4,
+        "text": "Weber/meter2 వెబర్/మీటర్2"
+      }
+    ],
+    "answer": 4,
+    "hint": "Magnetic flux density B = Φ / A, measured in Weber per square metre (Weber/m²) or Tesla (T). [Note: Option 4 in paper represents Weber/m²].",
+    "memory_tip": "Magnetic Flux (Φ) = Weber; Magnetic Flux Density (B) = Weber/m² = Tesla."
+  },
+  {
+    "id": 94,
+    "question": "If a charge ‘q’ move with a velocity ‘v’ perpendicular to the magnetic\nfield  ‘B’ then the magnetic force on the charge is\n‘q’ ఆవేశం ‘v’ వేగంతో ‘B’ అయసాకంత్ క్షేత్రానికి లంబంగా కదులుతుంటే  ఆ ఆవేశం\nపై పనిచేస్త అయసాకంత్ బలం",
+    "options": [
+      {
+        "key": 1,
+        "text": "qvB"
+      },
+      {
+        "key": 2,
+        "text": "𝑞𝑣𝐵 2"
+      },
+      {
+        "key": 3,
+        "text": "𝑞𝑣𝐵 3"
+      },
+      {
+        "key": 4,
+        "text": "0"
+      }
+    ],
+    "answer": 1,
+    "hint": "Lorentz force on a moving charge: F = qvB sinθ. For perpendicular motion (θ = 90°), sin 90° = 1, giving F = qvB.",
+    "memory_tip": "Magnetic force on moving charge: F = q·v·B·sinθ (Maximum F = qvB when θ = 90°)."
+  },
+  {
+    "id": 95,
+    "question": "Non-magnetic material among the following is\nకింది వ్యటిలో  అనయసాకంత్ పదారధం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Iron ఐరన్"
+      },
+      {
+        "key": 2,
+        "text": "Cobalt కోబాల్ట"
+      },
+      {
+        "key": 3,
+        "text": "Nickel నిక్కల్"
+      },
+      {
+        "key": 4,
+        "text": "Wood చెకక"
+      }
+    ],
+    "answer": 4,
+    "hint": "Iron, cobalt, and nickel are strongly ferromagnetic, whereas wood has no magnetic properties and is non-magnetic.",
+    "memory_tip": "Magnetic materials: Fe, Co, Ni; Non-magnetic: Wood, Plastic, Glass, Rubber."
+  },
+  {
+    "id": 96,
+    "question": "If you cut the magnet into two pieces number of poles does each piece\nhas\nఒక ఆయసాకంత్తనిి మీరు ర్కండు ముకకలుగా చేస్తత ప్రతి ముకకలో గల ద్ృవ్యల సంఖ్య",
+    "options": [
+      {
+        "key": 1,
+        "text": "1"
+      },
+      {
+        "key": 2,
+        "text": "2"
+      },
+      {
+        "key": 3,
+        "text": "3"
+      },
+      {
+        "key": 4,
+        "text": "4"
+      }
+    ],
+    "answer": 2,
+    "hint": "Isolated magnetic monopoles do not exist. Cutting a magnet into two pieces produces two smaller complete magnets, each with 2 poles (N & S).",
+    "memory_tip": "Magnetic monopoles do not exist; every magnet always has 2 poles (North and South)."
+  },
+  {
+    "id": 97,
+    "question": "Bauxite is an ore of this metal\nబాక్కథైట్ అనేది ఈ లోహము యొకక దాతువు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Zinc జంక్"
+      },
+      {
+        "key": 2,
+        "text": "Barium బేరియం"
+      },
+      {
+        "key": 3,
+        "text": "Aluminium  అలూయమినియం"
+      },
+      {
+        "key": 4,
+        "text": "Iron ఐరన్"
+      }
+    ],
+    "answer": 3,
+    "hint": "Bauxite (Al₂O₃·2H₂O) is the primary hydrated oxide ore used for the commercial extraction of Aluminium.",
+    "memory_tip": "Aluminium ore = Bauxite (Al₂O₃·2H₂O); Iron ore = Haematite (Fe₂O₃)."
+  },
+  {
+    "id": 98,
+    "question": "Formula of cinnabar is\nస్థనిబార్ యొకక ఫారుమలా",
+    "options": [
+      {
+        "key": 1,
+        "text": "HgS"
+      },
+      {
+        "key": 2,
+        "text": "PbS"
+      },
+      {
+        "key": 3,
+        "text": "AlCl3"
+      },
+      {
+        "key": 4,
+        "text": "MnO2"
+      }
+    ],
+    "answer": 1,
+    "hint": "Cinnabar is mercury(II) sulfide, chemical formula HgS.",
+    "memory_tip": "Cinnabar = HgS (Mercury ore); Galena = PbS (Lead ore)."
+  },
+  {
+    "id": 99,
+    "question": "The impurity present in the ore is called\nదాతువులో ఉని మలినాలన ఈ విధ్ంగా పిలుసాతరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Gangue గాయంగ్"
+      },
+      {
+        "key": 2,
+        "text": "Flux ద్రవకారి"
+      },
+      {
+        "key": 3,
+        "text": "Slag లోహ మలం"
+      },
+      {
+        "key": 4,
+        "text": "Mineral ఖ్నిజం"
+      }
+    ],
+    "answer": 1,
+    "hint": "The unwanted earthy, sandy, or rocky impurities associated with naturally mined ore are called gangue.",
+    "memory_tip": "Gangue (rocky impurity) + Flux = Slag (fusible waste)."
+  },
+  {
+    "id": 100,
+    "question": "The reducing agent in thermite process is\nధ్రిమట్ విధ్యనంలో క్షయకరణ కారకం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Al"
+      },
+      {
+        "key": 2,
+        "text": "Mg"
+      },
+      {
+        "key": 3,
+        "text": "Fe"
+      },
+      {
+        "key": 4,
+        "text": "Si"
+      }
+    ],
+    "answer": 1,
+    "hint": "In the thermite reaction, aluminium powder acts as a powerful reducing agent to reduce iron(III) oxide: Fe₂O₃ + 2Al → Al₂O₃ + 2Fe.",
+    "memory_tip": "Thermite Process: Aluminium (Al) is the reducing agent (used for welding railway tracks)."
+  },
+  {
+    "id": 101,
+    "question": "The correct formula of gypsum\nజపైమ్ యొకక సరియైన ఫారుమలా",
+    "options": [
+      {
+        "key": 1,
+        "text": "CuSO4 . 2H2O"
+      },
+      {
+        "key": 2,
+        "text": "CaSO4 . 1/2H2O"
+      },
+      {
+        "key": 3,
+        "text": "CuSO4 . 5H2O"
+      },
+      {
+        "key": 4,
+        "text": "CaSO4 . 2H2O"
+      }
+    ],
+    "answer": 4,
+    "hint": "Gypsum is calcium sulphate dihydrate with the chemical formula CaSO₄·2H₂O.",
+    "memory_tip": "Gypsum = CaSO₄·2H₂O; Plaster of Paris (POP) = CaSO₄·½H₂O."
+  },
+  {
+    "id": 102,
+    "question": "Corrosion occurs in the presence of\nలోహ క్షయం వీటి సమక్షంలో జరుగుతుంది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Oxygen and Carbon dioxide ఆకిైజన్ మరియు కారబన్ డై ఆక్కథైడ్"
+      },
+      {
+        "key": 2,
+        "text": "Oxygen and Water ఆకిైజన్ మరియు నీరు"
+      },
+      {
+        "key": 3,
+        "text": "Nitrogen and Water నైట్రోజన్ మరియు నీరు"
+      },
+      {
+        "key": 4,
+        "text": "Oxygen and Nitrogen ఆకిైజన్ మరియు నైట్రోజన్"
+      }
+    ],
+    "answer": 2,
+    "hint": "Corrosion (rusting of iron) requires the simultaneous presence of both oxygen (air) and moisture (water).",
+    "memory_tip": "Rusting conditions: Iron + Oxygen (O₂) + Water (H₂O) → Rust (Fe₂O₃·xH₂O)."
+  },
+  {
+    "id": 103,
+    "question": "Heating the ore in the absence of air or oxygen is called\nధ్యతువున గాలి లేదా ఆకిైజన్ లేకుండా వేడిచేయడానిి ఈ విధ్ంగా పిలుసాతరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Roasting భరజనము"
+      },
+      {
+        "key": 2,
+        "text": "Smelting ప్రగలనము"
+      },
+      {
+        "key": 3,
+        "text": "Calcination భస్మమకరణము"
+      },
+      {
+        "key": 4,
+        "text": "Refining శుదిధచేయడము"
+      }
+    ],
+    "answer": 3,
+    "hint": "Heating carbonate or hydrated ores strongly below their melting point in the absence (or limited supply) of air is calcination.",
+    "memory_tip": "Calcination = Absence of air (Carbonate ores); Roasting = Presence of excess air (Sulphide ores)."
+  },
+  {
+    "id": 104,
+    "question": "Heating the ore strongly in the presence of air or oxygen is called\nధ్యతువున గాలి లేదా ఆకిైజన్ సమక్షములో అధిక ఉష్ణోగ్రత్కు వేడి చేయడానిి ఈ\nవిధ్ంగా పిలిసాతరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Roasting భరజనము"
+      },
+      {
+        "key": 2,
+        "text": "Smelting ప్రగలనము"
+      },
+      {
+        "key": 3,
+        "text": "Calcination భస్మమకరణము"
+      },
+      {
+        "key": 4,
+        "text": "Refining శుదిధచేయడము"
+      }
+    ],
+    "answer": 1,
+    "hint": "Heating sulphide ores strongly below their melting point in excess air/oxygen is known as roasting.",
+    "memory_tip": "Roasting: 2ZnS + 3O₂ → 2ZnO + 2SO₂ (Converts sulphide ores into oxides in presence of air)."
+  },
+  {
+    "id": 105,
+    "question": "Heating the ore strongly by adding flux is called\nధ్యతువున ద్రవకారితో కలిపి అధిక ఉష్ణోగ్రత్కు వేడిచేయడానిి ఈ విధ్ంగా పిలుసాతరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Roasting భరజనము"
+      },
+      {
+        "key": 2,
+        "text": "Smelting ప్రగలనము"
+      },
+      {
+        "key": 3,
+        "text": "Calcination భస్మమకరణము"
+      },
+      {
+        "key": 4,
+        "text": "Refining శుదిధచేయడము"
+      }
+    ],
+    "answer": 2,
+    "hint": "Heating the roasted/calcined ore with a flux and reducing agent at high temperatures to extract molten metal is smelting.",
+    "memory_tip": "Smelting: Ore + Flux + Coke → Molten Metal + Slag."
+  },
+  {
+    "id": 106,
+    "question": "The most abundant metal in earth crust is\nభూపటలంలో అతి సమృదిదగా లభించే లోహం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Silver వెండి"
+      },
+      {
+        "key": 2,
+        "text": "Aluminium అలూయమినియం"
+      },
+      {
+        "key": 3,
+        "text": "Zinc జంకు"
+      },
+      {
+        "key": 4,
+        "text": "Iron ఐరన్"
+      }
+    ],
+    "answer": 2,
+    "hint": "Aluminium is the most abundant metallic element in the Earth's crust (around 8.1% by mass), followed by iron.",
+    "memory_tip": "Earth's crust abundance: Oxygen > Silicon > Aluminium (most abundant metal) > Iron."
+  },
+  {
+    "id": 107,
+    "question": "Bronze is an alloy of these metals\nకంచు అనేది ఈ లోహాల మిశ్రమ లోహం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Iron and Copper ఐరన్ మరియు రాగి"
+      },
+      {
+        "key": 2,
+        "text": "Copper and Aluminium రాగి మరియు అలూయమినియం"
+      },
+      {
+        "key": 3,
+        "text": "Copper and Tin రాగి మరియు త్గరం"
+      },
+      {
+        "key": 4,
+        "text": "Zinc and Tin జంక్ మరియు త్గరం"
+      }
+    ],
+    "answer": 3,
+    "hint": "Bronze is a metallic alloy composed primarily of Copper and Tin (Cu + Sn).",
+    "memory_tip": "Bronze = Copper + Tin (Cu + Sn); Brass = Copper + Zinc (Cu + Zn)."
+  },
+  {
+    "id": 108,
+    "question": "The oil used in froth floatation process is\nపువన ప్రక్రయలోవ్యడే న్యనె",
+    "options": [
+      {
+        "key": 1,
+        "text": "Kerosene oil కిరోస్థన్ న్యనె"
+      },
+      {
+        "key": 2,
+        "text": "Pine oil పైన్ న్యనె"
+      },
+      {
+        "key": 3,
+        "text": "Coconut oil కొబబరి న్యనె"
+      },
+      {
+        "key": 4,
+        "text": "Olive oil ఆలివ్ న్యనె"
+      }
+    ],
+    "answer": 2,
+    "hint": "Pine oil is added to water in the froth floatation process to generate froth that preferentially wets sulphide ore particles.",
+    "memory_tip": "Froth Floatation: Pine oil forms froth for concentrating sulphide ores."
+  },
+  {
+    "id": 109,
+    "question": "Formula of chloroform\nకోురోఫామ్ యొకక ఫారుమలా",
+    "options": [
+      {
+        "key": 1,
+        "text": "CH3COOH"
+      },
+      {
+        "key": 2,
+        "text": "CHCl3"
+      },
+      {
+        "key": 3,
+        "text": "CH3CH2OH"
+      },
+      {
+        "key": 4,
+        "text": "CH4"
+      }
+    ],
+    "answer": 2,
+    "hint": "Chloroform is trichloromethane with the molecular formula CHCl₃.",
+    "memory_tip": "Chloroform = CHCl₃; Methane = CH₄; Acetic acid = CH₃COOH; Ethanol = C₂H₅OH."
+  },
+  {
+    "id": 110,
+    "question": "The major component of biogas and compressed natural gas is\nబయో గాయస్ మరియు సంపీడయ సహజ వ్యయువు నందు ముఖ్య అనఘటకం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Ehane ఈథేన్"
+      },
+      {
+        "key": 2,
+        "text": "Methane మీథేన్"
+      },
+      {
+        "key": 3,
+        "text": "Propane ప్రొపేన్"
+      },
+      {
+        "key": 4,
+        "text": "Butane బూయటేన్"
+      }
+    ],
+    "answer": 2,
+    "hint": "Methane (CH₄) accounts for 75% of biogas and is the chief hydrocarbon component of compressed natural gas (CNG).",
+    "memory_tip": "Chief component of Biogas & CNG = Methane (CH₄); LPG = Butane & Propane."
+  },
+  {
+    "id": 111,
+    "question": "Butanone is  a four carbon compound with the functional group\nబుయటనోన్ అనేది ఈ ప్రమేయ సమూహమున కలిగి ఉని నాలుగు కారబను సమేమళనం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Carboxylic acid కారాబకిైలిక్ ఆముం"
+      },
+      {
+        "key": 2,
+        "text": "Aldehyde ఆలిుహైడ్"
+      },
+      {
+        "key": 3,
+        "text": "Ketone కీటోన్"
+      },
+      {
+        "key": 4,
+        "text": "Alcohol ఆలకహాల్"
+      }
+    ],
+    "answer": 3,
+    "hint": "The suffix '-one' denotes a ketone group (>C=O). Butanone (CH₃COCH₂CH₃) contains a four-carbon chain with a ketone group.",
+    "memory_tip": "Functional group suffixes: -one = Ketone (>C=O); -al = Aldehyde (-CHO); -ol = Alcohol (-OH); -oic acid = Acid (-COOH)."
+  },
+  {
+    "id": 112,
+    "question": "Saturated hydrocarbon among the following\nకింది వ్యనిలో సంత్ృపత హైడ్రో కారబన్",
+    "options": [
+      {
+        "key": 1,
+        "text": "Ethane ఈథెన్"
+      },
+      {
+        "key": 2,
+        "text": "Ethene ఈథీన్"
+      },
+      {
+        "key": 3,
+        "text": "Ethyne ఇథైన్"
+      },
+      {
+        "key": 4,
+        "text": "Methene మీథీన్"
+      }
+    ],
+    "answer": 1,
+    "hint": "Saturated hydrocarbons (alkanes) contain only single carbon-carbon bonds. Ethane (C₂H₆) is an alkane.",
+    "memory_tip": "Saturated = Alkanes (single bonds, C_nH_{2n+2}); Unsaturated = Alkenes (double bond) & Alkynes (triple bond)."
+  },
+  {
+    "id": 113,
+    "question": "Chemical formula of benzene is\nబెంజీన్ యొకక రసాయన ఫారుమలా",
+    "options": [
+      {
+        "key": 1,
+        "text": "C4H10"
+      },
+      {
+        "key": 2,
+        "text": "C5H6"
+      },
+      {
+        "key": 3,
+        "text": "C6H6"
+      },
+      {
+        "key": 4,
+        "text": "C6H12"
+      }
+    ],
+    "answer": 3,
+    "hint": "Benzene is an aromatic ring molecule consisting of 6 carbon atoms and 6 hydrogen atoms: C₆H₆.",
+    "memory_tip": "Benzene = C₆H₆ (Planar hexagonal ring with alternating double bonds)."
+  },
+  {
+    "id": 114,
+    "question": "Formula of alcohol functional group\nఆలకహాల్ ప్రమేయ సమూహం ఫారుమలా",
+    "options": [
+      {
+        "key": 1,
+        "text": "-OH"
+      },
+      {
+        "key": 2,
+        "text": "-COOH"
+      },
+      {
+        "key": 3,
+        "text": "-CHO"
+      },
+      {
+        "key": 4,
+        "text": "-NH2"
+      }
+    ],
+    "answer": 1,
+    "hint": "The hydroxyl group (-OH) is the characteristic functional group of alcohols.",
+    "memory_tip": "Alcohol = -OH; Carboxylic acid = -COOH; Aldehyde = -CHO; Amine = -NH₂."
+  },
+  {
+    "id": 115,
+    "question": "Catalyst used in the hydrogenation of oils\nన్యనెల హైడ్రోజనీకరణం నందు ఉపయోగపడే ఉత్ప్పరకం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Iron ఐరన్"
+      },
+      {
+        "key": 2,
+        "text": "Nickle నిక్కల్"
+      },
+      {
+        "key": 3,
+        "text": "Chromium  క్రోమియం"
+      },
+      {
+        "key": 4,
+        "text": "Manganese  మాంగనీస్"
+      }
+    ],
+    "answer": 2,
+    "hint": "Finely divided Nickel (Ni) is used as an industrial catalyst to add hydrogen to vegetable oils (making vanaspati ghee).",
+    "memory_tip": "Hydrogenation of oils: Vegetable oil + H₂ → Vanaspati ghee using Nickel (Ni) catalyst."
+  },
+  {
+    "id": 116,
+    "question": "Ethanol is commonly called as\nఇథనోల్ న సాదారణంగా ఇలా పిలుసాతరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Alcohol ఆలకహాల్"
+      },
+      {
+        "key": 2,
+        "text": "Acid ఆముం"
+      },
+      {
+        "key": 3,
+        "text": "Ketone కీటోన్"
+      },
+      {
+        "key": 4,
+        "text": "Ester ఎసటర్"
+      }
+    ],
+    "answer": 1,
+    "hint": "Ethanol (C₂H₅OH) is ethyl alcohol, widely referred to simply as alcohol in beverages and spirit solutions.",
+    "memory_tip": "Ethanol (C₂H₅OH) = Ethyl alcohol; Methanol (CH₃OH) = Methyl alcohol (wood spirit, toxic)."
+  },
+  {
+    "id": 117,
+    "question": "Ethanoic acid is commonly called as\nఇథనోయిక్ ఆమాునిి సాధ్యరణంగా ఇలా కూడా పిలుసాతరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Hydrochloric acid హైడ్రో కోురిక్ ఆముం"
+      },
+      {
+        "key": 2,
+        "text": "Sulphuric acid సలూయారిక్ ఆముం"
+      },
+      {
+        "key": 3,
+        "text": "Acetic acid ఎస్థటిక్  ఆముం"
+      },
+      {
+        "key": 4,
+        "text": "Nitric acid నైట్రిక్ ఆముం"
+      }
+    ],
+    "answer": 3,
+    "hint": "Ethanoic acid (CH₃COOH) is commonly known as acetic acid; its 5-8% aqueous solution is vinegar.",
+    "memory_tip": "Ethanoic acid = Acetic acid (CH₃COOH); 5-8% solution in water = Vinegar."
+  },
+  {
+    "id": 118,
+    "question": "The name of hydrocarbon C4H8\nC4H8 హైడ్రోకారబన్ యొకక పేరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Butane బూయటేన్"
+      },
+      {
+        "key": 2,
+        "text": "Butene బూయటీన్"
+      },
+      {
+        "key": 3,
+        "text": "Butyne బూయటైన్"
+      },
+      {
+        "key": 4,
+        "text": "Propane ప్రోపేన్"
+      }
+    ],
+    "answer": 2,
+    "hint": "C₄H₈ matches the general formula C_nH_{2n} for n=4, which represents the alkene named butene.",
+    "memory_tip": "C₄H₁₀ = Butane; C₄H₈ = Butene (Alkene: C_nH_{2n}); C₄H₆ = Butyne (Alkyne: C_nH_{2n-2})."
+  },
+  {
+    "id": 119,
+    "question": "Carbon has the ability to form long chains with other carbon elements\ncalled\nకారబన్ ఇత్ర పరమాణువులతో కలిస్థ పడవైన గొలుస్లు వంటి సమేమళనాలన\nఏరపరచుటన ఈ విధ్ంగా అంటారు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Isomerism సాద్ృశయత్"
+      },
+      {
+        "key": 2,
+        "text": "Catenation శృంఖ్ల  ధ్రమం"
+      },
+      {
+        "key": 3,
+        "text": "Formation of multiple bonds బహు బంధ్యల ఏరాపట్ట"
+      },
+      {
+        "key": 4,
+        "text": "Substitution ప్రతిక్షేపణ"
+      }
+    ],
+    "answer": 2,
+    "hint": "The self-linking property of carbon atoms through covalent bonds to form long linear, branched, or cyclic chains is called catenation.",
+    "memory_tip": "Carbon self-linking ability = Catenation (maximum in Carbon due to high C-C bond energy)."
+  },
+  {
+    "id": 120,
+    "question": "Methane undergo substitution reaction with chlorine in the presence of\nsunlight to form\nమీథేన్ కోురిన్ తో సూరయకాంతి సమక్షంలో ప్రతిక్షేపణ చరయలలో పాల్గుని వీటిని\nఏరపరుసాతయి",
+    "options": [
+      {
+        "key": 1,
+        "text": "Methyl chloride and HCl మిథైల్ కోురైడ్ మరియు HCl"
+      },
+      {
+        "key": 2,
+        "text": "Ethyl chloride and HCl ఇథైల్ కోురైడ్ మరియు HCl"
+      },
+      {
+        "key": 3,
+        "text": "Methyl chloride and CO2 మిథైల్ కోురైడ్ మరియు CO2"
+      },
+      {
+        "key": 4,
+        "text": "Ethyl chloride and CO2 ఇథైల్ కోురైడ్ మరియు CO2"
+      }
+    ],
+    "answer": 1,
+    "hint": "In the presence of sunlight, chlorine replaces hydrogen in methane in a photochemical substitution reaction: CH₄ + Cl₂ → CH₃Cl + HCl.",
+    "memory_tip": "CH₄ + Cl₂ →(hν) CH₃Cl (Methyl chloride) + HCl (Photochemical substitution reaction)."
+  },
+  {
+    "id": 121,
+    "question": "The following cannot be changed easily by friction\nఘరషణ దావరా ఈ కింది వ్యటిని త్వరగా ఆవేశిత్ం చేయలేము",
+    "options": [
+      {
+        "key": 1,
+        "text": "A plastic scale పాుస్థటక్ స్తకలు"
+      },
+      {
+        "key": 2,
+        "text": "A copper rod రాగి కడీు"
+      },
+      {
+        "key": 3,
+        "text": "An inflated balloon ఊదిన బెలూన్"
+      },
+      {
+        "key": 4,
+        "text": "A woollen cloth ఉనిి వస్త్రం"
+      }
+    ],
+    "answer": 2,
+    "hint": "Copper is a good electrical conductor, so static charges generated by friction leak away rapidly through the human body into the ground.",
+    "memory_tip": "Electrostatic charging by friction works easily on insulators (plastic, rubber, glass), but not on conductors (copper, metals)."
+  },
+  {
+    "id": 122,
+    "question": "Choose the correct option\nA : Like charges repel each other\nB : Unlike charges attract each other\nసరైన ఐచేకానిి ఎనికోండి\nA : సజాతి ఆవేశాలు వికరిషంచుకుంటాయి\nB : విజాతి ఆవేశాలు ఆకరిషంచుకుంటాయి",
+    "options": [
+      {
+        "key": 1,
+        "text": "Both A and B are correct"
+      },
+      {
+        "key": 2,
+        "text": "Both A and B are incorrect"
+      },
+      {
+        "key": 3,
+        "text": "A is correct, B is incorrect"
+      },
+      {
+        "key": 4,
+        "text": "A is incorrect, B is correct"
+      }
+    ],
+    "answer": 1,
+    "hint": "The fundamental law of electrostatics states that like charges repel each other and opposite (unlike) charges attract each other.",
+    "memory_tip": "Electrostatic rule: Like charges repel (+/+ or -/-); Unlike charges attract (+/-)."
+  },
+  {
+    "id": 123,
+    "question": "A device used to test whether an object is carrying a charge or not is\nఒక వస్తవు ఆవేశానిి కలిగి ఉందా లేదా అని పరీక్షించుటకు ఉపయోగపడే పరికరం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Microscope మైక్రోస్కకప్"
+      },
+      {
+        "key": 2,
+        "text": "Colonoscope కొలనొస్కకప్"
+      },
+      {
+        "key": 3,
+        "text": "Electroscope ఎలకోోస్కకప్"
+      },
+      {
+        "key": 4,
+        "text": "Telescope ట్టలిస్కకప్"
+      }
+    ],
+    "answer": 3,
+    "hint": "An electroscope (such as a gold-leaf electroscope) is an instrument used to detect the presence and nature of electric charge on a body.",
+    "memory_tip": "Electroscope = Detects electric charge; Galvanometer = Detects electric current."
+  },
+  {
+    "id": 124,
+    "question": "When a glass rod rubbed with silk cloth\nగాజు కడీుని స్థలుక గుడుతో రుదిదనప్పపడు",
+    "options": [
+      {
+        "key": 1,
+        "text": "The glass rod and the silk cloth both acquire positive charge గాజు కడీు మరియు స్థలుక గుడు ర్కండూ ధ్నావేశానిి పందుత్తయి"
+      },
+      {
+        "key": 2,
+        "text": "The glass rod and the silk cloth both acquire negative charge గాజు కడీు మరియు స్థలుక గుడు ర్కండూ ఋణావేశానిి పందుత్తయి"
+      },
+      {
+        "key": 3,
+        "text": "The rod acquire positive charge and the cloth acquire negative charge కడీు ధ్నావేశానిి మరియు గుడు రుణావేశానిి పందుత్తయి"
+      },
+      {
+        "key": 4,
+        "text": "The rod acquire negative charge and the cloth acquire positive charge కడీు ఋణావేశానిి మరియు గుడు ధ్నావేశానిి పందుత్తయి"
+      }
+    ],
+    "answer": 3,
+    "hint": "When glass is rubbed with silk, electrons transfer from the glass rod to the silk cloth; glass becomes positively charged and silk becomes negatively charged.",
+    "memory_tip": "Triboelectric effect: Glass rod rubbed with silk → Glass (+), Silk (-)."
+  },
+  {
+    "id": 125,
+    "question": "The uppermost layer of the earth\nభూమి యొకక పరలలో అనిిటికనాి పైన ఉని పర",
+    "options": [
+      {
+        "key": 1,
+        "text": "Crust భూపటలం"
+      },
+      {
+        "key": 2,
+        "text": "Mantle భూ ప్రావ్యరము"
+      },
+      {
+        "key": 3,
+        "text": "Inner core అంత్ర కేంద్రం"
+      },
+      {
+        "key": 4,
+        "text": "Outer core  బాహయ కేంద్రం"
+      }
+    ],
+    "answer": 1,
+    "hint": "The outermost, thinnest solid geological shell of the Earth is the crust.",
+    "memory_tip": "Earth's internal layers from surface inward: Crust → Mantle → Outer Core → Inner Core."
+  },
+  {
+    "id": 126,
+    "question": "Physical change among the following is\nకింది వ్యటిలో బౌతిక మారుప",
+    "options": [
+      {
+        "key": 1,
+        "text": "Converting ice into water మంచు నీరుగా మారుాట"
+      },
+      {
+        "key": 2,
+        "text": "Rusting of iron ఇనము తుప్పప పట్టట"
+      },
+      {
+        "key": 3,
+        "text": "Burning of magnesium ribbon మెగ్నిష్టయం రిబబనన మండించుట"
+      },
+      {
+        "key": 4,
+        "text": "Changing milk into curd పాలన పెరుగుగా మారుాట"
+      }
+    ],
+    "answer": 1,
+    "hint": "Converting ice to water is a reversible change of state without forming any new chemical substance, making it a physical change.",
+    "memory_tip": "Physical change = Reversible, no new substance (Melting, boiling); Chemical change = Irreversible, new substance (Rusting, burning)."
+  },
+  {
+    "id": 127,
+    "question": "The gas released by the action of vinegar with baking soda\nవెనిగర్ న బేకింగ్ స్కడాతో  కలిపి చరయ నొందించడం దావరా   విడుద్లయ్యయ వ్యయువు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Hydrogen హైడ్రోజన్"
+      },
+      {
+        "key": 2,
+        "text": "Oxygen ఆకిైజన్"
+      },
+      {
+        "key": 3,
+        "text": "Carbon dioxide కారబన్ డైఆక్కథైడ్"
+      },
+      {
+        "key": 4,
+        "text": "Nitrogen నైట్రోజన్"
+      }
+    ],
+    "answer": 3,
+    "hint": "Vinegar (acetic acid) reacts with baking soda (sodium bicarbonate) to release Carbon dioxide (CO₂) gas with vigorous effervescence.",
+    "memory_tip": "Acid + Metal Carbonate / Bicarbonate → Salt + H₂O + CO₂↑ (turns lime water milky)."
+  },
+  {
+    "id": 128,
+    "question": "The chemical change among the following is\nకింది వ్యటిలో రసాయన మారుప",
+    "options": [
+      {
+        "key": 1,
+        "text": "Converting ice into water మంచుగడు నీరుగా మారుాట"
+      },
+      {
+        "key": 2,
+        "text": "Cutting a paper into four parts పేపరున నాలుగు భాగాలుగా చేయుట"
+      },
+      {
+        "key": 3,
+        "text": "Stretching a rubber band రబబరు బాయండున సాగదీయుట"
+      },
+      {
+        "key": 4,
+        "text": "Burning crackers బాణాసంచ్చ కాలుాట"
+      }
+    ],
+    "answer": 4,
+    "hint": "Burning crackers produces entirely new chemical substances (gases, light, heat, ash) and cannot be reversed, making it a chemical change.",
+    "memory_tip": "Burning / Combustion is always a chemical change."
+  },
+  {
+    "id": 129,
+    "question": "The process of depositing this metal layer on iron articles called as\ngalvanisation\nఇనముపై ఈ లోహ పూత్ పూస్త ప్రక్రయన గాలవనీకరణము అంటారు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Aluminium అలూయమినియం"
+      },
+      {
+        "key": 2,
+        "text": "Chromium క్రోమియం"
+      },
+      {
+        "key": 3,
+        "text": "Zinc జంక్"
+      },
+      {
+        "key": 4,
+        "text": "Copper రాగి"
+      }
+    ],
+    "answer": 3,
+    "hint": "Galvanisation is the metallurgical process of coating iron or steel with a protective layer of zinc (Zn) to prevent corrosion.",
+    "memory_tip": "Galvanisation = Zinc (Zn) coating on Iron to stop rust."
+  },
+  {
+    "id": 130,
+    "question": "The chemical name of baking soda is\nవంట స్కడా రసాయన నామము",
+    "options": [
+      {
+        "key": 1,
+        "text": "Sodium carbonate స్కడియం కారోబనేట్"
+      },
+      {
+        "key": 2,
+        "text": "Sodium bicarbonate స్కడియం బై కారోబనేట్"
+      },
+      {
+        "key": 3,
+        "text": "Sodium sulphate స్కడియం సలేయట్"
+      },
+      {
+        "key": 4,
+        "text": "Sodium chloride స్కడియం కోురైడ్"
+      }
+    ],
+    "answer": 2,
+    "hint": "Baking soda is sodium hydrogen carbonate, commonly called sodium bicarbonate (NaHCO₃).",
+    "memory_tip": "Baking soda = Sodium bicarbonate (NaHCO₃); Washing soda = Sodium carbonate (Na₂CO₃·10H₂O)."
+  },
+  {
+    "id": 131,
+    "question": "Choose the correct option\nA : Iron and rust are different substances\nB : Condensation is a physical change\nసరైన ఐచేకానిి ఎనికోండి\nA : ఇనము మరియు తుప్పప వేరు వేరు పదారాదలు\nB : సాంద్రీకరణం ఒక భౌతిక మారుప",
+    "options": [
+      {
+        "key": 1,
+        "text": "Both A and B are correct"
+      },
+      {
+        "key": 2,
+        "text": "Both A and B are incorrect"
+      },
+      {
+        "key": 3,
+        "text": "A is correct , B is incorrect"
+      },
+      {
+        "key": 4,
+        "text": "A is incorrect , B is correct"
+      }
+    ],
+    "answer": 4,
+    "hint": "Rust (Fe₂O₃·xH₂O) is a new substance chemically distinct from elemental iron (Fe), and condensation (vapour to liquid) is a physical change. [Official key marks (4), but scientifically both A and B are correct (1)].",
+    "memory_tip": "Iron (Fe) ≠ Rust (hydrated iron oxide); Phase change (condensation) = Physical change."
+  },
+  {
+    "id": 132,
+    "question": "Freezing mixture is a combination of\nఘనీభవన మిశ్రమం ఈ ర్కండింటి యొకక కలయిక",
+    "options": [
+      {
+        "key": 1,
+        "text": "Ice and water మంచు మరియు నీరు"
+      },
+      {
+        "key": 2,
+        "text": "Ice and common salt మంచు మరియు ఉప్పప"
+      },
+      {
+        "key": 3,
+        "text": "Water and common salt నీరు మరియు ఉప్పప"
+      },
+      {
+        "key": 4,
+        "text": "Water and starch నీరు మరియు పిండి పదారధం"
+      }
+    ],
+    "answer": 2,
+    "hint": "A freezing mixture is prepared by mixing crushed ice with common salt (NaCl), which depresses the freezing point well below 0°C.",
+    "memory_tip": "Freezing mixture = Ice + Common Salt (NaCl); drops temperature down to -21°C."
+  },
+  {
+    "id": 133,
+    "question": "The surface phenomenon among the following\nక్రంది వ్యటిలో ఉపరిత్ల ద్ృగివష్యం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Melting ద్రవీభవనం"
+      },
+      {
+        "key": 2,
+        "text": "Boiling మరుగుట"
+      },
+      {
+        "key": 3,
+        "text": "Evaporation భాష్పపభవనం"
+      },
+      {
+        "key": 4,
+        "text": "Deposition నిక్షేపణం"
+      }
+    ],
+    "answer": 3,
+    "hint": "Evaporation is a surface phenomenon occurring at liquid surfaces below the boiling point, whereas boiling is a bulk phenomenon.",
+    "memory_tip": "Evaporation = Surface phenomenon; Boiling = Bulk phenomenon."
+  },
+  {
+    "id": 134,
+    "question": "Metal present in liquid state at room temperature\nగది ఉష్ణోగ్రత్ వద్ద ద్రవస్థాతిలో ఉండే లోహం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Sodium స్కడియం"
+      },
+      {
+        "key": 2,
+        "text": "Potassium పటాష్టయం"
+      },
+      {
+        "key": 3,
+        "text": "Calcium కాలిషయం"
+      },
+      {
+        "key": 4,
+        "text": "Mercury పాద్రసం"
+      }
+    ],
+    "answer": 4,
+    "hint": "Mercury (Hg) is the only metallic element that remains in liquid state at standard room temperature.",
+    "memory_tip": "Liquid metal = Mercury (Hg); Liquid non-metal = Bromine (Br₂)."
+  },
+  {
+    "id": 135,
+    "question": "Among the following example for metalloid\nక్రంది వ్యనిలో అరధలోహానికి ఉదాహరణ",
+    "options": [
+      {
+        "key": 1,
+        "text": "Silicon స్థలికాన్"
+      },
+      {
+        "key": 2,
+        "text": "Iron ఐరన్"
+      },
+      {
+        "key": 3,
+        "text": "Sulphur సలయర్"
+      },
+      {
+        "key": 4,
+        "text": "Chlorine కోురిన్"
+      }
+    ],
+    "answer": 1,
+    "hint": "Silicon (Si) exhibits properties intermediate between those of metals and non-metals, classifying it as a metalloid (semiconductor).",
+    "memory_tip": "Metalloids: Boron (B), Silicon (Si), Germanium (Ge), Arsenic (As), Antimony (Sb), Tellurium (Te)."
+  },
+  {
+    "id": 136,
+    "question": "Example for homogeneous mixture\nసజాతీయ మిశ్రమానికి ఉదాహరణ",
+    "options": [
+      {
+        "key": 1,
+        "text": "Sand and salt ఇస్క మరియు ఉప్పప"
+      },
+      {
+        "key": 2,
+        "text": "Sugar and salt చక్కకర మరియు ఉప్పప"
+      },
+      {
+        "key": 3,
+        "text": "Water and oil నీరు మరియు న్యనె"
+      },
+      {
+        "key": 4,
+        "text": "Salt and water ఉప్పప మరియు నీరు"
+      }
+    ],
+    "answer": 4,
+    "hint": "Salt dissolves completely and uniformly in water at molecular level, forming a single homogeneous liquid phase.",
+    "memory_tip": "Homogeneous mixture = Uniform composition throughout (True solutions, e.g., salt water, brass)."
+  },
+  {
+    "id": 137,
+    "question": "Example for heterogenous mixture\nవిజాతీయ మిశ్రమానికి ఉదాహరణ",
+    "options": [
+      {
+        "key": 1,
+        "text": "Water in alcohol ఆలకహాల్ లో ఉని నీరు"
+      },
+      {
+        "key": 2,
+        "text": "Salt in water నీటిలో ఉప్పప"
+      },
+      {
+        "key": 3,
+        "text": "Sulphur in carbon disulphide కారబన్ డై సల్థయడ్ లో సలయర్"
+      },
+      {
+        "key": 4,
+        "text": "Water in oil న్యనెలో కలిస్థ ఉని నీరు"
+      }
+    ],
+    "answer": 4,
+    "hint": "Water and oil are immiscible liquids that do not dissolve in each other, forming two distinct visible layers (heterogeneous mixture).",
+    "memory_tip": "Heterogeneous mixture = Non-uniform phases with visible boundaries (e.g., Oil in water, sand in water)."
+  },
+  {
+    "id": 138,
+    "question": "The percentage of Oxygen and Nitrogen in air respectively\nగాలిలో ఆకిైజన్ మరియు నైట్రోజన్ శాత్తలు వరుసగా",
+    "options": [
+      {
+        "key": 1,
+        "text": "21,    78"
+      },
+      {
+        "key": 2,
+        "text": "78,    21"
+      },
+      {
+        "key": 3,
+        "text": "10,     80"
+      },
+      {
+        "key": 4,
+        "text": "80,    10"
+      }
+    ],
+    "answer": 1,
+    "hint": "Clean, dry air contains approximately 21% Oxygen and 78% Nitrogen by volume.",
+    "memory_tip": "Composition of air: Nitrogen ≈ 78%, Oxygen ≈ 21%, Argon ≈ 0.9%, CO₂ ≈ 0.04%."
+  },
+  {
+    "id": 139,
+    "question": "CNG means\nCNG అనగా",
+    "options": [
+      {
+        "key": 1,
+        "text": "Controlled Natural Gas"
+      },
+      {
+        "key": 2,
+        "text": "Compressed Natural Gas"
+      },
+      {
+        "key": 3,
+        "text": "Compressed Nature Gas"
+      },
+      {
+        "key": 4,
+        "text": "Controlled Nature Gas"
+      }
+    ],
+    "answer": 2,
+    "hint": "CNG is the standard abbreviation for Compressed Natural Gas.",
+    "memory_tip": "CNG = Compressed Natural Gas; LPG = Liquefied Petroleum Gas."
+  },
+  {
+    "id": 140,
+    "question": "The melting point of Ice is nearly ( in Kelvin)\nమంచు ద్రవీభవన సాానం  స్మారుగా ( క్కలివనులో )",
+    "options": [
+      {
+        "key": 1,
+        "text": "100"
+      },
+      {
+        "key": 2,
+        "text": "273.15"
+      },
+      {
+        "key": 3,
+        "text": "0"
+      },
+      {
+        "key": 4,
+        "text": "373.15"
+      }
+    ],
+    "answer": 2,
+    "hint": "The melting point of pure ice at 1 atm is 0°C, which equals 0 + 273.15 = 273.15 Kelvin.",
+    "memory_tip": "Melting point of ice = 0°C = 273.15 K; Boiling point of water = 100°C = 373.15 K."
+  },
+  {
+    "id": 141,
+    "question": "Example of a substance that Sublimise\nఉత్పత్నం చెందు పదారధమునకు ఉదాహరణ",
+    "options": [
+      {
+        "key": 1,
+        "text": "Camphor కరూపరం"
+      },
+      {
+        "key": 2,
+        "text": "Common salt సాధ్యరణ ఉప్పప"
+      },
+      {
+        "key": 3,
+        "text": "Ice మంచు"
+      },
+      {
+        "key": 4,
+        "text": "Magnesium మెగ్నిష్టయం"
+      }
+    ],
+    "answer": 1,
+    "hint": "Camphor transitions directly from solid to gaseous state on heating without converting into liquid (sublimation).",
+    "memory_tip": "Sublimable substances: Camphor, Ammonium chloride (NH₄Cl), Naphthalene, Iodine, Dry Ice."
+  },
+  {
+    "id": 142,
+    "question": "Changing directly from gaseous state to solid state without converting\ninto liquid state called\nద్రవస్థాతిలోకి మారకుండా వ్యయు స్థాతి నండి నేరుగా ఘన స్థాతికి మారడానిి ఈ విధ్ంగా\nపిలుసాతరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Melting ద్రవీభవనం"
+      },
+      {
+        "key": 2,
+        "text": "Sublimation ఉత్పత్నం"
+      },
+      {
+        "key": 3,
+        "text": "Deposition నిక్షేపణం"
+      },
+      {
+        "key": 4,
+        "text": "Crystallization సపటికీకరణం"
+      }
+    ],
+    "answer": 3,
+    "hint": "The direct phase transition of a gas turning into a solid without passing through an intermediate liquid state is deposition.",
+    "memory_tip": "Solid → Gas = Sublimation; Gas → Solid = Deposition (or desublimation)."
+  },
+  {
+    "id": 143,
+    "question": "The rate of evaporation increases with\nభాష్పపభవన రేట్ట దీనితో పెరుగుతుంది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Increase in surface area ఉపరిత్ల వైశాలయంలో పెరుగుద్ల"
+      },
+      {
+        "key": 2,
+        "text": "Decrease in temperature ఉష్ణోగ్రత్లో త్గుుద్ల"
+      },
+      {
+        "key": 3,
+        "text": "High humidity అధిక ఆర్దదరత్"
+      },
+      {
+        "key": 4,
+        "text": "Decrease in wind speed గాలి వేగంలో త్గుుద్ల"
+      }
+    ],
+    "answer": 1,
+    "hint": "A larger exposed surface area allows more surface liquid molecules to gain enough kinetic energy to escape into the vapor phase.",
+    "memory_tip": "Evaporation rate increases with: Surface Area ↑, Temperature ↑, Wind speed ↑; Decreases with: Humidity ↑."
+  },
+  {
+    "id": 144,
+    "question": "300 K value in Celsius scale\n300 K విలువ సెలిైయస్ స్తకలు నందు",
+    "options": [
+      {
+        "key": 1,
+        "text": "1000C"
+      },
+      {
+        "key": 2,
+        "text": "2730C"
+      },
+      {
+        "key": 3,
+        "text": "270C"
+      },
+      {
+        "key": 4,
+        "text": "5730C"
+      }
+    ],
+    "answer": 3,
+    "hint": "Convert Kelvin to Celsius: °C = K - 273.15 ≈ 300 - 273 = 27°C.",
+    "memory_tip": "°C = K - 273 (300 K - 273 = 27°C, typical room temperature)."
+  },
+  {
+    "id": 145,
+    "question": "The chemical formula of Magnesium Chloride\nమెగ్నిష్టయం కోురైడ్ రసాయన సాంకేతికం",
+    "options": [
+      {
+        "key": 1,
+        "text": "MgCl"
+      },
+      {
+        "key": 2,
+        "text": "MgCl2"
+      },
+      {
+        "key": 3,
+        "text": "Mg2Cl"
+      },
+      {
+        "key": 4,
+        "text": "Mg2Cl2"
+      }
+    ],
+    "answer": 2,
+    "hint": "Magnesium has valency +2 (Mg²⁺) and Chloride has valency -1 (Cl⁻). Criss-crossing gives the chemical formula MgCl₂.",
+    "memory_tip": "Criss-cross method: Mg²⁺ + Cl⁻ → MgCl₂."
+  },
+  {
+    "id": 146,
+    "question": "Molecular mass of CaCl2     CaCl2 అణుద్రవయ రాశి",
+    "options": [
+      {
+        "key": 1,
+        "text": "75 u"
+      },
+      {
+        "key": 2,
+        "text": "11 u"
+      },
+      {
+        "key": 3,
+        "text": "106 u"
+      },
+      {
+        "key": 4,
+        "text": "111 u"
+      }
+    ],
+    "answer": 4,
+    "hint": "Atomic masses: Ca = 40 u, Cl = 35.5 u. Molecular mass of CaCl₂ = 40 + (2 × 35.5) = 40 + 71 = 111 u.",
+    "memory_tip": "Formula mass of CaCl₂ = 40 + 2(35.5) = 111 u."
+  },
+  {
+    "id": 147,
+    "question": "Among the following the element with atomicity One\nక్రంది వ్యనిలో పరమాణుకత్ విలువ ఒకటి గల మూలకం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Helium హీలియం"
+      },
+      {
+        "key": 2,
+        "text": "Oxygen ఆకిైజన్"
+      },
+      {
+        "key": 3,
+        "text": "Hydrogen హైడ్రోజన్"
+      },
+      {
+        "key": 4,
+        "text": "Nitrogen నైట్రోజన్"
+      }
+    ],
+    "answer": 1,
+    "hint": "Helium (He) is a noble gas that exists stably as single independent atoms, giving it an atomicity of 1 (monoatomic).",
+    "memory_tip": "Atomicity = Number of atoms in a molecule: Noble gases (He, Ne, Ar) = 1; O₂, H₂, N₂ = 2; O₃ = 3; P₄ = 4; S₈ = 8."
+  },
+  {
+    "id": 148,
+    "question": "The ratio of Nitrogen and Hydrogen in Ammonia by mass\nఅమ్మమనియాలో నైట్రోజన్ మరియు హైడ్రోజన్ ల ద్రవయరాశి నిష్పతిత",
+    "options": [
+      {
+        "key": 1,
+        "text": "14:3"
+      },
+      {
+        "key": 2,
+        "text": "7:3"
+      },
+      {
+        "key": 3,
+        "text": "7:1"
+      },
+      {
+        "key": 4,
+        "text": "14:1"
+      }
+    ],
+    "answer": 1,
+    "hint": "Ammonia has the formula NH₃. Mass of Nitrogen = 14 u, mass of 3 Hydrogen atoms = 3 × 1 = 3 u. Mass ratio N : H = 14 : 3.",
+    "memory_tip": "Law of Definite Proportions: Ammonia (NH₃) N:H ratio by mass = 14:3."
+  },
+  {
+    "id": 149,
+    "question": "The symbol of Carbonate ion is\nకారోబనేట్ అయాన్ సంకేత్ం",
+    "options": [
+      {
+        "key": 1,
+        "text": "CO3-"
+      },
+      {
+        "key": 2,
+        "text": "CO3-2"
+      },
+      {
+        "key": 3,
+        "text": "CO3-3"
+      },
+      {
+        "key": 4,
+        "text": "CO+2"
+      }
+    ],
+    "answer": 2,
+    "hint": "The carbonate polyatomic anion carries two negative charges, represented as CO₃²⁻ (or CO₃⁻²).",
+    "memory_tip": "Common radicals: Carbonate = CO₃²⁻; Sulphate = SO₄²⁻; Nitrate = NO₃⁻; Hydroxide = OH⁻."
+  },
+  {
+    "id": 150,
+    "question": "Tetra atomic element among the following is\nక్రంది వ్యటిలో చతు:పరమాణుక మూలకం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Oxygen ఆకిైజన్"
+      },
+      {
+        "key": 2,
+        "text": "Sulphur సలపర్"
+      },
+      {
+        "key": 3,
+        "text": "Argon ఆరాున్"
+      },
+      {
+        "key": 4,
+        "text": "Phosphorous పాసయరస్"
+      }
+    ],
+    "answer": 4,
+    "hint": "White phosphorus exists as tetrahedral molecules consisting of 4 bonded phosphorus atoms (P₄), so it is tetra-atomic.",
+    "memory_tip": "P₄ = Tetra-atomic; S₈ = Polyatomic / Octa-atomic; O₂ = Diatomic."
+  },
+  {
+    "id": 151,
+    "question": "The number of valency shell electrons present in Chlorine atom\nకోురిన్ పరమాణువు బాహయ కక్షాలో గల ఎలకాోన్ ల సంఖ్య",
+    "options": [
+      {
+        "key": 1,
+        "text": "1"
+      },
+      {
+        "key": 2,
+        "text": "2"
+      },
+      {
+        "key": 3,
+        "text": "7"
+      },
+      {
+        "key": 4,
+        "text": "8"
+      }
+    ],
+    "answer": 3,
+    "hint": "Chlorine has atomic number 17 with electronic configuration 2, 8, 7. Its outermost valence shell contains 7 electrons.",
+    "memory_tip": "Halogens (Group 17: F, Cl, Br, I) have 7 valence electrons and valency 1."
+  },
+  {
+    "id": 152,
+    "question": "The number of protons present in Tritium (1H3 )\nట్రిటియం (1H3)లో గల ప్రొటాన్ ల సంఖ్య",
+    "options": [
+      {
+        "key": 1,
+        "text": "1"
+      },
+      {
+        "key": 2,
+        "text": "2"
+      },
+      {
+        "key": 3,
+        "text": "3"
+      },
+      {
+        "key": 4,
+        "text": "4"
+      }
+    ],
+    "answer": 1,
+    "hint": "Tritium is an isotope of hydrogen represented as ₁H³. The atomic number Z = 1 indicates it has exactly 1 proton.",
+    "memory_tip": "Hydrogen isotopes: Protium (₁H¹, 0n), Deuterium (₁H², 1n), Tritium (₁H³, 2n) — all have 1 proton."
+  },
+  {
+    "id": 153,
+    "question": "The correct electron configuration of Sodium (Na)\nస్కడియం (Na) యొకక సరైన ఎలకాోన్ వినాయసం",
+    "options": [
+      {
+        "key": 1,
+        "text": "2 , 8"
+      },
+      {
+        "key": 2,
+        "text": "2 , 8 ,1"
+      },
+      {
+        "key": 3,
+        "text": "2 , 1  , 8"
+      },
+      {
+        "key": 4,
+        "text": "8 , 2, 1"
+      }
+    ],
+    "answer": 2,
+    "hint": "Sodium has atomic number 11. Distributing 11 electrons across shells K, L, M yields 2, 8, 1.",
+    "memory_tip": "Sodium (Na, Z=11): K=2, L=8, M=1 (Valence electron = 1)."
+  },
+  {
+    "id": 154,
+    "question": "Rutherford’s Alpha particle scattering experiment was responsible for the\ndiscovery of\nరూథర్ ఫర్ు  ఆలాయ కణ పరిక్షేపణ ప్రయోగం దావరా కనగొనబడినది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Atomic nucleus పరమాణు కేంద్రకం"
+      },
+      {
+        "key": 2,
+        "text": "Electron ఎలకాోన్"
+      },
+      {
+        "key": 3,
+        "text": "Proton ప్రొటాన్"
+      },
+      {
+        "key": 4,
+        "text": "Neutron న్యయట్రాన్"
+      }
+    ],
+    "answer": 1,
+    "hint": "Rutherford's alpha-particle scattering experiment demonstrated that positive charge and mass are concentrated in a dense core called the atomic nucleus.",
+    "memory_tip": "Rutherford = Discovered Nucleus; J.J. Thomson = Electron; James Chadwick = Neutron."
+  },
+  {
+    "id": 155,
+    "question": "Isotopes of an element have\nమూలక ఐస్కటోప్పలు కలిగి ఉండునది",
+    "options": [
+      {
+        "key": 1,
+        "text": "The same physical properties ఒకే భౌతిక ధ్రామలు"
+      },
+      {
+        "key": 2,
+        "text": "Different chemical properties వేరేవరు రసాయన ధ్రామలు"
+      },
+      {
+        "key": 3,
+        "text": "Different number of neutrons వేరేవరు న్యయట్రాను సంఖ్య"
+      },
+      {
+        "key": 4,
+        "text": "Different atomic numbers వేరేవరు పరమాణు సంఖ్యలు"
+      }
+    ],
+    "answer": 3,
+    "hint": "Isotopes are atoms of the same element having the same atomic number (same protons) but different mass numbers due to different numbers of neutrons.",
+    "memory_tip": "Isotopes = Same atomic number Z, different neutron count (and mass number A)."
+  },
+  {
+    "id": 156,
+    "question": "Isotope used as a fuel in nuclear reactors\nన్యయకిుయర్ రియాకటరులో ఇంధ్నంగా వ్యడే ఐస్కటోప్ప",
+    "options": [
+      {
+        "key": 1,
+        "text": "Cobalt కోబాల్ట"
+      },
+      {
+        "key": 2,
+        "text": "Uranium యురేనియం"
+      },
+      {
+        "key": 3,
+        "text": "Iodine అయోడిన్"
+      },
+      {
+        "key": 4,
+        "text": "Carbon కారబన్"
+      }
+    ],
+    "answer": 2,
+    "hint": "Uranium-235 (²³⁵U) is used as nuclear fuel in nuclear reactors to sustain controlled nuclear fission chain reactions.",
+    "memory_tip": "Radioisotopes: Uranium-235 = Nuclear fuel; Cobalt-60 = Cancer therapy; Iodine-131 = Thyroid treatment."
+  },
+  {
+    "id": 157,
+    "question": "The ability of metals to be drawn into thin wires is called\nలోహాలన సనిని తీగలుగా మారాగలిగే ధ్రామనిి ఇలా పిలుసాతరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Malleability సారణీయత్"
+      },
+      {
+        "key": 2,
+        "text": "Ductility త్తంత్వత్"
+      },
+      {
+        "key": 3,
+        "text": "Sonority ధ్వనిగుణం"
+      },
+      {
+        "key": 4,
+        "text": "Lustrous దుయతిగుణం"
+      }
+    ],
+    "answer": 2,
+    "hint": "The physical property of metals allowing them to be drawn into thin long wires without breaking is ductility.",
+    "memory_tip": "Ductility = Drawn into wires (Gold is most ductile); Malleability = Beaten into thin sheets."
+  },
+  {
+    "id": 158,
+    "question": "All metals exist as solids at room temperature except\nఈ లోహం త్పప మిగిలిన  లోహాలనీి గది ఉష్ణోగ్రత్ వద్ద ఘన స్థాతిలో ఉంటాయి",
+    "options": [
+      {
+        "key": 1,
+        "text": "Sodium స్కడియం"
+      },
+      {
+        "key": 2,
+        "text": "Magnesium మెగ్నిష్టయం"
+      },
+      {
+        "key": 3,
+        "text": "Zinc జంకు"
+      },
+      {
+        "key": 4,
+        "text": "Mercury పాద్రసం"
+      }
+    ],
+    "answer": 4,
+    "hint": "All metals are solid at room temperature except Mercury (Hg), which exists in liquid state.",
+    "memory_tip": "Liquid metal at room temp = Mercury (Hg); Liquid non-metal = Bromine (Br₂)."
+  },
+  {
+    "id": 159,
+    "question": "Most non metals produce these when dissolves in water\nఅలోహాలనీి  నీటిలో కరిగినప్పపడు వీటిని ఇసాతయి",
+    "options": [
+      {
+        "key": 1,
+        "text": "Acidic oxides ఆము ఆక్కథైడుు"
+      },
+      {
+        "key": 2,
+        "text": "Basic oxides క్షార ఆక్కథైడుు"
+      },
+      {
+        "key": 3,
+        "text": "Neutral oxides త్టసా ఆక్కథైడుు"
+      },
+      {
+        "key": 4,
+        "text": "peroxides పెరాక్కథైడుు"
+      }
+    ],
+    "answer": 1,
+    "hint": "Non-metallic oxides (such as SO₂, CO₂, NO₂) dissolve in water to produce acids, which turn blue litmus red.",
+    "memory_tip": "Non-metal oxides = Acidic (e.g., SO₂ + H₂O → H₂SO₃); Metal oxides = Basic (e.g., Na₂O + H₂O → 2NaOH)."
+  },
+  {
+    "id": 160,
+    "question": "Metals that have low melting points\nఅలప ద్రవీభవన సాానాలు గల లోహాలు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Sodium , Magnesium స్కడియం , మెగ్నిష్టయం"
+      },
+      {
+        "key": 2,
+        "text": "Zinc , Potassium జంక్ , పటాష్టయం"
+      },
+      {
+        "key": 3,
+        "text": "Gallium , Caesium గాలియం , స్మజయం"
+      },
+      {
+        "key": 4,
+        "text": "Calcium , Barium కాలిషయం , బేరియం"
+      }
+    ],
+    "answer": 3,
+    "hint": "Gallium (Ga) and Caesium (Cs) have exceptionally low melting points (around 29.8°C and 28.5°C) and melt in the palm of one's hand.",
+    "memory_tip": "Metals that melt on human palm = Gallium (Ga) and Caesium (Cs)."
+  },
+  {
+    "id": 161,
+    "question": "Metal that reacts with water\nనీటితో చరయ జరిపే లోహం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Sodium స్కడియం"
+      },
+      {
+        "key": 2,
+        "text": "Gold బంగారం"
+      },
+      {
+        "key": 3,
+        "text": "Silver వెండి"
+      },
+      {
+        "key": 4,
+        "text": "Copper కాపర్"
+      }
+    ],
+    "answer": 1,
+    "hint": "Sodium (Na) is an alkali metal that reacts violently and exothermically with cold water to produce sodium hydroxide and hydrogen gas.",
+    "memory_tip": "Metals reacting with cold water: Potassium (K), Sodium (Na), Calcium (Ca): 2Na + 2H₂O → 2NaOH + H₂↑."
+  },
+  {
+    "id": 162,
+    "question": "Cation present in NaCl\nNaCl లో ఉండే కేటయాన",
+    "options": [
+      {
+        "key": 1,
+        "text": "Na+"
+      },
+      {
+        "key": 2,
+        "text": "Na+2"
+      },
+      {
+        "key": 3,
+        "text": "Cl-1"
+      },
+      {
+        "key": 4,
+        "text": "Cl-2"
+      }
+    ],
+    "answer": 1,
+    "hint": "In sodium chloride, sodium loses one electron to become the univalent positive cation Na⁺.",
+    "memory_tip": "NaCl = Na⁺ (Cation) + Cl⁻ (Anion)."
+  },
+  {
+    "id": 163,
+    "question": "Cation present in MgCl2\nMgCl2 నందు గల కేటయాన",
+    "options": [
+      {
+        "key": 1,
+        "text": "Mg+"
+      },
+      {
+        "key": 2,
+        "text": "Mg+2"
+      },
+      {
+        "key": 3,
+        "text": "Cl-1"
+      },
+      {
+        "key": 4,
+        "text": "Cl-2"
+      }
+    ],
+    "answer": 2,
+    "hint": "In magnesium chloride, magnesium loses two valence electrons to form the divalent positive cation Mg²⁺.",
+    "memory_tip": "MgCl₂ = Mg²⁺ (Divalent cation) + 2Cl⁻ (Anions)."
+  },
+  {
+    "id": 164,
+    "question": "Bond formed by the transfer of electrons from metals to nonmetal is\nలోహాల నండి అలోహాలకు ఎలకాోను బదిలీవలు ఏరపడే బంధ్ం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Ionic bond అయానిక బంధ్ం"
+      },
+      {
+        "key": 2,
+        "text": "Covalent bond సంయోజనీయ బంధ్ం"
+      },
+      {
+        "key": 3,
+        "text": "Polar covalent bond ధ్ృవ  సంయోజనీయ బంధ్ం"
+      },
+      {
+        "key": 4,
+        "text": "Non polar covalent bond అద్ృవ సంయోజనీయ బంధ్ం"
+      }
+    ],
+    "answer": 1,
+    "hint": "A chemical bond formed by the complete transfer of one or more electrons from an electropositive metal to an electronegative non-metal is an ionic bond.",
+    "memory_tip": "Transfer of electrons = Ionic (electrovalent) bond; Mutual sharing of electrons = Covalent bond."
+  },
+  {
+    "id": 165,
+    "question": "The layer of the earth that is major source of metals\nలోహాల ప్రధ్యన వనరైన భూమి యొకక పర",
+    "options": [
+      {
+        "key": 1,
+        "text": "Crust భూపటలం"
+      },
+      {
+        "key": 2,
+        "text": "Mantle భూప్రావ్యరం"
+      },
+      {
+        "key": 3,
+        "text": "Inner core  అంత్ర కేంద్రం"
+      },
+      {
+        "key": 4,
+        "text": "Outer core  బాహయ కేంద్రం"
+      }
+    ],
+    "answer": 1,
+    "hint": "The Earth's outermost rocky layer, the crust, is the chief source of commercial mineral ores and metals.",
+    "memory_tip": "Most metals and mineral ores occur in the Earth's Crust."
+  },
+  {
+    "id": 166,
+    "question": "Galvanization is a method of coating a thin layer of this metal\nపలుచని ఈ లోహప్ప పరన పూత్గా పూయడానిి గాలవనీకరణం అంటారు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Iron ఇనము"
+      },
+      {
+        "key": 2,
+        "text": "Zinc జంక్"
+      },
+      {
+        "key": 3,
+        "text": "Aluminium అలూయమినియం"
+      },
+      {
+        "key": 4,
+        "text": "Chromium క్రోమియం"
+      }
+    ],
+    "answer": 2,
+    "hint": "Galvanization is the application of a thin protective sacrificial layer of zinc (Zn) onto iron or steel to prevent rusting.",
+    "memory_tip": "Galvanization = Zinc (Zn) protective coating on iron."
+  },
+  {
+    "id": 167,
+    "question": "To get Stainless steel, Iron is added to\nఉకుకన పందుటకు ఇనముకు వీటిని కలుప్పత్తరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Nickel and Copper నిక్కల్ మరియు కాపర్"
+      },
+      {
+        "key": 2,
+        "text": "Nickel and Chromium నిక్కల్ మరియు క్రోమియం"
+      },
+      {
+        "key": 3,
+        "text": "Chromium and Platinum క్రోమియం మరియు పాుటినం"
+      },
+      {
+        "key": 4,
+        "text": "Nickel and Platinum నిక్కల్ మరియు పాుటినం"
+      }
+    ],
+    "answer": 2,
+    "hint": "Stainless steel is manufactured by alloying iron with chromium and nickel (along with small amounts of carbon) to impart corrosion resistance.",
+    "memory_tip": "Stainless Steel = Iron (Fe) + Chromium (Cr) + Nickel (Ni) + Carbon (C)."
+  },
+  {
+    "id": 168,
+    "question": "Example of molecule with Covalent bond\nసంయోజనీయ బంధ్ అణువుకు ఉదాహరణ",
+    "options": [
+      {
+        "key": 1,
+        "text": "NaCl"
+      },
+      {
+        "key": 2,
+        "text": "AlCl3"
+      },
+      {
+        "key": 3,
+        "text": "MgCl2"
+      },
+      {
+        "key": 4,
+        "text": "HCl"
+      }
+    ],
+    "answer": 4,
+    "hint": "In hydrogen chloride (HCl), the non-metal atoms H and Cl share an electron pair, forming a covalent bond.",
+    "memory_tip": "Covalent bond = Between non-metals via electron sharing (e.g., HCl, H₂O, CH₄); Ionic = Metal + Non-metal (NaCl, MgCl₂)."
+  },
+  {
+    "id": 169,
+    "question": "This fibre is called artificial silk\nఈ దారానిి కృత్రిమ పట్టట అని పిలుసాతరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Nylon నైలాన్"
+      },
+      {
+        "key": 2,
+        "text": "Rayon రేయాన్"
+      },
+      {
+        "key": 3,
+        "text": "Acrylic ఆక్రలిక్"
+      },
+      {
+        "key": 4,
+        "text": "Polyester పాలిసటర్"
+      }
+    ],
+    "answer": 2,
+    "hint": "Rayon is a semi-synthetic fibre made from regenerated cellulose that mimics the gloss, drape, and texture of natural silk, so it is termed artificial silk.",
+    "memory_tip": "Artificial Silk = Rayon (from wood pulp); Artificial Wool = Acrylic; Fully synthetic fibre = Nylon."
+  },
+  {
+    "id": 170,
+    "question": "Polycot is a mixture of\nపాలికాట్ అనేది వీటి మిశ్రమం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Polyester and wool పాలిసటర్ మరియు ఉనిి"
+      },
+      {
+        "key": 2,
+        "text": "Polyester and cotton పాలిసటర్ మరియు న్యలు"
+      },
+      {
+        "key": 3,
+        "text": "Polyester and silk పాలిసటర్ మరియు స్థల్క"
+      },
+      {
+        "key": 4,
+        "text": "Polyester and nylon పాలిసటర్ మరియు నైలాన్"
+      }
+    ],
+    "answer": 2,
+    "hint": "Polycot is a blended textile fabric made by spinning polyester synthetic fibres together with natural cotton fibres.",
+    "memory_tip": "Blended fabrics: Polycot = Polyester + Cotton; Polywool = Polyester + Wool; Terrycot = Terylene + Cotton."
+  },
+  {
+    "id": 171,
+    "question": "Thermosetting plastic used in the preparation of electrical switches,\nhandles of utensils\nవిదుయత్ స్థవచ్ లు, వంట పాత్రల పిడుల త్యారీలో వ్యడే థరోమ సెటిటంగ్ పాుస్థటక్",
+    "options": [
+      {
+        "key": 1,
+        "text": "Bakelite బేకలైట్"
+      },
+      {
+        "key": 2,
+        "text": "Melamine మెలమైన్"
+      },
+      {
+        "key": 3,
+        "text": "Polythene పాలిథీన్"
+      },
+      {
+        "key": 4,
+        "text": "PVC పీవీస్మ"
+      }
+    ],
+    "answer": 1,
+    "hint": "Bakelite is a thermosetting cross-linked polymer that is a poor conductor of heat and electricity, widely used for electric switches and pan handles.",
+    "memory_tip": "Thermosetting plastics: Bakelite (electrical switches, utensil handles), Melamine (crockery, fire-resistant fabric)."
+  },
+  {
+    "id": 172,
+    "question": "Artificial fibre used in the preparation of Parachutes and ropes for rock\nclimbing\nపారాచూట్ ల త్యారీలో  మరియు పరవత్తరోహణకు ఉపయోగించే త్తళు త్యారీలో\nవ్యడే కృత్రిమ దారం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Rayon రేయాన్"
+      },
+      {
+        "key": 2,
+        "text": "Nylon నైలాన్"
+      },
+      {
+        "key": 3,
+        "text": "Acrylic ఆక్రలిక్"
+      },
+      {
+        "key": 4,
+        "text": "Polyester పాలిసటర్"
+      }
+    ],
+    "answer": 2,
+    "hint": "Nylon is exceptionally strong, elastic, lightweight, and water-resistant (stronger than a steel wire of the same thickness), making it ideal for parachutes.",
+    "memory_tip": "Nylon = High tensile strength; used in parachutes, climbing ropes, tyre cords, toothbrushes."
+  },
+  {
+    "id": 173,
+    "question": "Inexhaustible natural resource among the following\nక్రంది వ్యనిలో త్రగని శకిత వనరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Forest అడవులు"
+      },
+      {
+        "key": 2,
+        "text": "Minerals ఖ్నిజాలు"
+      },
+      {
+        "key": 3,
+        "text": "Petroleum పెట్రోలియం"
+      },
+      {
+        "key": 4,
+        "text": "Sunlight సూరయరశిమ"
+      }
+    ],
+    "answer": 4,
+    "hint": "Sunlight is continuously replenished by nuclear fusion on the Sun and will not be exhausted by human utilization.",
+    "memory_tip": "Inexhaustible / Renewable: Sunlight, Wind, Tidal energy; Exhaustible / Non-renewable: Coal, Petroleum, Natural Gas, Minerals."
+  },
+  {
+    "id": 174,
+    "question": "The process of conversion of dead vegetation into coal is called\nవృక్ష సంపద్ నెమమదిగా నేలబొగుుగా మారే ప్రక్రయన ఈ విధ్ంగా పిలుసాతరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Carbonisation కారోబనైజేష్న్"
+      },
+      {
+        "key": 2,
+        "text": "Oxidation ఆకీైకరణం"
+      },
+      {
+        "key": 3,
+        "text": "Calcination భస్మమకరణం"
+      },
+      {
+        "key": 4,
+        "text": "Reduction క్షయకరణం"
+      }
+    ],
+    "answer": 1,
+    "hint": "The slow biogeochemical conversion of dead plant matter buried beneath the earth into coal under extreme heat and pressure is carbonisation.",
+    "memory_tip": "Dead vegetation → Coal over millions of years = Carbonisation."
+  },
+  {
+    "id": 175,
+    "question": "The purest form of carbon is\nకారబన్ యొకక సవచేమైన రూపం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Coal నేల బొగుు"
+      },
+      {
+        "key": 2,
+        "text": "Coke కోక్"
+      },
+      {
+        "key": 3,
+        "text": "Coal tar కోల్ త్తరు"
+      },
+      {
+        "key": 4,
+        "text": "Coal gas కోల్ వ్యయువు"
+      }
+    ],
+    "answer": 2,
+    "hint": "Coke is a porous, tough black solid obtained by the destructive distillation of coal; it contains around 98% carbon (the purest commercial carbon form).",
+    "memory_tip": "Destructive distillation of coal: Coke (purest carbon residue), Coal Tar (liquid), Coal Gas (gaseous fuel)."
+  },
+  {
+    "id": 176,
+    "question": "CNG means\nCNG అనగా",
+    "options": [
+      {
+        "key": 1,
+        "text": "Compressed Natural Gas"
+      },
+      {
+        "key": 2,
+        "text": "Contract Natural Gas"
+      },
+      {
+        "key": 3,
+        "text": "Compressed Nano Gas"
+      },
+      {
+        "key": 4,
+        "text": "Contract Nano Gas"
+      }
+    ],
+    "answer": 1,
+    "hint": "CNG stands for Compressed Natural Gas.",
+    "memory_tip": "CNG = Compressed Natural Gas (chiefly Methane, stored at 200-250 bar pressure)."
+  },
+  {
+    "id": 177,
+    "question": "This is not an inflammable substance\nఇది ద్హనశీలి పదారధం కాదు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Wood చెకక"
+      },
+      {
+        "key": 2,
+        "text": "Petrol పెట్రోల్"
+      },
+      {
+        "key": 3,
+        "text": "Alcohol ఆలకహాల్"
+      },
+      {
+        "key": 4,
+        "text": "LPG ఎల్. పి. జ"
+      }
+    ],
+    "answer": 1,
+    "hint": "Inflammable substances have very low ignition temperatures and catch fire instantaneously (petrol, LPG, alcohol). Wood has a higher ignition temperature.",
+    "memory_tip": "Inflammable = Extremely low ignition temperature (Petrol, Alcohol, LPG, Ether)."
+  },
+  {
+    "id": 178,
+    "question": "The best fire extinguisher for fires involving electrical equipment and\ninflammable materials\nవిదుయత్ పరికరాలు మరియు ద్హనశీలి పదారాధలు మండుతునిప్పపడు వ్యటిని ఆరపడానికి\nఉత్తమమైనది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Water నీరు"
+      },
+      {
+        "key": 2,
+        "text": "Oxygen ఆకిైజన్"
+      },
+      {
+        "key": 3,
+        "text": "Coconut oil కొబబరిన్యనె"
+      },
+      {
+        "key": 4,
+        "text": "Carbon dioxide కారబన్ డై ఆక్కథైడ్"
+      }
+    ],
+    "answer": 4,
+    "hint": "Carbon dioxide (CO₂) is non-conducting, denser than air, smothers the flame by depriving it of oxygen, and leaves no residue on electrical gear.",
+    "memory_tip": "Electrical and oil fires: Use CO₂ extinguisher (water must never be used on electrical or oil fires)."
+  },
+  {
+    "id": 179,
+    "question": "The dangerous gas released by the incomplete combustion of fuels is\nఇంధ్నాల అసంపూరో ద్హనం వలన విడుద్లయ్యయ ప్రమాద్కర వ్యయువు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Carbon monoxide కారబన్ మ్మనాక్కథైడ్"
+      },
+      {
+        "key": 2,
+        "text": "Carbon dioxide కారబన్ డై ఆక్కథైడ్"
+      },
+      {
+        "key": 3,
+        "text": "Oxygen ఆకిైజన్"
+      },
+      {
+        "key": 4,
+        "text": "Hydrogen హైడ్రోజన్"
+      }
+    ],
+    "answer": 1,
+    "hint": "Incomplete combustion of hydrocarbon fuels due to insufficient oxygen supply produces carbon monoxide (CO), a toxic, silent-killer gas.",
+    "memory_tip": "Incomplete combustion → Carbon Monoxide (CO); Complete combustion → Carbon Dioxide (CO₂)."
+  },
+  {
+    "id": 180,
+    "question": "The cleaner fuel among the following is\nక్రంది వ్యటిలో సవచేమైన ఇంధ్నం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Petrol పెట్రోల్"
+      },
+      {
+        "key": 2,
+        "text": "Diesel డీజల్"
+      },
+      {
+        "key": 3,
+        "text": "Coal నేలబొగుు"
+      },
+      {
+        "key": 4,
+        "text": "CNG స్మ. ఎన్ . జ"
+      }
+    ],
+    "answer": 4,
+    "hint": "CNG burns almost completely without smoke or soot and produces the lowest amounts of harmful exhaust emissions among hydrocarbon fuels.",
+    "memory_tip": "Cleanest vehicular fossil fuel = CNG (burns without smoke, leaves no residue)."
+  },
+  {
+    "id": 181,
+    "question": "Acid among the following\nక్రంది వ్యనిలో ఆముం",
+    "options": [
+      {
+        "key": 1,
+        "text": "NaOH"
+      },
+      {
+        "key": 2,
+        "text": "CH3COOH"
+      },
+      {
+        "key": 3,
+        "text": "KOH"
+      },
+      {
+        "key": 4,
+        "text": "NH4OH"
+      }
+    ],
+    "answer": 2,
+    "hint": "Acetic acid (CH₃COOH) releases hydrogen ions (H⁺) in water, making it an acid. NaOH, KOH, and NH₄OH release hydroxide ions (OH⁻) and are bases.",
+    "memory_tip": "Acids release H⁺ in water; Bases release OH⁻ (CH₃COOH = weak organic acid)."
+  },
+  {
+    "id": 182,
+    "question": "This cannot be used as an olfactory indicator\nదీనిని ఘ్రాణ సూచకగా ఉపయోగించలేము",
+    "options": [
+      {
+        "key": 1,
+        "text": "Vanilla essence వెనీలా ఎసెన్ై"
+      },
+      {
+        "key": 2,
+        "text": "Clove oil లవంగ న్యనె"
+      },
+      {
+        "key": 3,
+        "text": "Hibiscus మందారం"
+      },
+      {
+        "key": 4,
+        "text": "Onion ఉలిుపాయ"
+      }
+    ],
+    "answer": 3,
+    "hint": "Olfactory indicators change their odour/scent depending on acidic or basic medium (onion, vanilla, clove oil). Hibiscus is a visual colour indicator.",
+    "memory_tip": "Olfactory indicators: Vanilla, Onion, Clove oil. Natural colour indicators: Hibiscus (China Rose), Turmeric, Litmus."
+  },
+  {
+    "id": 183,
+    "question": "The gas released by the reaction of zinc with hydrochloric acid\nజంక్ హైడ్రోకోురిక్ ఆముంతో చరయ వలన విడుద్లయ్యయ వ్యయువు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Oxygen ఆకిైజన్"
+      },
+      {
+        "key": 2,
+        "text": "Hydrogen హైడ్రోజన్"
+      },
+      {
+        "key": 3,
+        "text": "Nitrogen నైట్రోజన్"
+      },
+      {
+        "key": 4,
+        "text": "Carbon dioxide కారబన్ డై ఆక్కథైడ్"
+      }
+    ],
+    "answer": 2,
+    "hint": "Metals react with dilute acids to produce metal salts and liberate hydrogen gas: Zn + 2HCl → ZnCl₂ + H₂↑.",
+    "memory_tip": "Metal + Acid → Salt + H₂↑ (Hydrogen burns with a pop sound)."
+  },
+  {
+    "id": 184,
+    "question": "Acids reacts with bases to form\nఆమాులు క్షారాలతో చరయ జరపడం వలన ఏరపడేవి",
+    "options": [
+      {
+        "key": 1,
+        "text": "Only salts లవణాలు మాత్రమే"
+      },
+      {
+        "key": 2,
+        "text": "Only water నీరు మాత్రమే"
+      },
+      {
+        "key": 3,
+        "text": "Salt and water లవణం మరియు నీరు"
+      },
+      {
+        "key": 4,
+        "text": "Bases క్షారాలు"
+      }
+    ],
+    "answer": 3,
+    "hint": "An acid neutralises a base to form salt and water in a neutralisation reaction: Acid + Base → Salt + Water.",
+    "memory_tip": "Neutralisation: Acid + Base → Salt + Water (HCl + NaOH → NaCl + H₂O)."
+  },
+  {
+    "id": 185,
+    "question": "Bases that are soluble in water are called\nనీటిలో కరిగే క్షారాలన ఈవిధ్ంగా పిలుసాతరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Alcohols ఆలకహాల్ లు"
+      },
+      {
+        "key": 2,
+        "text": "Alkaloids ఆలకలాయిడుు"
+      },
+      {
+        "key": 3,
+        "text": "Alkalis ఆలకలీలు"
+      },
+      {
+        "key": 4,
+        "text": "Alkyls ఆల్థకల్ై"
+      }
+    ],
+    "answer": 3,
+    "hint": "Water-soluble bases are specifically known as alkalis (e.g., NaOH, KOH, Ca(OH)₂).",
+    "memory_tip": "Water-soluble base = Alkali (\"All alkalis are bases, but all bases are not alkalis\")."
+  },
+  {
+    "id": 186,
+    "question": "Acidic solution among the following is\nక్రంది వ్యనిలో ఆము ద్రావణం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Gastric juice జీరోరసం"
+      },
+      {
+        "key": 2,
+        "text": "Pure water సవచేమైన నీరు"
+      },
+      {
+        "key": 3,
+        "text": "Milk of magnesia మిల్క ఆఫ్ మెగ్నిష్టయ"
+      },
+      {
+        "key": 4,
+        "text": "Sodium hydroxide స్కడియం హైడ్రాక్కథైడ్"
+      }
+    ],
+    "answer": 1,
+    "hint": "Gastric juice contains concentrated hydrochloric acid (HCl), giving it a strongly acidic pH between 1.5 and 2.5.",
+    "memory_tip": "pH values: Gastric juice ≈ 1.5–2.5 (acidic); Pure water = 7 (neutral); Milk of magnesia ≈ 10 (basic); NaOH ≈ 14 (basic)."
+  },
+  {
+    "id": 187,
+    "question": "Milk of magnesia is a\nమిల్క ఆఫ్ మెగ్నిష్టయ అనేది ఒక",
+    "options": [
+      {
+        "key": 1,
+        "text": "Strong Acid బలమైన ఆముం"
+      },
+      {
+        "key": 2,
+        "text": "Weak Acid బలహీన ఆముం"
+      },
+      {
+        "key": 3,
+        "text": "Strong Base బలమైన క్షారం"
+      },
+      {
+        "key": 4,
+        "text": "Weak Base బలహీన క్షారం"
+      }
+    ],
+    "answer": 4,
+    "hint": "Milk of magnesia is an aqueous suspension of magnesium hydroxide, Mg(OH)₂, which is a mild/weak insoluble base used safely as an antacid.",
+    "memory_tip": "Milk of Magnesia = Mg(OH)₂ (Weak base / Antacid)."
+  },
+  {
+    "id": 188,
+    "question": "The acid present in Tomato\nటోమాటోలో ఉండే ఆముం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Oxalic acid ఆకాజలిక్ ఆముం"
+      },
+      {
+        "key": 2,
+        "text": "Tartaric acid టారాటరిక్ ఆముం"
+      },
+      {
+        "key": 3,
+        "text": "Citric acid స్థట్రిక్ ఆముం"
+      },
+      {
+        "key": 4,
+        "text": "Acetic acid ఎస్థటిక్ ఆముం"
+      }
+    ],
+    "answer": 1,
+    "hint": "Tomatoes naturally contain oxalic acid (along with ascorbic and citric acids; standard syllabus answer is oxalic acid).",
+    "memory_tip": "Natural acids: Tomato → Oxalic acid; Vinegar → Acetic acid; Tamarind → Tartaric acid; Curd → Lactic acid; Orange/Lemon → Citric acid."
+  },
+  {
+    "id": 189,
+    "question": "Number of water molecules present in Washing soda formula\nవ్యష్టంగ్ స్కడా ఫారుమలా నందు గల నీటి అణువుల సంఖ్య",
+    "options": [
+      {
+        "key": 1,
+        "text": "2"
+      },
+      {
+        "key": 2,
+        "text": "5"
+      },
+      {
+        "key": 3,
+        "text": "8"
+      },
+      {
+        "key": 4,
+        "text": "10"
+      }
+    ],
+    "answer": 4,
+    "hint": "Washing soda is sodium carbonate decahydrate, Na₂CO₃·10H₂O, containing exactly 10 molecules of water of crystallization.",
+    "memory_tip": "Washing soda = Na₂CO₃·10H₂O (10 water molecules); Gypsum = CaSO₄·2H₂O; Blue vitriol = CuSO₄·5H₂O."
+  },
+  {
+    "id": 190,
+    "question": "Plaster of Paris is derived by heating\nదీనిని వేడి చేయడం దావరా పాుసటర్ ఆఫ్ పారిస్ న పంద్వచుా",
+    "options": [
+      {
+        "key": 1,
+        "text": "Sodium carbonate స్కడియం కారోబనేట్"
+      },
+      {
+        "key": 2,
+        "text": "Copper sulphate కాపర్ సలేయట్"
+      },
+      {
+        "key": 3,
+        "text": "Gypsum జపైం"
+      },
+      {
+        "key": 4,
+        "text": "Sodium chloride స్కడియం కోురైడ్"
+      }
+    ],
+    "answer": 3,
+    "hint": "Heating gypsum (CaSO₄·2H₂O) carefully at 373 K (100°C) produces Plaster of Paris (CaSO₄·½H₂O).",
+    "memory_tip": "Gypsum (CaSO₄·2H₂O) + Heat (373 K) → Plaster of Paris (CaSO₄·½H₂O) + 1½H₂O."
+  },
+  {
+    "id": 191,
+    "question": "The substance that turns the red litmus into blue colour is\nఎరుప్ప లిటమస్ న  నీలి రంగులోకి మారేా పదారధం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Acid ఆముం"
+      },
+      {
+        "key": 2,
+        "text": "Base క్షారం"
+      },
+      {
+        "key": 3,
+        "text": "Neutral త్టసాం"
+      },
+      {
+        "key": 4,
+        "text": "Water నీరు"
+      }
+    ],
+    "answer": 2,
+    "hint": "Bases turn red litmus paper blue, whereas acids turn blue litmus paper red.",
+    "memory_tip": "Litmus rule: Base turns Red to Blue (BAR); Acid turns Blue to Red (ABR)."
+  },
+  {
+    "id": 192,
+    "question": "The type of medicines used for treating indigestion\nఈ రకమైన మందులన అజీరాోనికి చకిత్ై చేయడానికి వ్యడత్తరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Antibiotic యాంటీ బయోటిక్"
+      },
+      {
+        "key": 2,
+        "text": "Analgesic ఏనాలిజస్థక్"
+      },
+      {
+        "key": 3,
+        "text": "Antacid యాంటాస్థడ్"
+      },
+      {
+        "key": 4,
+        "text": "Antiseptic యాంటీ సెపిటక్"
+      }
+    ],
+    "answer": 3,
+    "hint": "Antacids are mild alkaline substances that neutralise hyperacidity (excess HCl) in the stomach to relieve indigestion.",
+    "memory_tip": "Indigestion / Acidity remedy = Antacids (e.g., Mg(OH)₂, NaHCO₃)."
+  },
+  {
+    "id": 193,
+    "question": "The statement of an actual event or a physical event is\nఒక భౌతిక వస్తవు లేదా యధ్యరధ సంఘటనన వివరించే ప్రవచనమే ఒక",
+    "options": [
+      {
+        "key": 1,
+        "text": "Fact యధ్యరధం"
+      },
+      {
+        "key": 2,
+        "text": "Generalization సాదారణీకరణం"
+      },
+      {
+        "key": 3,
+        "text": "Concept భావన"
+      },
+      {
+        "key": 4,
+        "text": "Hypothesis ప్రాకలపన"
+      }
+    ],
+    "answer": 1,
+    "hint": "A direct observation or verifiable statement of an actual physical occurrence or objective reality is termed a fact.",
+    "memory_tip": "Hierarchy of Science: Fact (observable reality) → Concept → Generalization → Theory / Law."
+  },
+  {
+    "id": 194,
+    "question": "“Magnets attracts iron objects” this statement is an example for\n“ అయసాకంత్ం ఇనప వస్తవులన ఆకరిషస్తంది” అనే వ్యఖ్యం దీనికి ఉదాహరణ",
+    "options": [
+      {
+        "key": 1,
+        "text": "Fact యధ్యరధం"
+      },
+      {
+        "key": 2,
+        "text": "Generalization సాదారణీకరణం"
+      },
+      {
+        "key": 3,
+        "text": "Concept భావన"
+      },
+      {
+        "key": 4,
+        "text": "Hypothesis ప్రాకలపన"
+      }
+    ],
+    "answer": 2,
+    "hint": "A statement stating a broad relationship synthesized from multiple instances and applied generally is a generalization.",
+    "memory_tip": "Generalization = A broad principle or relationship derived from multiple facts/observations."
+  },
+  {
+    "id": 195,
+    "question": "‘Can water be boiled at any temperature?’ this statement is an example\nfor this type of hypothesis\n‘నీటిని ఏ ఉష్ణోగ్రత్ వద్ద నైనా మరిగించవచ్చా?’ ప్రవచనం ఈ రకమైన ప్రాకలపనకు\nఉదాహరణ",
+    "options": [
+      {
+        "key": 1,
+        "text": "Null hypothesis నల్ ప్రాకలపన"
+      },
+      {
+        "key": 2,
+        "text": "Declarative hypothesis ప్రకటనాత్మక ప్రాకలపన"
+      },
+      {
+        "key": 3,
+        "text": "Prediction hypothesis ప్రాగుకిత ప్రాకలపన"
+      },
+      {
+        "key": 4,
+        "text": "Question hypothesis ప్రశి ప్రాకలపన"
+      }
+    ],
+    "answer": 4,
+    "hint": "A tentative proposition phrased in the form of a question to guide inquiry is a question hypothesis.",
+    "memory_tip": "Question form = Question hypothesis; \"No relationship/difference\" = Null hypothesis; Direct statement = Declarative hypothesis."
+  },
+  {
+    "id": 196,
+    "question": "‘There is relation between pressure and boiling point of water’ this\nstatement is an example for this type of hypothesis\n‘నీరు మరిగే ఉష్ణోగ్రత్కు పీడనానికి సంబంద్ం ఉంది’అనే  ప్రవచనం ఈ రకమైన\nప్రాకలపనకు  ఉదాహరణ",
+    "options": [
+      {
+        "key": 1,
+        "text": "Null hypothesis నల్ ప్రాకలపన"
+      },
+      {
+        "key": 2,
+        "text": "Declarative hypothesis ప్రకటనాత్మక ప్రాకలపన"
+      },
+      {
+        "key": 3,
+        "text": "Prediction hypothesis ప్రాగుకిత ప్రాకలపన"
+      },
+      {
+        "key": 4,
+        "text": "Question hypothesis ప్రశి ప్రాకలపన"
+      }
+    ],
+    "answer": 2,
+    "hint": "A clear, positive assertion asserting a relationship between two variables is a declarative hypothesis.",
+    "memory_tip": "Declarative hypothesis = Direct affirmative statement of relationship between variables."
+  },
+  {
+    "id": 197,
+    "question": "‘Science learning is useful for entering into different professions like\nDoctors, Engineers and Teachers’ indicates this value\n‘డాకటరుు, ఇంజనీరుు మరియు ఉపాధ్యయయులు మొద్లైన వృతుతలలోనికి ప్రవేశించుటకు\nవిజాానశాస్త్ర అభయసనం తోడపడుతుంది’ ఇది ఈ రకమైన విలువన తెలుప్పతుంది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Intellectual value  బౌదిధక విలువ"
+      },
+      {
+        "key": 2,
+        "text": "Cultural value సాంసకృతిక విలువ"
+      },
+      {
+        "key": 3,
+        "text": "Moral value నైతిక విలువ"
+      },
+      {
+        "key": 4,
+        "text": "Vocational value వృతితపరమైన విలువ"
+      }
+    ],
+    "answer": 4,
+    "hint": "Preparing students for future occupations, employment, and earning a living reflects the vocational value of science.",
+    "memory_tip": "Values of Science: Career / Livelihood = Vocational Value; Thinking / Problem-solving = Intellectual Value; Neatness / Rules = Disciplinary Value."
+  },
+  {
+    "id": 198,
+    "question": "‘Learning science develops discipline in taking readings in laboratory\nand while working in laboratory’ indicates this value\n‘విజాాన శాస్త్ర అధ్యయనం దావరా ప్రయోగశాలలో పనిచేస్తప్పపడు మరియు రీడింగులు\nతీస్కునేటప్పపడు విధ్యయరిధ క్రమశిక్షణగా వయవహరిసాతరు’ అని తెలియజేస్త విలువ",
+    "options": [
+      {
+        "key": 1,
+        "text": "Moral value నైతిక విలువ"
+      },
+      {
+        "key": 2,
+        "text": "Aesthetic value సంద్రాయత్మక విలువ"
+      },
+      {
+        "key": 3,
+        "text": "Disciplinary value క్రమశిక్షణ విలువ"
+      },
+      {
+        "key": 4,
+        "text": "Utilitarian value ఉపయోగిత్ విలువ"
+      }
+    ],
+    "answer": 3,
+    "hint": "Instilling systematic working habits, patience, truthfulness, and precision in taking laboratory measurements represents disciplinary value.",
+    "memory_tip": "Disciplinary Value = Cultivating mental discipline, accuracy, and systematic scientific habits."
+  },
+  {
+    "id": 199,
+    "question": "First step in ‘Scientific method’ is\n‘శాస్త్రీయ పద్దతిలోని’ మొద్టి స్కపానం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Identification of problem సమసయన గురితంచడం"
+      },
+      {
+        "key": 2,
+        "text": "Analysing problem సమసయన విశ్లుష్టంచడం"
+      },
+      {
+        "key": 3,
+        "text": "Testing Hypothesis ప్రాకలపనన పరీక్షించడం"
+      },
+      {
+        "key": 4,
+        "text": "Generalization of results ఫలిత్తలన సాధ్యరణీకరించడం"
+      }
+    ],
+    "answer": 1,
+    "hint": "The scientific method systematically begins with recognizing, identifying, and stating the specific problem to be solved.",
+    "memory_tip": "Steps in Scientific Method: (1) Identification of problem → (2) Hypothesis → (3) Experimentation / Data collection → (4) Testing → (5) Conclusion."
+  },
+  {
+    "id": 200,
+    "question": "The cognitive domain was explained by\nజాానాత్మక రంగానిి వివరించన వ్యరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "B.S. Blooms బ.యస్. బూుమ్ై"
+      },
+      {
+        "key": 2,
+        "text": "David R. Krathwohl డేవిడ్. ఆర్. క్రాత్ వోల్"
+      },
+      {
+        "key": 3,
+        "text": "R. H. Dawey ఆర్. హెచ్ . డేవి"
+      },
+      {
+        "key": 4,
+        "text": "Jeevan జీవన్"
+      }
+    ],
+    "answer": 1,
+    "hint": "Benjamin S. Bloom developed the taxonomy of educational objectives for the Cognitive Domain in 1956.",
+    "memory_tip": "Bloom's Domains: Cognitive = B.S. Bloom (1956); Affective = D.R. Krathwohl (1964); Psychomotor = R.H. Dave / Simpson (1970)."
+  },
+  {
+    "id": 201,
+    "question": "The first step in cognitive domain of Blooms classification of educational\nobjectives\nబూుమ్ై విదాయలక్షాయల వరీుకరణలోని  జాానాత్మకరంగం లోని మొద్టి స్కపానం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Understanding అవగాహన"
+      },
+      {
+        "key": 2,
+        "text": "Application అనవయము"
+      },
+      {
+        "key": 3,
+        "text": "Knowledge జాానం"
+      },
+      {
+        "key": 4,
+        "text": "Evaluation మూలాయంకనం"
+      }
+    ],
+    "answer": 3,
+    "hint": "The foundational, lowest cognitive level in Bloom's taxonomy is Knowledge (recalling facts, terms, and concepts).",
+    "memory_tip": "Cognitive Domain order: Knowledge → Understanding → Application → Analysis → Synthesis → Evaluation."
+  },
+  {
+    "id": 202,
+    "question": "The first step in ‘Affective domain’ of Blooms classification of\neducational objectives\nబూుమ్ై విదాయలక్షాయల వరీుకరణలో  భావ్యవేశరంగం లోని మొద్టి స్కపానం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Responding ప్రతిసపంద్న"
+      },
+      {
+        "key": 2,
+        "text": "Valuing విలువకటటడం"
+      },
+      {
+        "key": 3,
+        "text": "Organisation వయవసాాపనం"
+      },
+      {
+        "key": 4,
+        "text": "Receiving గ్రహించడం"
+      }
+    ],
+    "answer": 4,
+    "hint": "In Krathwohl's affective domain, the initial step is Receiving (attending), where the learner becomes willing to perceive and pay attention to stimuli.",
+    "memory_tip": "Affective Domain hierarchy: Receiving → Responding → Valuing → Organization → Characterization (Mnemonic: RRVOC)."
+  },
+  {
+    "id": 203,
+    "question": "The first step in ‘Psychomotor domain’ of Blooms classification of\neducational objectives\nబూుమ్ై విదాయలక్షాయల వరీుకరణలో భావ్యవేశరంగం లోని మొద్టి స్కపానం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Imitation అనకరణ"
+      },
+      {
+        "key": 2,
+        "text": "Manipulation హసతలాఘవం"
+      },
+      {
+        "key": 3,
+        "text": "Precision స్నిశిత్త్వం"
+      },
+      {
+        "key": 4,
+        "text": "Articulation ఉచ్చేరణ"
+      }
+    ],
+    "answer": 1,
+    "hint": "In the psychomotor domain, acquiring motor skills begins with Imitation (observing a demonstration and copying physical actions).",
+    "memory_tip": "Psychomotor Domain hierarchy (Dave): Imitation → Manipulation → Precision → Articulation → Naturalization (Mnemonic: IMPAN)."
+  },
+  {
+    "id": 204,
+    "question": "The specification “Recall” belongs to this objective\n“జాపితకి తెచుాకుంటారు” అనే సపష్పటకరణ ఈ లక్షాయనికి చెందింది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Knowledge జాానం"
+      },
+      {
+        "key": 2,
+        "text": "Understanding అవగాహన"
+      },
+      {
+        "key": 3,
+        "text": "Application అనవయము"
+      },
+      {
+        "key": 4,
+        "text": "Skill నైప్పణయము"
+      }
+    ],
+    "answer": 1,
+    "hint": "The behavioral action verb \"Recall\" (remembering previously memorized facts, symbols, or definitions) specifies the Knowledge objective.",
+    "memory_tip": "Recall & Recognize = Knowledge; Explain & Illustrate = Understanding; Compute & Apply = Application."
+  },
+  {
+    "id": 205,
+    "question": "‘Teaching is an interaction process’ defined by\n‘ బోధ్న ఒక పరసపర చరాయ ప్రక్రయ’ అని నిరవచంచన వ్యరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Edmund Amidon ఎడమండ్ అమిడాన్"
+      },
+      {
+        "key": 2,
+        "text": "A. Flander ఎ. ఫాుండర్"
+      },
+      {
+        "key": 3,
+        "text": "B.O. Smith బ. ఓ . స్థమత్"
+      },
+      {
+        "key": 4,
+        "text": "H. C. Morrison హెచ్. స్థ . మ్మరిసన్"
+      }
+    ],
+    "answer": 2,
+    "hint": "Ned A. Flanders analyzed teacher-pupil classroom verbal behavior and defined teaching as an interactive process (FIAC).",
+    "memory_tip": "Teaching is an interactive process = Ned A. Flanders (Flanders Interaction Analysis Categories)."
+  },
+  {
+    "id": 206,
+    "question": "‘Memory level of Teaching’ designed by\n‘సమృతి సాాయి బోధ్నా నమూనా’ న రూపందించన వ్యరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Edmund Amidon ఎడమండ్ అమిడాన్"
+      },
+      {
+        "key": 2,
+        "text": "A. Flander ఎ. ఫాుండర్"
+      },
+      {
+        "key": 3,
+        "text": "J. F. Herbart జె. ఎఫ్. హెరాబర్ట"
+      },
+      {
+        "key": 4,
+        "text": "H. C. Morrison హెచ్. స్థ . మ్మరిసన్"
+      }
+    ],
+    "answer": 3,
+    "hint": "Johann Friedrich Herbart designed the Memory Level of Teaching, emphasizing presentation of structured facts and memorization.",
+    "memory_tip": "Levels of Teaching: Memory Level = Herbart; Understanding Level = Morrison; Reflective Level = Hunt."
+  },
+  {
+    "id": 207,
+    "question": "Student centred teaching method among the following\nక్రంది వ్యనిలో విదాయరిధ కేంద్రక బోధ్నా పద్దతి",
+    "options": [
+      {
+        "key": 1,
+        "text": "Heuristic method అనేవష్ణా పద్దతి"
+      },
+      {
+        "key": 2,
+        "text": "Lecture method ఉపనాయస పద్దతి"
+      },
+      {
+        "key": 3,
+        "text": "Lecture demonstration method ఉపనాయస-ప్రద్రశనా పద్దతి"
+      },
+      {
+        "key": 4,
+        "text": "Historical method చ్చరిత్రక పద్దతి"
+      }
+    ],
+    "answer": 1,
+    "hint": "In the Heuristic method, students are active investigators discovering concepts on their own, making it completely student-centred.",
+    "memory_tip": "Student-centred methods: Heuristic, Laboratory, Project, Problem Solving; Teacher-centred: Lecture, Historical."
+  },
+  {
+    "id": 208,
+    "question": "Teacher centred teaching method among the following\nక్రంది వ్యనిలో ఉపాధ్యయయ కేంద్రక బోధ్నా పద్దతి",
+    "options": [
+      {
+        "key": 1,
+        "text": "Lecture method ఉపనాయస పద్దతి"
+      },
+      {
+        "key": 2,
+        "text": "Heuristic method అనేవష్ణా పద్దతి"
+      },
+      {
+        "key": 3,
+        "text": "Project method ప్రాజెకుట పద్దతి"
+      },
+      {
+        "key": 4,
+        "text": "Laboratory method ప్రయోగశాల పద్దతి"
+      }
+    ],
+    "answer": 1,
+    "hint": "In the lecture method, the teacher dominates classroom talk while students remain passive listeners, making it teacher-centred.",
+    "memory_tip": "Lecture Method = Traditional, expository, teacher-centred method."
+  },
+  {
+    "id": 209,
+    "question": "The first step in Project method is\nప్రాకలపన పద్దతిలో మొద్టి స్కపానం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Planning ప్రణాళిక"
+      },
+      {
+        "key": 2,
+        "text": "Execution నిరవహణ"
+      },
+      {
+        "key": 3,
+        "text": "Evaluation మూలాయంకనం"
+      },
+      {
+        "key": 4,
+        "text": "Providing a situation పరిస్థాతిని కలిపంచడం"
+      }
+    ],
+    "answer": 4,
+    "hint": "The first step in Kilpatrick's project method is providing a realistic situation that awakens curiosity and motivation among students.",
+    "memory_tip": "Steps in Project Method (Kilpatrick): (1) Providing situation → (2) Choosing & Purposing → (3) Planning → (4) Executing → (5) Evaluating → (6) Recording."
+  },
+  {
+    "id": 210,
+    "question": "The last step in Project method is\nప్రాకలపన పద్దతిలో చవరి స్కపానం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Preparing a report నివేదిక త్యారుచేయుట"
+      },
+      {
+        "key": 2,
+        "text": "Evaluation మూలాయంకనం"
+      },
+      {
+        "key": 3,
+        "text": "Planning ప్రణాళిక"
+      },
+      {
+        "key": 4,
+        "text": "Providing a situation పరిస్థాతిని కలిపంచడం"
+      }
+    ],
+    "answer": 1,
+    "hint": "The final stage of the project method is recording or preparing a comprehensive report documenting all findings, procedures, and self-evaluations.",
+    "memory_tip": "Final step in Project Method = Recording / Preparing a report."
+  },
+  {
+    "id": 211,
+    "question": "In this method students learn the lesson by doing experiment on their\nown\nఈ పద్దతిలో విదాయరుధలు సవయంగా ప్రయోగానిి చేసూత పాఠ్యంశాలన నేరుాకుంటారు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Lecture demonstration method ఉపనాయస-ప్రద్రశనా పద్దతి"
+      },
+      {
+        "key": 2,
+        "text": "Lecture method ఉపనాయస పద్దతి"
+      },
+      {
+        "key": 3,
+        "text": "Historical method చ్చరిత్రక పద్దతి"
+      },
+      {
+        "key": 4,
+        "text": "Laboratory method ప్రయోగశాల పద్దతి"
+      }
+    ],
+    "answer": 4,
+    "hint": "In the laboratory method, each student learns scientific principles first-hand by performing individual experiments and handling equipment.",
+    "memory_tip": "Laboratory Method = Individual hands-on experimentation based on \"Learning by Doing\"."
+  },
+  {
+    "id": 212,
+    "question": "The first step in ‘Problem solving method’ is\nసమసాయ పరిషాకర పద్దతిలో మొద్టి స్కపానం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Conclusion ముగింప్ప"
+      },
+      {
+        "key": 2,
+        "text": "Analysing problem సమసయన విశ్లుష్టంచడం"
+      },
+      {
+        "key": 3,
+        "text": "Defining problem సమసయన నిరవచంచడం"
+      },
+      {
+        "key": 4,
+        "text": "Identifying problem సమసయన గురితంచడం"
+      }
+    ],
+    "answer": 4,
+    "hint": "Before analyzing or solving any challenge, the very first step in the problem-solving method is identifying the problem.",
+    "memory_tip": "Problem-Solving steps: (1) Identifying problem → (2) Defining problem → (3) Collecting data → (4) Formulating hypothesis → (5) Testing → (6) Conclusion."
+  },
+  {
+    "id": 213,
+    "question": "‘Heuristic’ is derived from the Greek word Heurisco. The meaning of\nHeurisco is\nహ్యయరిస్థటక్ అనే పద్ం హ్యయరిస్కక అనే గ్రీకు పద్ం నండి గ్రహించ్చరు. హ్యయరిస్కక అంటే\nఅరధం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Experiment ప్రయోగం"
+      },
+      {
+        "key": 2,
+        "text": "Investigation పరిశోధించుట"
+      },
+      {
+        "key": 3,
+        "text": "Doing work పని చేయడం"
+      },
+      {
+        "key": 4,
+        "text": "Hypothesis ప్రకలపన"
+      }
+    ],
+    "answer": 2,
+    "hint": "The term 'Heuristic' comes from the Greek word 'Heurisco', which translates to 'I find' or 'to investigate / discover'.",
+    "memory_tip": "Heurisco = \"I discover\" / \"To investigate\" (placed in the role of an original discoverer)."
+  },
+  {
+    "id": 214,
+    "question": "‘Communication’ is derived from the following Latin word\n‘కమూయనికేష్న్’ అనే పద్ం ఈ క్రంది లాటిన్ పద్ం నండి రాబటాటరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Comments కామెంట్ై"
+      },
+      {
+        "key": 2,
+        "text": "Communis కమూయనిస్"
+      },
+      {
+        "key": 3,
+        "text": "Commons కామన్ై"
+      },
+      {
+        "key": 4,
+        "text": "Connections కనెక్షన్ై"
+      }
+    ],
+    "answer": 2,
+    "hint": "Communication is derived from the Latin root 'Communis', meaning 'common' or sharing information with others.",
+    "memory_tip": "Communication → Latin \"Communis\" (to make common / share)."
+  },
+  {
+    "id": 215,
+    "question": "In this teaching method, the teacher explains the concept by showing the\nexperiment to him\nఈ బోధ్నా పద్దతిలో ఉపాధ్యయయుడు ప్రయోగానిి చేస్థ చూపిసూత భావనన వివరిసాతడు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Lecture method ఉపనాయస పద్దతి"
+      },
+      {
+        "key": 2,
+        "text": "Lecture demonstration method  ఉపనాయస-ప్రద్రశనా పద్దతి"
+      },
+      {
+        "key": 3,
+        "text": "Heuristic method అనేవష్ణా పద్దతి"
+      },
+      {
+        "key": 4,
+        "text": "Problem solving method సమసాయ పరిషాకర పద్దతి"
+      }
+    ],
+    "answer": 2,
+    "hint": "When the teacher carries out the experiment in front of the class while simultaneously explaining underlying theories, it is the lecture-demonstration method.",
+    "memory_tip": "Teacher demonstrates apparatus + Explains concept = Lecture-Demonstration Method."
+  },
+  {
+    "id": 216,
+    "question": "‘Heuristic method’ was first introduced by\nఅనేవష్ణా పద్దతిని మొటటమొద్టిగా ప్రవేశపెటిటనది",
+    "options": [
+      {
+        "key": 1,
+        "text": "H. E. Armstrong హెచ్. ఈ . ఆర్మ సాోంగ్"
+      },
+      {
+        "key": 2,
+        "text": "F. W. Westway ఎఫ్. డబుు. వెస్ట వే"
+      },
+      {
+        "key": 3,
+        "text": "Kilpatrick కిల్ పాట్రిక్"
+      },
+      {
+        "key": 4,
+        "text": "H. C. Morrison హెచ్. స్థ . మ్మరిసన్"
+      }
+    ],
+    "answer": 1,
+    "hint": "The Heuristic method of science teaching was originated and advocated by Professor Henry Edward Armstrong (H.E. Armstrong).",
+    "memory_tip": "Heuristic Method = H.E. Armstrong; Project Method = W.H. Kilpatrick."
+  },
+  {
+    "id": 217,
+    "question": "Plan prepared to teach the lessons present in the curriculum year long\nవిదాయ ప్రణాళికలోని పాఠ్యంశాలన సంవత్ైరం పడవునా బోధించడానికి\nత్యారుచేస్కునే పథకం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Unit plan యూనిట్ పథకం"
+      },
+      {
+        "key": 2,
+        "text": "Period plan పీరియడ్ పథకం"
+      },
+      {
+        "key": 3,
+        "text": "Year plan వ్యరిషక పథకం"
+      },
+      {
+        "key": 4,
+        "text": "Monthly plan నెలవ్యరీ పథకం"
+      }
+    ],
+    "answer": 3,
+    "hint": "A comprehensive operational blueprint covering all curricular units, teaching periods, and activities across the entire academic year is the Year Plan.",
+    "memory_tip": "Hierarchical plans: Year Plan (Annual) → Unit Plan (Thematic unit) → Lesson / Period Plan (Daily 45 min)."
+  },
+  {
+    "id": 218,
+    "question": "‘A unit is a large block of related subject matter as can be over viewed by\nthe learner’ said by\n‘విదాయరిా చూడగల పరసపర సంబంధ్ం గల పాఠ్యవిష్యం గల ఒక సమైకయభాగం\nయూనిట్’ అని చెపిపనది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Bossing బాస్థంగ్"
+      },
+      {
+        "key": 2,
+        "text": "Preston ప్రెసటన్"
+      },
+      {
+        "key": 3,
+        "text": "Bagley బాగేు"
+      },
+      {
+        "key": 4,
+        "text": "Morrison మ్మరిసన్"
+      }
+    ],
+    "answer": 2,
+    "hint": "Ralph W. Preston defined a unit as \"a large block of related subject matter as can be over-viewed by the learner\".",
+    "memory_tip": "Unit definition (\"large block of related subject matter\") = Ralph W. Preston; Unit teaching cycle = Morrison."
+  },
+  {
+    "id": 219,
+    "question": "The educationalist who prepared the steps in ‘Lesson planning’\nపాఠ్యపధ్కంలోని స్కపానాలన త్యారు చేస్థన విదాయవేత్త",
+    "options": [
+      {
+        "key": 1,
+        "text": "Herbert హెరాబర్ట"
+      },
+      {
+        "key": 2,
+        "text": "Bassing బాస్థైంగ్"
+      },
+      {
+        "key": 3,
+        "text": "Morrison మ్మరిసన్"
+      },
+      {
+        "key": 4,
+        "text": "Bagley బాగెు"
+      }
+    ],
+    "answer": 1,
+    "hint": "The famous multi-step formal lesson planning approach was formulated by the German philosopher and educator Johann Friedrich Herbart.",
+    "memory_tip": "Herbartian Steps in Lesson Planning = J.F. Herbart."
+  },
+  {
+    "id": 220,
+    "question": "The first step in the execution of ‘Steps in lesson planning’\n‘పాఠ్యపధ్కంలోని ద్శల’ అమలులోని మొద్టి ద్శ",
+    "options": [
+      {
+        "key": 1,
+        "text": "Preparation సనాిహం"
+      },
+      {
+        "key": 2,
+        "text": "Presentation హాజరుపరచడం"
+      },
+      {
+        "key": 3,
+        "text": "Association సంసరుం"
+      },
+      {
+        "key": 4,
+        "text": "Generalization సాదారణీకరణం"
+      }
+    ],
+    "answer": 1,
+    "hint": "The execution of a Herbartian lesson plan starts with Preparation (activating previous knowledge and motivating pupils).",
+    "memory_tip": "Herbartian 5 Steps: Preparation → Presentation → Association → Generalization → Application."
+  },
+  {
+    "id": 221,
+    "question": "‘Curriculum should be prepared based on the Physical and Mental levels\nof students’. The principle involved in this is sentence\n‘పాఠ్యప్రణాళిక విధ్యయరిధ శారీరక, మానస్థక సాాయిలన అనసరించ రూపందించ్చలి’ ఈ\nవ్యకయంలో ఇమిడి ఉని సూత్రం.",
+    "options": [
+      {
+        "key": 1,
+        "text": "Principle of Balance సమతౌలయత్త సూత్రం"
+      },
+      {
+        "key": 2,
+        "text": "Principle of Articulation కలుపబడే సూత్రం"
+      },
+      {
+        "key": 3,
+        "text": "Principle of Utility ఉపయోగిత్త సూత్రం"
+      },
+      {
+        "key": 4,
+        "text": "Principle of Maturity పరిపకవత్త సూత్రం"
+      }
+    ],
+    "answer": 4,
+    "hint": "Structuring curriculum content in harmony with children's developmental age, intellectual readiness, and physical growth embodies the Principle of Maturity.",
+    "memory_tip": "Curriculum aligned to age & developmental stage = Principle of Maturity."
+  },
+  {
+    "id": 222,
+    "question": "Curriculum must include “Learning by doing” activities. The principle\ninvolved in this is sentence\nపాఠ్యప్రణాళికలో “చేయడం దావరా అభయసనం” కృత్తయలన ఉంచ్చలి. ఈ వ్యకయంలో\nఇమిడి ఉని సూత్రం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Principle of Activity centredness కృత్యకేంద్రీకృత్ సూత్రం"
+      },
+      {
+        "key": 2,
+        "text": "Principle of Articulation కలుపబడే సూత్రం"
+      },
+      {
+        "key": 3,
+        "text": "Principle of Creativity సృజనాత్మక సూత్రం"
+      },
+      {
+        "key": 4,
+        "text": "Principle of Conservation పరిరక్షణ సూత్రం"
+      }
+    ],
+    "answer": 1,
+    "hint": "Incorporating practical hands-on activities and direct experimental learning in the syllabus reflects the Principle of Activity Centredness.",
+    "memory_tip": "\"Learning by Doing\" in curriculum = Principle of Activity-Centredness."
+  },
+  {
+    "id": 223,
+    "question": "In Programmed learning, based on this principle The students will learn\nwith  his own capacity based on individual differences\nకారయక్రమయుత్ అభయసనంలోని ఈ సూత్రం ఆధ్యరంగా విధ్యయరుధలు త్మ సామరాధానికి\nత్గిన వేగంతో వైయుకితక భేదాలకనగుణంగా అభయస్థంచవచుా",
+    "options": [
+      {
+        "key": 1,
+        "text": "Principle of Small steps చని స్కపానాల సూత్రం"
+      },
+      {
+        "key": 2,
+        "text": "Principle of Self pacing స్మవయగమన  సూత్రం"
+      },
+      {
+        "key": 3,
+        "text": "Principle of Immediate self reinforcement త్క్షణ ప్పనరభలనసూత్రం"
+      },
+      {
+        "key": 4,
+        "text": "Principle of Student testing విదాయరిధ పరీక్షా సూత్రం"
+      }
+    ],
+    "answer": 2,
+    "hint": "Programmed learning allows each learner to progress through instructional modules according to their individual speed and ability (Principle of Self-Pacing).",
+    "memory_tip": "Learner progresses at own speed = Principle of Self-Pacing (B.F. Skinner's Programmed Instruction)."
+  },
+  {
+    "id": 224,
+    "question": "The first step in micro teaching is\nసూక్షమ బోధ్నలోని మొద్టి స్కపానం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Skill demonstration నైప్పణయ ప్రద్రశన"
+      },
+      {
+        "key": 2,
+        "text": "Micro teaching సూక్షమ బోధ్న"
+      },
+      {
+        "key": 3,
+        "text": "Defining the Skill నైప్పణాయనిి నిరవచంచడం"
+      },
+      {
+        "key": 4,
+        "text": "Transfer of Skill నైప్పణయ బదిలీ"
+      }
+    ],
+    "answer": 3,
+    "hint": "In microteaching orientation, the teacher educator first introduces and defines the specific teaching skill before demonstrating it.",
+    "memory_tip": "Microteaching sequence: Defining the skill → Skill Demonstration → Planning → Microteaching cycle (Teach → Feedback → Replan → Reteach → Refeedback) → Transfer."
+  },
+  {
+    "id": 225,
+    "question": "The final step in micro teaching is\nసూక్షమ బోధ్నలోని చవరి స్కపానం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Defining the Skill నైప్పణాయనిి నిరవచంచడం"
+      },
+      {
+        "key": 2,
+        "text": "Skill demonstration నైప్పణయ ప్రద్రశన"
+      },
+      {
+        "key": 3,
+        "text": "Micro teaching సూక్షమ బోధ్న"
+      },
+      {
+        "key": 4,
+        "text": "Transfer of Skill నైప్పణయ బదిలీ"
+      }
+    ],
+    "answer": 4,
+    "hint": "The ultimate concluding objective of microteaching is the transfer of mastered individual teaching skills into real, full-scale classroom teaching.",
+    "memory_tip": "Final goal of microteaching = Transfer of Skill to regular classroom practice."
+  },
+  {
+    "id": 226,
+    "question": "The word ‘Curriculum’ is derived from Latin word ‘Currere’ means\n‘కర్రికులం’ అనే పద్ం ‘కర్కర్క’ అనే లాటిన్ పద్ం నండి వచానది. దాని అరధం",
+    "options": [
+      {
+        "key": 1,
+        "text": "To run పరిగెతుతటకు మారుం"
+      },
+      {
+        "key": 2,
+        "text": "To learn నేరుాకోవడానికి"
+      },
+      {
+        "key": 3,
+        "text": "To understand అరధంచేస్కోవడానికి"
+      },
+      {
+        "key": 4,
+        "text": "To write వ్రాయడానికి"
+      }
+    ],
+    "answer": 1,
+    "hint": "The word 'Curriculum' originates from the Latin root 'Currere', meaning 'to run' or a racecourse to be traversed to attain educational goals.",
+    "memory_tip": "Curriculum → Latin \"Currere\" = \"To run\" (a course to be run)."
+  },
+  {
+    "id": 227,
+    "question": "This occupied a major role in teaching learning process apart from\nteacher and student\nబోధ్నాభయసనా ప్రక్రయలో ఉపాధ్యయయుడు మరియు విదాయరిధతో పాట్ట ప్రముఖ్ సాానానిి\nఆక్రమించేది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Black board నలు బలు"
+      },
+      {
+        "key": 2,
+        "text": "Laboratory ప్రయోగశాల"
+      },
+      {
+        "key": 3,
+        "text": "Text book పాఠ్య ప్పసతకం"
+      },
+      {
+        "key": 4,
+        "text": "Atmosphere వ్యత్తవరణం"
+      }
+    ],
+    "answer": 3,
+    "hint": "Apart from teacher and pupil, the textbook serves as the indispensable tangible guide, information source, and syllabus reference.",
+    "memory_tip": "The Didactic Triad: Teacher, Student, and Textbook."
+  },
+  {
+    "id": 228,
+    "question": "This is not a mechanical feature of a text book\nపాఠ్యప్పసతకం  యొకక యాంత్రిక లక్షణం కానిది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Book binding should be neat ప్పసతకం బైండింగ్ నీట్టగా ఉండాలి"
+      },
+      {
+        "key": 2,
+        "text": "The cover page of text book should be attractive పాఠ్య ప్పసతక కవర్ పేజీ ఆకరషణీయంగా ఉండాలి"
+      },
+      {
+        "key": 3,
+        "text": "The size of letters in the text book should be visible పాఠ్య ప్పసతకంలోని అక్షరాలు కనిపించేంత్ పరిమాణంలో ఉండాలి"
+      },
+      {
+        "key": 4,
+        "text": "The content in the text book should be logical and meaningful పాఠ్య ప్పసతకంలో విష్యం త్తరికకంగాన్య మరియు అరధవంత్ంగాన ఉండాలి"
+      }
+    ],
+    "answer": 4,
+    "hint": "Mechanical features are external physical attributes (paper, font size, binding, cover design). Logical and meaningful content is an internal/pedagogical attribute.",
+    "memory_tip": "Textbook features: Mechanical = Binding, font, paper, cover; Pedagogical/Content = Subject logic, clarity, language."
+  },
+  {
+    "id": 229,
+    "question": "Choose the correct option\nసరి అయిన ఐచేకానిి ఎంచుకోండి\nA: Evaluation depends on Measurement\nమూలాయంకనం మాపనంపై ఆధ్యరపడుతుంది\nB: Measurement depends on Evaluation\nమాపనం మూలాయంకనంపై ఆధ్యరపడుతుంది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Both A and B are Correct A మరియు B లు ర్కండూ సరైనవి"
+      },
+      {
+        "key": 2,
+        "text": "Both A and B are Incorrect A మరియు Bలు ర్కండూ సరైనవికావు"
+      },
+      {
+        "key": 3,
+        "text": "Ais correct, B is incorrect A సరైనది, B సరికాదు"
+      },
+      {
+        "key": 4,
+        "text": "Ais incorrect, B is correct A సరికాదు, B సరైనది"
+      }
+    ],
+    "answer": 3,
+    "hint": "Measurement supplies numerical scores (e.g. marks), while evaluation interprets those quantitative measures against educational goals; therefore, evaluation depends on measurement.",
+    "memory_tip": "Evaluation = Measurement (quantitative score) + Value Judgment (qualitative interpretation). Evaluation depends on Measurement."
+  },
+  {
+    "id": 230,
+    "question": "The evaluation occur during teaching learning process is called\nబోధ్నాభయసన ప్రక్రయ జరుగుతునిప్పపడే జరిగే మూలాయంకనానిి ఇలా పిలుసాతరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Placement evaluation సాాన నిరేధశిత్ మూలాయంకనం"
+      },
+      {
+        "key": 2,
+        "text": "Formative evaluation రూపణ మూలాయంకనం"
+      },
+      {
+        "key": 3,
+        "text": "Summative evaluation సంకలన మూలాయంకనం"
+      },
+      {
+        "key": 4,
+        "text": "Diagnostic evaluation సమసాయ నిరాధరణ మూలాయంకనం"
+      }
+    ],
+    "answer": 2,
+    "hint": "Continuous assessment conducted during the instructional process to provide diagnostic feedback and improve learning is formative evaluation.",
+    "memory_tip": "Evaluation during teaching = Formative (for learning); Evaluation at the end = Summative (of learning)."
+  },
+  {
+    "id": 231,
+    "question": "The type of evaluation used before teaching learning process is\nబోధ్నాభయసన ప్రక్రయ ప్రారంభానికి ముందే జరిగే మూలాయంకన రకం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Placement evaluation సాాన నిరేధశిత్ మూలాయంకనం"
+      },
+      {
+        "key": 2,
+        "text": "Formative evaluation రూపణ మూలాయంకనం"
+      },
+      {
+        "key": 3,
+        "text": "Diagnostic evaluation లోప నిరాధరణ మూలాయంకనం"
+      },
+      {
+        "key": 4,
+        "text": "Summative evaluation సంకలన మూలాయంకనం"
+      }
+    ],
+    "answer": 1,
+    "hint": "Assessment conducted before beginning instructional activities to determine entry-level capabilities and proper course placement is placement evaluation.",
+    "memory_tip": "Before instruction begins = Placement Evaluation (Entry behavior)."
+  },
+  {
+    "id": 232,
+    "question": "The tests used to identify the problem faced by students in a particular\narea and its solution are\nఒక నిరిదష్ట విభాగంలో విదాయరిధ ఎదురొకనే సమసయల గురితంప్పకు మరియు వ్యటి సాధ్నకు\n(లోప నిరాధరణకు) ఉపయోగించే పరీక్షలు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Achievement tests సాధ్నా పరీక్షలు"
+      },
+      {
+        "key": 2,
+        "text": "Diagnostic tests లోప నిరాధరణ పరీక్షలు"
+      },
+      {
+        "key": 3,
+        "text": "Aptitude tests సహజ సామరధా పరీక్షలు"
+      },
+      {
+        "key": 4,
+        "text": "Attitude tests వైఖ్రి పరీక్షలు"
+      }
+    ],
+    "answer": 2,
+    "hint": "Diagnostic tests identify specific learning gaps, misconceptions, and recurring difficulties in order to design remedial teaching.",
+    "memory_tip": "Locating specific learning difficulties = Diagnostic Test → followed by Remedial Teaching."
+  },
+  {
+    "id": 233,
+    "question": "The type of evaluation that ‘Students evaluate their progress\nthemselves’ is called\nవిదాయరుధలు త్మంత్ట త్తమే త్మ ప్రగతిని మూలాయంకనం చేస్కునే రకమైన\nమూలాయంకనానిి ఇలా పిలుసాతరు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Formative evaluation రూపణ మూలాయంకనం"
+      },
+      {
+        "key": 2,
+        "text": "Summative evaluation సంకలన మూలాయంకనం"
+      },
+      {
+        "key": 3,
+        "text": "Self evaluation స్మవయ మూలాయంకనం"
+      },
+      {
+        "key": 4,
+        "text": "Diagnostic evaluation లోప నిరాధరణ మూలాయంకనం"
+      }
+    ],
+    "answer": 3,
+    "hint": "When learners reflectively gauge and assess their own performance and learning progress, it is known as self-evaluation.",
+    "memory_tip": "Student assessing own learning = Self-Evaluation (Assessment as Learning)."
+  },
+  {
+    "id": 234,
+    "question": "In the process of evaluation subject matter, learning experiences and\nevaluation are three components then the fourth component is\nవిదాయ మూలాయంకన ప్రక్రయలో విష్యం ,అభాయసనానభవ్యలు మరియు మూలాయంకనం\nమూడు అంశాలైతే నాలువ అంశం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Educational objectives విదాయ లక్షాయలు"
+      },
+      {
+        "key": 2,
+        "text": "Laboratories ప్రయోగశాలలు"
+      },
+      {
+        "key": 3,
+        "text": "Attitudes వైఖ్రులు"
+      },
+      {
+        "key": 4,
+        "text": "Aptitudes సహజ సామరాధాలు"
+      }
+    ],
+    "answer": 1,
+    "hint": "In Bloom's evaluation model, educational objectives, learning experiences, subject matter, and evaluation techniques form the essential components.",
+    "memory_tip": "Bloom's Evaluation components: Educational Objectives ↔ Learning Experiences ↔ Evaluation ↔ Subject Matter."
+  },
+  {
+    "id": 235,
+    "question": "The evaluation used after the completion of some chapters\nకొనిి అధ్యయయాలు పూరిత అయిన త్రావత్ జరిపే మూలాయంకనం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Self evaluation స్మవయ మూలాయంకనం"
+      },
+      {
+        "key": 2,
+        "text": "Formative evaluation రూపణ మూలాయంకనం"
+      },
+      {
+        "key": 3,
+        "text": "Summative evaluation సంకలన మూలాయంకనం"
+      },
+      {
+        "key": 4,
+        "text": "Diagnostic evaluation లోప నిరాదరణ మూలాయంకనం"
+      }
+    ],
+    "answer": 3,
+    "hint": "Assessment carried out at the conclusion of a chapter, unit, or term to grade and evaluate terminal performance is summative evaluation.",
+    "memory_tip": "Evaluation after completion of chapters/term = Summative Evaluation."
+  },
+  {
+    "id": 236,
+    "question": "In this type of test the student will answer orally for the questions asked\norally\nఈ రకమైన పరీక్షలో మౌఖికంగా అడిగిన ప్రశిలకు విధ్యయరిధ మౌఖికంగానే\nసమాదానమిసాతడు",
+    "options": [
+      {
+        "key": 1,
+        "text": "Written tests రాత్ పరీక్షలు"
+      },
+      {
+        "key": 2,
+        "text": "Summative tests  సంగ్రహణాత్మక పరీక్షలు"
+      },
+      {
+        "key": 3,
+        "text": "Rating scales రేటింగ్ స్తకల్ై"
+      },
+      {
+        "key": 4,
+        "text": "Oral tests మౌఖిక పరీక్షలు"
+      }
+    ],
+    "answer": 4,
+    "hint": "A testing technique where questions are spoken by the examiner and answered verbally by the student is an oral test (viva voce).",
+    "memory_tip": "Oral questions + Oral answers = Oral Test (Viva Voce)."
+  },
+  {
+    "id": 237,
+    "question": "This is not a use of multiple choice questions\nబహుళ్థళచాక సమాధ్యన ప్రశిల వలు ప్రయోజనం కానిది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Questions are objective  ప్రశిలు లక్షాయత్మకమై ఉంటాయి"
+      },
+      {
+        "key": 2,
+        "text": "Importance given to identification గురితంప్పకే ప్రాధ్యనయత్"
+      },
+      {
+        "key": 3,
+        "text": "Take less time for scoring గణనకు త్కుకవ సమయం పడుతుంది"
+      },
+      {
+        "key": 4,
+        "text": "Students writing skills can be tested విదాయరుధల రాత్ నైప్పణాయలన పరీక్షించవచుా"
+      }
+    ],
+    "answer": 4,
+    "hint": "Multiple-choice questions evaluate factual recognition and analytical selection, but cannot assess long-form handwriting or essay writing skills.",
+    "memory_tip": "MCQ limitation: Cannot evaluate writing skills, composition, or handwriting."
+  },
+  {
+    "id": 238,
+    "question": "The teacher choose a test that fulfil the purpose of which it is meant for.\nThen the characteristic of this test is\nఉపాధ్యయయుడు ఎంచుకుని పరీక్ష ఏ ప్రయోజనం కోసం ఎనికునాిరో దానిని మాపనం\nచేస్థంది. అయిన ఆ పరీక్ష యొకక  లక్షణం",
+    "options": [
+      {
+        "key": 1,
+        "text": "Validity సప్రమాణత్"
+      },
+      {
+        "key": 2,
+        "text": "Reliability విశవసనీయత్"
+      },
+      {
+        "key": 3,
+        "text": "Objectivity లక్షాయత్మకత్"
+      },
+      {
+        "key": 4,
+        "text": "Utility ఔపయోగికత్"
+      }
+    ],
+    "answer": 1,
+    "hint": "A test has validity when it accurately and completely measures the specific objective or capability it was designed to measure.",
+    "memory_tip": "Measures what it intends to measure = Validity; Consistency of scores = Reliability; Freedom from examiner bias = Objectivity."
+  },
+  {
+    "id": 239,
+    "question": "The answer script is evaluated at different times or by different people\nwhere same marks are obtained. Then the test has this characteristic\nఒక సమాధ్యన పత్రానిి వేరువేరు సమయాలోు గాని లేదా వేరువేరు వయకుతలు దిదిదన గాని\nఒకే విధ్ంగా మారుకలు వచ్చాయి. అప్పడు ఆ పరీక్షకు ఈ లక్షణం ఉంట్టంది",
+    "options": [
+      {
+        "key": 1,
+        "text": "Validity సప్రమాణత్"
+      },
+      {
+        "key": 2,
+        "text": "Reliability విశవసనీయత్"
+      },
+      {
+        "key": 3,
+        "text": "Objectivity లక్షాయత్మకత్"
+      },
+      {
+        "key": 4,
+        "text": "Utility ఔపయోగికత్"
+      }
+    ],
+    "answer": 2,
+    "hint": "A test has reliability when repeated scoring by different evaluators or at different times yields consistently stable marks.",
+    "memory_tip": "Consistency and stability of results across examiners/times = Reliability."
+  },
+  {
+    "id": 240,
+    "question": "The science organisation working in our state for popularising Science\nమన రాష్ట్రంలో శాస్త్ర ప్రచ్చరం కోసం పనిచేస్తని సైన్ై సంసా",
+    "options": [
+      {
+        "key": 1,
+        "text": "Ekalavya ఏకలవయ"
+      },
+      {
+        "key": 2,
+        "text": "Jodo gyan జోడో జాాన్"
+      },
+      {
+        "key": 3,
+        "text": "Vikram shila విక్రమశిల"
+      },
+      {
+        "key": 4,
+        "text": "Jana vignana Vedika జనవిజాాన వేదిక"
+      }
+    ],
+    "answer": 4,
+    "hint": "Jana Vignana Vedika (JVV) is the popular science movement organization actively working in Andhra Pradesh and Telangana to popularise scientific temper.",
+    "memory_tip": "State People's Science Movement = Jana Vignana Vedika (JVV)."
+  }
+]

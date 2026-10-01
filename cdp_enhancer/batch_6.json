@@ -1,0 +1,522 @@
+{
+  "501": {
+    "hint": "Personal guidance addresses emotional maladjustment, marital issues, and interpersonal anxieties, not corporate management.",
+    "memory_tip": "Personal Guidance = Resolves private emotional, social, and psychological conflicts (Organizational issues belong to management)."
+  },
+  "502": {
+    "hint": "Guidance assisting a learner in choosing appropriate academic subjects, study habits, and collegiate courses.",
+    "memory_tip": "Educational Guidance = Assisting students in curricular choices, academic adjustment, and study skills."
+  },
+  "503": {
+    "hint": "Chronic negative stress, anxiety, and distress undermine psychological resilience and cause mental illness.",
+    "memory_tip": "Negative Mental Health Indicators = Chronic stress, anxiety, neurosis, emotional instability."
+  },
+  "504": {
+    "hint": "The capacity to adjust realistically to novel environmental circumstances, overcome frustration, and maintain inner balance.",
+    "memory_tip": "Positive Mental Health = Adaptability, emotional maturity, realistic self-concept, and social adjustment."
+  },
+  "505": {
+    "hint": "The landmark policy introduced in July 2020 by the Government of India reforming Indian education from early childhood to higher ed.",
+    "memory_tip": "NEP = National Education Policy (NEP 2020 approved on 29 July 2020)."
+  },
+  "506": {
+    "hint": "India's previous policies were in 1968 and 1986; NEP-2020 is the first comprehensive education policy of the 21st century.",
+    "memory_tip": "NEP-2020 = 1st National Education Policy of the 21st century (Drafted by Dr. K. Kasturirangan Committee)."
+  },
+  "507": {
+    "hint": "NEP-2020 brings early childhood care (from age 3) into the formal schooling framework up to secondary completion at age 18.",
+    "memory_tip": "NEP 2020 Age Span = 3 to 18 years (replaces earlier 6 to 14 framework under 10+2)."
+  },
+  "508": {
+    "hint": "Modern pedagogy prioritizes 4C skills (Critical Thinking, Creativity, Collaboration, Communication) and digital literacy.",
+    "memory_tip": "NEP 2020 Core Focus = 21st Century Skills (Critical thinking, creativity, inquiry, and problem-solving)."
+  },
+  "509": {
+    "hint": "The national council that drafted the National Curriculum Framework 2005 under the chairmanship of Prof. Yash Pal.",
+    "memory_tip": "NCF-2005 was developed by NCERT (chaired by Prof. Yash Pal; 'Learning Without Burden')."
+  },
+  "510": {
+    "hint": "The national blueprint outlining curriculum objectives, pedagogical approaches, and evaluation reforms in Indian schools.",
+    "memory_tip": "NCF = National Curriculum Framework (NCERT)."
+  },
+  "511": {
+    "hint": "The new 4-stage pedagogical structure: 5 yrs Foundational + 3 yrs Preparatory + 3 yrs Middle + 4 yrs Secondary.",
+    "memory_tip": "NEP 2020 Pedagogical Structure = 5 + 3 + 3 + 4 (Foundational -> Preparatory -> Middle -> Secondary)."
+  },
+  "512": {
+    "hint": "Under NEP 2020, foundational early childhood education begins formally at age three (including 3 years of pre-school/Anganwadi).",
+    "memory_tip": "NEP 2020 Entry Age = 3 years (Foundational stage covers ages 3-8, including 3 yrs pre-school + Grades 1 & 2)."
+  },
+  "513": {
+    "hint": "The National Curriculum Framework for Foundational Stage (2022) was formulated directly to implement NEP-2020 vision.",
+    "memory_tip": "NCF-FS 2022 is rooted directly in NEP 2020 recommendations for early childhood."
+  },
+  "514": {
+    "hint": "The statutory national body established under an Act of Parliament in 1993 to regulate standards in teacher training.",
+    "memory_tip": "NCTE = National Council for Teacher Education (statutory body regulating B.Ed/D.El.Ed education)."
+  },
+  "515": {
+    "hint": "The state curriculum framework is dedicated to the all-round cognitive, physical, emotional, and moral growth of students.",
+    "memory_tip": "APSCF Vision = Holistic, all-round development (Scholastic & Co-scholastic growth)."
+  },
+  "516": {
+    "hint": "The premier autonomous testing organization in India conducting competitive entrance exams like JEE, NEET, and UGC-NET.",
+    "memory_tip": "NTA = National Testing Agency (established in 2017 for entrance examinations)."
+  },
+  "517": {
+    "hint": "Article 21A and the Right of Children to Free and Compulsory Education Act guarantee education to this age cohort.",
+    "memory_tip": "RTE Act 2009 = Free & Compulsory Education for all children aged 6 to 14 years."
+  },
+  "518": {
+    "hint": "The state-level curriculum framework formulated by SCERT Andhra Pradesh aligning with national pedagogical guidelines.",
+    "memory_tip": "APSCF = Andhra Pradesh State Curriculum Framework."
+  },
+  "519": {
+    "hint": "The premier national body responsible for designing school curriculum frameworks, textbooks, and teacher resources in India.",
+    "memory_tip": "NCERT designed and published the National Curriculum Framework for Foundational Stage (NCF-FS 2022)."
+  },
+  "520": {
+    "hint": "The final block of four years in the 5+3+3+4 formula encompasses Grades 9, 10, 11, and 12.",
+    "memory_tip": "NEP 2020 Structure: 5 = Foundational, 3 = Preparatory, 3 = Middle, 4 = Secondary (Grades 9 to 12; ages 14-18)."
+  },
+  "521": {
+    "hint": "Although passed by Parliament in 2009, the Right to Education Act came into legally binding nationwide force in this year.",
+    "memory_tip": "RTE Act 2009 came into nationwide effect on 1st April 2010."
+  },
+  "522": {
+    "hint": "The national digital portal launched by the Ministry of Education providing QR-coded digital textbooks and teacher modules.",
+    "memory_tip": "DIKSHA = Digital Infrastructure for Knowledge Sharing (One Nation, One Digital Platform)."
+  },
+  "523": {
+    "hint": "NEP 2020 moves away from rote learning, shifting emphasis to hands-on, inquiry-based, experiential learning.",
+    "memory_tip": "NEP 2020 Core Pedagogical Shift = Experiential Learning (Hands-on, sports-integrated, art-integrated learning)."
+  },
+  "524": {
+    "hint": "Nursery, Anganwadi, and Balvatika schooling for children aged 3 to 6 years constitute this foundational phase.",
+    "memory_tip": "ECCE = Early Childhood Care and Education (Anganwadi / Balvatika; foundational education for ages 3-6)."
+  },
+  "525": {
+    "hint": "The Southern Regional Committee (SRC) of the National Council for Teacher Education is headquartered in Karnataka's capital.",
+    "memory_tip": "NCTE Southern Regional Office is located in Bengaluru."
+  },
+  "526": {
+    "hint": "Checklists, rating scales, and question papers evaluate student competencies; a time table merely organizes school hours.",
+    "memory_tip": "Assessment Tools = Tests, Checklists, Rating scales, Rubrics; Time Table is an administrative schedule."
+  },
+  "527": {
+    "hint": "Assessment conducted continuously during the instructional process to provide diagnostic feedback and improve learning.",
+    "memory_tip": "Formative Assessment (FA) = Assessment FOR Learning (continuous diagnostic feedback during instruction)."
+  },
+  "528": {
+    "hint": "In Andhra Pradesh school evaluation schedules under CCE, major term-end summative assessments occur twice a year.",
+    "memory_tip": "CCE Summative Schedule = Conducted 2 times per academic year (SA-1 mid-year & SA-2 end-of-year)."
+  },
+  "529": {
+    "hint": "When students actively reflect on, monitor, and regulate their own learning progress as an intrinsic part of instruction.",
+    "memory_tip": "Assessment AS Learning = Metacognitive self-assessment and peer reflection by the learner."
+  },
+  "530": {
+    "hint": "The non-intrusive evaluation technique of systematically watching and recording a child's natural behaviors and social play.",
+    "memory_tip": "Observation = Direct monitoring of child behavior, social habits, and emotional traits in natural settings."
+  },
+  "531": {
+    "hint": "Summative assessment is conducted at the close of an instructional term to assign final grades, not as an informal daily tool.",
+    "memory_tip": "Summative Assessment (SA) = Assessment OF Learning (periodic, terminal evaluation for grading and certification)."
+  },
+  "532": {
+    "hint": "Diagnostic testing pinpoint specific learning gaps precisely so that tailored remedial instruction can be delivered.",
+    "memory_tip": "Diagnostic Evaluation = Identifies persistent learning difficulties and causes to plan remedial teaching."
+  },
+  "533": {
+    "hint": "The celebrated opening sentence of the Education Commission Report (1964-66) chaired by Prof. D.S. Kothari.",
+    "memory_tip": "Kothari Commission (1964-66): 'The destiny of India is now being shaped in her classrooms.'"
+  },
+  "534": {
+    "hint": "An in-depth, hands-on student investigation carried out over days where learners gather data, analyze, and write a report.",
+    "memory_tip": "Project Work (William Kilpatrick) = Real-world, purposeful, student-driven investigation culminating in a report."
+  },
+  "535": {
+    "hint": "Comprehensive assessment utilizes portfolios, projects, observation, debates, and lab experiments, never exams alone.",
+    "memory_tip": "CCE rejects exam-only evaluation; it mandates diverse scholastic and co-scholastic assessment tools."
+  },
+  "536": {
+    "hint": "The fundamental age cohort protected under the Right to Education Act for mandatory elementary education.",
+    "memory_tip": "RTE 2009 Mandate = Ages 6 to 14 years (Grades 1 to 8)."
+  },
+  "537": {
+    "hint": "The school evaluation reform replacing one-time terminal examinations with continuous holistic assessment.",
+    "memory_tip": "CCE = Continuous and Comprehensive Evaluation."
+  },
+  "538": {
+    "hint": "CCE aims to assess all aspects of a child's personality across cognitive, affective, and psychomotor domains.",
+    "memory_tip": "Aim of CCE = Holistic assessment of Scholastic abilities and Co-scholastic personality traits."
+  },
+  "539": {
+    "hint": "A holistic progress card reflects the child's academic mastery, socio-emotional wellness, creativity, and life skills.",
+    "memory_tip": "Holistic Progress Card (HPC) = Reflects 360-degree multidimensional growth of the child."
+  },
+  "540": {
+    "hint": "A standard psychometric test must possess validity, reliability, and objectivity; examiner subjectivity is a major defect.",
+    "memory_tip": "Qualities of a Good Test = Validity, Reliability, Objectivity, Usability (Subjectivity is a flaw; note official key marks 3)."
+  },
+  "541": {
+    "hint": "The terminal assessment administered at the conclusion of a course or academic year to evaluate cumulative learning.",
+    "memory_tip": "Summative Assessment (SA) = Assessment conducted after completion of a course/term for certification."
+  },
+  "542": {
+    "hint": "Naturalistic observation records spontaneous unprompted behavior, whereas questionnaires and interviews demand overt responses.",
+    "memory_tip": "Response Assessment tools require deliberate participant responses; Natural Observation records spontaneous behavior."
+  },
+  "543": {
+    "hint": "A simple diagnostic assessment tool containing a list of traits scored with a binary yes/no or present/absent tick.",
+    "memory_tip": "Checklist = Two-category recording tool (Yes/No, Present/Absent) to verify presence of a behavior."
+  },
+  "544": {
+    "hint": "The terminal evaluation that measures how much content has been learned for reporting grades and issuing certificates.",
+    "memory_tip": "Assessment OF Learning = Summative assessment making final evaluation judgments and certifications."
+  },
+  "545": {
+    "hint": "Long-form open-ended written questions that allow students to synthesize facts, argue persuasively, and show creativity.",
+    "memory_tip": "Essay-Type Questions = Assess higher-order synthesis, original expression, and organization of ideas."
+  },
+  "546": {
+    "hint": "The terminal comprehensive examination conducted at the end of the school year to certify grade advancement.",
+    "memory_tip": "Summative Assessment = Terminal evaluation conducted at the end of the academic year."
+  },
+  "547": {
+    "hint": "The three classical statistical indices representing the central value of a dataset are Mean, Median, and Mode.",
+    "memory_tip": "Measures of Central Tendency = Arithmetic Mean, Median, Mode."
+  },
+  "548": {
+    "hint": "Range, Quartile Deviation, Mean Deviation, and Standard Deviation measure dispersion; Median measures central tendency.",
+    "memory_tip": "Measures of Dispersion / Variability = Range, QD, MD, SD; Median is a measure of Central Tendency."
+  },
+  "549": {
+    "hint": "Sum the numbers (16 + 18 + 20 + 22 + 24 = 100) and divide by the count of 5: 100 / 5 = 20.",
+    "memory_tip": "Arithmetic Mean = Sum of observations / Number of observations [X\u0304 = \u03a3X / N = 100 / 5 = 20]."
+  },
+  "550": {
+    "hint": "Quartile deviation equals half the difference between the third (upper) and first (lower) quartiles.",
+    "memory_tip": "Quartile Deviation Formula: QD = (Q3 - Q1) / 2 (Semi-interquartile range)."
+  },
+  "551": {
+    "hint": "The sum of the first 10 natural numbers is n(n+1)/2 = 10(11)/2 = 55. Mean = 55 / 10 = 5.5.",
+    "memory_tip": "Mean of first n natural numbers = (n + 1) / 2 = (10 + 1) / 2 = 5.5."
+  },
+  "552": {
+    "hint": "Arrange the scores in ascending numerical order; the middle observation in the sorted distribution is the median.",
+    "memory_tip": "Median = The middle-most value separating the higher half from the lower half of sorted data."
+  },
+  "553": {
+    "hint": "Count the frequency of each score: 7 appears most frequently among the numbers.",
+    "memory_tip": "Mode = The score that appears with the highest frequency in a distribution."
+  },
+  "554": {
+    "hint": "A pie chart represents parts of a complete circle; the full angle around the center point is always 360 degrees.",
+    "memory_tip": "Pie Diagram: Total sum of angles of all sectors = 360\u00b0."
+  },
+  "555": {
+    "hint": "Identify the required statistical value (mean, median, or modal score) from the given student marks dataset.",
+    "memory_tip": "Statistical calculations on marks data provide exact central tendency or dispersion values."
+  },
+  "556": {
+    "hint": "Karl Pearson's empirical formula connecting the three measures of central tendency in moderately skewed distributions.",
+    "memory_tip": "Empirical Relationship: Mode = 3 Median - 2 Mean (Z = 3M - 2X\u0304)."
+  },
+  "557": {
+    "hint": "A graphical representation of continuous grouped frequency distribution using adjacent vertical rectangular bars.",
+    "memory_tip": "Histogram = Graphic bar display for continuous frequency data with no gaps between bars."
+  },
+  "558": {
+    "hint": "Sum the scores: 7+10+15+10+8+8+7+3+2+10 = 80. Divide by N=10: 80 / 10 = 8.",
+    "memory_tip": "Mean = \u03a3X / N = 80 / 10 = 8."
+  },
+  "559": {
+    "hint": "Apply the semi-interquartile range formula: QD = (Q3 - Q1) / 2 = (80 - 20) / 2 = 60 / 2 = 30.",
+    "memory_tip": "QD = (Q3 - Q1) / 2 = (80 - 20) / 2 = 30."
+  },
+  "560": {
+    "hint": "The simplest measure of dispersion computed by subtracting the lowest score from the highest score.",
+    "memory_tip": "Range = Highest Score (H) - Lowest Score (L) [R = H - L]."
+  },
+  "561": {
+    "hint": "A standard score expressing how many standard deviations a raw score lies above or below the distribution mean.",
+    "memory_tip": "Z-Score = (X - X\u0304) / SD (Standardized score with Mean = 0 and SD = 1)."
+  },
+  "562": {
+    "hint": "The mathematical science dealing with the systematic collection, organization, analysis, and interpretation of quantitative data.",
+    "memory_tip": "Statistics = Science of collecting, tabulating, analyzing, and interpreting numerical data."
+  },
+  "563": {
+    "hint": "In the grouped median formula L + [((N/2 - CF) / f) \u00d7 i], the symbol 'i' represents the size of the class interval.",
+    "memory_tip": "Grouped Median: 'i' (or 'c') = Class Interval width / size."
+  },
+  "564": {
+    "hint": "In the series 10, 20, 30, 40, 50, every number occurs exactly once with equal frequency; hence no single mode exists.",
+    "memory_tip": "When all observations have identical frequency, there is No Mode (Cannot be determined)."
+  },
+  "565": {
+    "hint": "Histograms, frequency polygons, and ogives represent statistical data; a Snellen chart tests ophthalmological visual acuity.",
+    "memory_tip": "Snellen Chart = Visual acuity test chart (E chart); NOT a statistical graphical representation."
+  },
+  "566": {
+    "hint": "In a frequency distribution table, summing all the category frequencies (\u03a3f) equals the total sample size N.",
+    "memory_tip": "\u03a3f = N (The sum of all frequencies equals total number of observations)."
+  },
+  "567": {
+    "hint": "Sort the 7 numbers: 9, 24, 35, 43, 53, 76, 80. The 4th middle observation is 43.",
+    "memory_tip": "Median of odd count N: (N + 1) / 2-th term. For N=7, 4th term = 43."
+  },
+  "568": {
+    "hint": "Television broadcasts moving dynamic visual imagery accompanied by synchronized acoustic audio narration.",
+    "memory_tip": "Audio-Visual Aids (Edgar Dale) = Television, Sound Films, Video tapes (appeals to both eyes and ears)."
+  },
+  "569": {
+    "hint": "The word technology comes from two Greek roots: 'techne' meaning art, skill, or craft, and 'logos' meaning discourse or study.",
+    "memory_tip": "Technology = Greek 'Techne' (Art / Craft / Skill) + 'Logos' (Study / Science)."
+  },
+  "570": {
+    "hint": "The United Nations educational agency that championed global digital literacy and access under the banner 'Information for all'.",
+    "memory_tip": "UNESCO launched the 'Information for All Programme' (IFAP)."
+  },
+  "571": {
+    "hint": "The word 'communication' originates from an ancient Roman word meaning common, to share, or to make public.",
+    "memory_tip": "Communication is derived from the Latin word 'Communis' (meaning common or to share)."
+  },
+  "572": {
+    "hint": "UNESCO defines Information Technology as the convergence of electronics, engineering, software, and information processing.",
+    "memory_tip": "UNESCO: Information Technology = Technology + Engineering + Management applied to information processing."
+  },
+  "573": {
+    "hint": "Traditional print journalism published on physical paper, including daily newspapers, academic journals, and books.",
+    "memory_tip": "Print Media = Newspapers, Books, Periodicals, Magazines."
+  },
+  "574": {
+    "hint": "A communication device transmitting strictly acoustic audio signals through radio frequency waves without visuals.",
+    "memory_tip": "Audio Aid = Radio, Podcast, Tape recorder (Stimulates auditory sense only)."
+  },
+  "575": {
+    "hint": "Educational Technology represents the systematic fusion of instructional educational science and modern technological tools.",
+    "memory_tip": "Educational Technology (ET) = Application of Technology to Education to enhance learning efficiency."
+  },
+  "576": {
+    "hint": "Communication directed upwards from subordinate classroom teachers to principals or district officers (reports, feedback).",
+    "memory_tip": "Upward Communication = Flow of reports, grievances, and feedback from lower to higher levels in hierarchy."
+  },
+  "577": {
+    "hint": "Robert Stolorow noted that rapid exponential expansion of scientific knowledge demands modern computerized management.",
+    "memory_tip": "Stolorow: The explosion and accelerated generation of knowledge necessitates technological integration."
+  },
+  "578": {
+    "hint": "Educational technology aims to bridge learning gaps and empower teachers, never to create distance or barriers.",
+    "memory_tip": "Objectives of ET = Facilitating learning, enhancing access, supporting teachers (NOT creating gaps)."
+  },
+  "579": {
+    "hint": "Newspapers, brochures, and journals use ink on paper; television is an electronic audio-visual broadcast medium.",
+    "memory_tip": "Television = Electronic Audio-Visual Media (NOT Print Media)."
+  },
+  "580": {
+    "hint": "Educational films stimulate lively peer discussions, shared collaborative analysis, and cooperative classroom learning.",
+    "memory_tip": "Educational films should actively facilitate collaborative group discussion and reflective learning."
+  },
+  "581": {
+    "hint": "Educational documentaries and historical dramatisations excel at recreating historical epochs and battles vividly.",
+    "memory_tip": "Advantage of Educational Films = Bringing distant places, microscopic phenomena, and historical events to life."
+  },
+  "582": {
+    "hint": "Arousing curiosity, captivation, and student interest is a tremendous instructional asset, not a drawback or limitation.",
+    "memory_tip": "Creating student interest and motivation is a primary Advantage of educational films."
+  },
+  "583": {
+    "hint": "ICT is an indispensable tool for teachers, providing access to open educational resources and ongoing professional development.",
+    "memory_tip": "ICT empowers teachers with modern pedagogy, digital content, and global professional communities."
+  },
+  "584": {
+    "hint": "Musical instruction relies fundamentally upon auditory perception, attentive listening, and tone discrimination.",
+    "memory_tip": "Music Education = Listening / Auditory Teaching Method."
+  },
+  "585": {
+    "hint": "Flash cards present concise visual cues, diagrams, and sight words to stimulate visual memory and quick recognition.",
+    "memory_tip": "Flash Cards = Visual Learning Aid (stimulates visual memory and rapid concept recognition)."
+  },
+  "586": {
+    "hint": "Written records, signed letters, and receipts constitute permanent, legally admissible physical documentary evidence.",
+    "memory_tip": "Written Communication = Provides a permanent, verifiable record that serves as legal evidence."
+  },
+  "587": {
+    "hint": "In Ned Flanders' 10-category system (FIAC), the first seven categories (1 to 7) classify verbal statements made by the teacher.",
+    "memory_tip": "Flanders Interaction Categories (FIAC): Categories 1-7 = Teacher Talk (Indirect & Direct influence)."
+  },
+  "588": {
+    "hint": "In FIAC, category 8 (student response) and category 9 (student initiation) capture verbal participation by pupils.",
+    "memory_tip": "Flanders FIAC: Categories 8 & 9 = Student Talk (Category 10 = Silence or Confusion)."
+  },
+  "589": {
+    "hint": "Technology is an instructional tool and cognitive amplifier, but it can never replace the human empathy and mentorship of a teacher.",
+    "memory_tip": "ICT aids and empowers teachers, but can never completely replace the human teacher."
+  },
+  "590": {
+    "hint": "Traditional stand-alone radio broadcasts sound alone; multimedia requires the digital convergence of text, audio, and visuals.",
+    "memory_tip": "Multimedia = Integration of Text, Audio, Video, Graphics, and Animation (Single-medium Radio is not multimedia)."
+  },
+  "591": {
+    "hint": "High equipment cost and expensive maintenance represent financial hurdles, not positive advantages of multimedia.",
+    "memory_tip": "High cost is a Limitation of multimedia, whereas multisensory engagement is an Advantage."
+  },
+  "592": {
+    "hint": "Interactive multimedia enables rich, engaging, user-friendly exchange between learner and educational content.",
+    "memory_tip": "Multimedia Advantage = Interactive, user-friendly, and multisensory engagement."
+  },
+  "593": {
+    "hint": "Eliminating daily physical commuting and expensive travel saves learners substantial time and money.",
+    "memory_tip": "Advantage of Online Education = Cost-effective, saves travel time and commuting expenses."
+  },
+  "594": {
+    "hint": "Digital teleconferencing and instant messaging bridge geographical barriers and foster immediate cross-border collaboration.",
+    "memory_tip": "Advantage of Online Learning = Connects learners across distant geographical barriers."
+  },
+  "595": {
+    "hint": "BASIC, C++, Java, and Python are software languages; Isaac Newton was a physicist and his name is a unit of force.",
+    "memory_tip": "Computer Languages = C, C++, Java, Python, BASIC; Newton is a physical scientist/unit of force."
+  },
+  "596": {
+    "hint": "Second-generation computers (1956-1963) replaced fragile, hot vacuum tubes with compact semiconductor transistors.",
+    "memory_tip": "Computer Generations: 1st = Vacuum Tubes, 2nd = Transistors, 3rd = Integrated Circuits (IC), 4th = Microprocessors."
+  },
+  "597": {
+    "hint": "Computers store data permanently on magnetic/optical drives without biological organic decay or psychological forgetting.",
+    "memory_tip": "Characteristics of Computers: Speed, Accuracy, Diligence, Storage (Computers never suffer organic forgetting)."
+  },
+  "598": {
+    "hint": "Unlike human beings who tire after hours of labor, computers work tirelessly without fatigue or loss of concentration.",
+    "memory_tip": "Computer Diligence = Tireless operation free from human fatigue, boredom, or exhaustion."
+  },
+  "599": {
+    "hint": "Computers execute logical algorithmic instructions dispassionately and possess no feelings, anger, or subjective emotion.",
+    "memory_tip": "Computers lack subjective emotions, feelings, and personal biases."
+  },
+  "600": {
+    "hint": "Keyboards and scanners input data; an audio speaker converts electrical signals into audible sound output.",
+    "memory_tip": "Speakers = Output Devices (Audio output); Input devices = Keyboard, Mouse, Scanner, Microphone."
+  },
+  "601": {
+    "hint": "Monitors and printers output information; a handheld mouse inputs pointing coordinates and clicks into the computer.",
+    "memory_tip": "Mouse = Input Device (Pointing device); Output devices = Monitor, Printer, Speaker, Plotter."
+  },
+  "602": {
+    "hint": "Standard computer memory categories include primary RAM/ROM and secondary storage; 'elementary memory' is non-standard.",
+    "memory_tip": "Computer Memory Types = Primary (RAM, ROM, Cache) & Secondary (Hard Disk, SSD, Flash drive)."
+  },
+  "603": {
+    "hint": "The ubiquitous presentation graphics application included in the Microsoft Office suite.",
+    "memory_tip": "Microsoft PowerPoint = Standard presentation and slideshow software."
+  },
+  "604": {
+    "hint": "A telecommunication network connecting computers across vast regional, national, or global continents (e.g. the Internet).",
+    "memory_tip": "WAN = Wide Area Network (spans countries and continents; largest example is the Internet)."
+  },
+  "605": {
+    "hint": "A network interconnected within a limited geographical boundary such as an office room, laboratory, or school building.",
+    "memory_tip": "LAN = Local Area Network (spans a room, building, or campus)."
+  },
+  "606": {
+    "hint": "The three classical foundational categories of networks by geographical scope are LAN, MAN, and WAN.",
+    "memory_tip": "Major Network Types: LAN (Local Area), MAN (Metropolitan Area), WAN (Wide Area)."
+  },
+  "607": {
+    "hint": "Intranets provide rapid, instant internal communication within an organization; being time-consuming is contrary to its purpose.",
+    "memory_tip": "Intranet = Private secure internal network accelerating organizational data sharing."
+  },
+  "608": {
+    "hint": "The British mathematician who designed the mechanical Difference Engine and Analytical Engine in the 19th century.",
+    "memory_tip": "Charles Babbage = Father of the Modern Computer (Analytical Engine design, 1837)."
+  },
+  "609": {
+    "hint": "The Scottish mathematician who published tables of logarithms in 1614 and created Napier's Bones calculating rods.",
+    "memory_tip": "John Napier invented Logarithms (1614) and Napier's Bones for multiplication."
+  },
+  "610": {
+    "hint": "The universal keyboard shortcut in Windows to close the active application window or prompt system shutdown.",
+    "memory_tip": "Alt + F4 = Closes active window / Shut down shortcut in Windows."
+  },
+  "611": {
+    "hint": "The standard function key in Microsoft Word that launches the Spelling and Grammar verification tool.",
+    "memory_tip": "F7 = Shortcut key for Spell Check and Grammar in Microsoft Office."
+  },
+  "612": {
+    "hint": "Pressing the Control key along with the letter 'U' applies an underline to the highlighted text.",
+    "memory_tip": "Ctrl + U = Underline selected text."
+  },
+  "613": {
+    "hint": "The universal key combination used across browsers and word processors to open the Print dialog box.",
+    "memory_tip": "Ctrl + P = Print active file/document."
+  },
+  "614": {
+    "hint": "The standard shortcut combination to save edits in the current active document or workspace.",
+    "memory_tip": "Ctrl + S = Save active file."
+  },
+  "615": {
+    "hint": "Aligning text flushed against the right margin in MS Word is triggered by this shortcut.",
+    "memory_tip": "Ctrl + R = Right alignment (Ctrl + L = Left, Ctrl + E = Center, Ctrl + J = Justify)."
+  },
+  "616": {
+    "hint": "The universal shortcut that instantly highlights and selects all text and items in the active window.",
+    "memory_tip": "Ctrl + A = Select All."
+  },
+  "617": {
+    "hint": "The key combination to duplicate selected text or files into the system clipboard.",
+    "memory_tip": "Ctrl + C = Copy (Ctrl + V = Paste, Ctrl + X = Cut)."
+  },
+  "618": {
+    "hint": "The shortcut in word processors and text editors to open a brand-new, empty document.",
+    "memory_tip": "Ctrl + N = Open New blank document."
+  },
+  "619": {
+    "hint": "Centering headlines or text paragraphs in MS Word is executed using this shortcut.",
+    "memory_tip": "Ctrl + E = Center alignment of text."
+  },
+  "620": {
+    "hint": "The universal function key across software applications that summons user assistance and Help manuals.",
+    "memory_tip": "F1 = Universal Help function key."
+  },
+  "621": {
+    "hint": "The electronic microprocessor chip regarded as the brain of the computer that carries out calculations and instructions.",
+    "memory_tip": "CPU = Central Processing Unit (ALU + Control Unit + Registers; brain of computer)."
+  },
+  "622": {
+    "hint": "The optical disc format read by laser beams used to store audio, software, and digital files.",
+    "memory_tip": "CD = Compact Disc (Optical storage media, 700 MB capacity)."
+  },
+  "623": {
+    "hint": "The interconnected global web of hypertext documents accessed via the Internet, created by Sir Tim Berners-Lee in 1989.",
+    "memory_tip": "WWW = World Wide Web (invented by Tim Berners-Lee at CERN)."
+  },
+  "624": {
+    "hint": "The command-line single-tasking operating system developed by Microsoft before the advent of graphical Windows.",
+    "memory_tip": "DOS = Disk Operating System (MS-DOS)."
+  },
+  "625": {
+    "hint": "A telecommunications network connecting computers across a restricted local vicinity such as a school building.",
+    "memory_tip": "LAN = Local Area Network."
+  },
+  "626": {
+    "hint": "The microscopic silicon semiconductor chip containing thousands of miniaturized transistors invented by Jack Kilby and Robert Noyce.",
+    "memory_tip": "IC = Integrated Circuit (Silicon chip; core of 3rd generation computers)."
+  },
+  "627": {
+    "hint": "The computer's high-speed temporary main workspace memory that loses its contents when power is turned off.",
+    "memory_tip": "RAM = Random Access Memory (Volatile read/write main memory)."
+  },
+  "628": {
+    "hint": "The foundational communication protocol used to transmit hypertext web pages over the World Wide Web.",
+    "memory_tip": "HTTP = HyperText Transfer Protocol (HTTPS = Secure)."
+  },
+  "629": {
+    "hint": "The umbrella term covering digital computers, telecommunications, networking, and multimedia technologies used in education.",
+    "memory_tip": "ICT = Information and Communication Technology."
+  },
+  "630": {
+    "hint": "The transmission of electronic digital messages and attachments over telecommunication networks.",
+    "memory_tip": "E-mail = Electronic Mail (invented by Ray Tomlinson, 1971)."
+  }
+}

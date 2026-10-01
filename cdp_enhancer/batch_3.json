@@ -1,0 +1,402 @@
+{
+  "201": {
+    "hint": "The inward-directed ability to understand one's own desires, fears, moods, motivations, and internal identity.",
+    "memory_tip": "Intra-Personal Intelligence (Gardner) = 'Self Smart' (Philosophers, yogis, self-reflective thinkers)."
+  },
+  "202": {
+    "hint": "The social ability to perceive and distinguish the temperaments, intentions, and hidden motives of other people.",
+    "memory_tip": "Inter-Personal Intelligence (Gardner) = 'People Smart' (Politicians, salesmen, teachers, counselors)."
+  },
+  "203": {
+    "hint": "Gardner uses this popular descriptor for individuals gifted with profound personal introspection and self-insight.",
+    "memory_tip": "Intra-personal = 'Self Smart'; Inter-personal = 'People Smart'."
+  },
+  "204": {
+    "hint": "The capacity to recognize flora, fauna, soil patterns, weather formations, and ecological systems in nature.",
+    "memory_tip": "Naturalistic Intelligence (Gardner's 8th) = 'Nature Smart' (Biologists, farmers, environmentalists)."
+  },
+  "205": {
+    "hint": "Sensitivity to pitch, melody, rhythm, timbre, and acoustic tonality found in classical singers and instrumentalists.",
+    "memory_tip": "Musical Intelligence (Gardner) = 'Music Smart' (Singers, composers, violinists, drummers)."
+  },
+  "206": {
+    "hint": "E.L. Thorndike proposed the Multi-Factor Theory; attributing it to someone else creates an erroneous pair.",
+    "memory_tip": "Theories of Intelligence: Uni-Factor (Binet), Two-Factor (Spearman), Multi-Factor (Thorndike), Group Factor (Thurstone)."
+  },
+  "207": {
+    "hint": "Spearman's specialized ability required for excellence in one distinct activity like mathematics or violin.",
+    "memory_tip": "Spearman's 's' factor = Specific cognitive capability unique to a single specialized activity."
+  },
+  "208": {
+    "hint": "The earliest, monarchic view that intelligence is a single indivisible mental power driving all activities.",
+    "memory_tip": "Uni-Factor (Monarchic) Theory = Binet, Terman, Ebbinghaus (One single all-pervasive intelligence factor)."
+  },
+  "209": {
+    "hint": "The monarchic doctrine that assumes a person brilliant in mathematics must also be equally brilliant in poetry and painting.",
+    "memory_tip": "Uni-Factor Theory assumes intelligence is a single uniform capacity across all domains."
+  },
+  "210": {
+    "hint": "An individual's high talent in music versus poor skill in mechanics is explained by specific factor strengths.",
+    "memory_tip": "Specific Factor ('s') accounts for individual variation across different specific talents."
+  },
+  "211": {
+    "hint": "The psychological capability of encoding, retaining, and reproducing previously acquired knowledge and experience.",
+    "memory_tip": "Memory = Encoding + Storage + Retrieval of learned information."
+  },
+  "212": {
+    "hint": "The failure to retain or reproduce past learning, resulting in loss of information over the passage of time.",
+    "memory_tip": "Forgetting = Inability to recall or recognize previously learned information."
+  },
+  "213": {
+    "hint": "The German experimental psychologist who used nonsense syllables (e.g. WUX, CAZ) to plot the forgetting curve in 1885.",
+    "memory_tip": "Hermann Ebbinghaus = Pioneer of Memory Experiments & Forgetting Curve (1885)."
+  },
+  "214": {
+    "hint": "The landmark monograph published in 1885 that introduced empirical quantitative measurement into cognitive memory research.",
+    "memory_tip": "Hermann Ebbinghaus authored '\u00dcber das Ged\u00e4chtnis' ('On Memory', 1885)."
+  },
+  "215": {
+    "hint": "The mental process of retaining learned experiences in the subconscious and bringing them back into conscious awareness.",
+    "memory_tip": "Memory is the active reproduction of retained mental traces into conscious awareness."
+  },
+  "216": {
+    "hint": "The passive preservation of encoded neural memory traces (engrams) in the central nervous system over time.",
+    "memory_tip": "Retention = Holding or preserving past experiences in the memory store (engrams)."
+  },
+  "217": {
+    "hint": "Accessing and pulling stored information out of retention into active working consciousness when needed.",
+    "memory_tip": "Retrieval = Accessing stored memories through Recall or Recognition."
+  },
+  "218": {
+    "hint": "Ebbinghaus's saving percentage compares the time or trials saved during relearning to the original learning trials.",
+    "memory_tip": "Saving Score % = [(Original Trials - Relearning Trials) / Original Trials] \u00d7 100."
+  },
+  "219": {
+    "hint": "Working memory that holds about 7 \u00b1 2 chunks of information for roughly 20 to 30 seconds without rehearsal.",
+    "memory_tip": "Short Term Memory (STM) = Capacity: 7 \u00b1 2 items (Miller's Magic Number); Duration: ~20-30 seconds."
+  },
+  "220": {
+    "hint": "The permanent storage repository that holds vast amounts of procedural and declarative knowledge across a lifetime.",
+    "memory_tip": "Long Term Memory (LTM) = Infinite capacity, permanent duration (Episodic, Semantic, Procedural)."
+  },
+  "221": {
+    "hint": "Memorizing information purely mechanically by heart without understanding underlying principles or logic.",
+    "memory_tip": "Rote Memory = Mechanical cramming without understanding conceptual meaning."
+  },
+  "222": {
+    "hint": "Retaining content through conceptual analysis, reasoning, understanding relationships, and meaningful organization.",
+    "memory_tip": "Logical Memory = Meaningful retention based on conceptual understanding and reasoning."
+  },
+  "223": {
+    "hint": "Retention achieved when the learner physically participates, performs experiments, and acts out the lesson directly.",
+    "memory_tip": "Active Memory = Learning by doing with active motor and mental engagement."
+  },
+  "224": {
+    "hint": "Absorbing information merely by listening to a lecture or reading without interactive notes or hands-on practice.",
+    "memory_tip": "Passive Memory = Receptive memorization without active involvement or practice."
+  },
+  "225": {
+    "hint": "The French phrase literally translating to 'already seen', describing the eerie illusion of having previously experienced a new scene.",
+    "memory_tip": "D\u00e9j\u00e0 Vu = French for 'Already seen' (illusion of having previously witnessed a novel situation)."
+  },
+  "226": {
+    "hint": "The phenomenon discovered in European cafes where waiters remembered unpaid, interrupted orders far better than completed bills.",
+    "memory_tip": "Zeigarnik Effect (Bluma Zeigarnik) = Incomplete or interrupted tasks are remembered better than completed tasks."
+  },
+  "227": {
+    "hint": "Relearning strengthens neural traces; forgetting is caused by decay, interference, retrieval failure, or repression.",
+    "memory_tip": "Relearning improves retention (Saving Score); Forgetting causes = Decay, Interference, Repression."
+  },
+  "228": {
+    "hint": "When memory traces are not periodically exercised or rehearsed, they naturally fade according to Thorndike's law.",
+    "memory_tip": "Passive Decay through Disuse = Law of Disuse (unused neural traces fade over time)."
+  },
+  "229": {
+    "hint": "Freud's primary defense mechanism where traumatic, embarrassing, or unacceptable memories are banished to the unconscious.",
+    "memory_tip": "Repression = Motivated forgetting (pushing painful experiences into the unconscious mind)."
+  },
+  "230": {
+    "hint": "Repression creates unconscious forgetting; mnemonic devices, spaced review, and conceptual chunking improve recall.",
+    "memory_tip": "Memory Enhancers = Spaced practice, mnemonics, chunking; Repression causes amnesia/forgetting."
+  },
+  "231": {
+    "hint": "Connecting two mental representations because they occurred together in time, space, or historical context.",
+    "memory_tip": "Association of Ideas = Law of Association / Contiguity (Taj Mahal evokes Shah Jahan)."
+  },
+  "232": {
+    "hint": "The mental capability to generate innovative, unconventional, and valuable solutions through divergent thinking.",
+    "memory_tip": "Creativity = Production of novel, original, and socially useful ideas (Divergent Thinking)."
+  },
+  "233": {
+    "hint": "Creativity exists in every human domain including arts, science, everyday problem-solving, and play; it is never narrow.",
+    "memory_tip": "Creativity is universal, multi-dimensional, and boundless (not narrow or restricted)."
+  },
+  "234": {
+    "hint": "Convergent thinking seeks one standard correct answer; creativity relies centrally on open-ended, divergent thinking.",
+    "memory_tip": "Creativity = Divergent Thinking (Guilford: Fluency, Flexibility, Originality, Elaboration)."
+  },
+  "235": {
+    "hint": "The creation of original artistic, literary, scientific, or technological inventions through mental innovation.",
+    "memory_tip": "Creativity = Bringing into existence a novel synthesis of ideas and materials."
+  },
+  "236": {
+    "hint": "Recombining known elements into fundamentally new relationships and functional products.",
+    "memory_tip": "Creativity transforms existing conceptual relations into original inventions."
+  },
+  "237": {
+    "hint": "The sudden 'Aha!' or 'Eureka!' flash of insight that follows the subconscious gestation of an idea.",
+    "memory_tip": "Illumination Stage (Graham Wallas) = The sudden flash of inspiration ('Eureka!' moment)."
+  },
+  "238": {
+    "hint": "E. Paul Torrance designed the world's most widely used standardized assessment battery to evaluate creative thinking.",
+    "memory_tip": "Torrance Tests of Creative Thinking (TTCT / MTCT) = Assesses Fluency, Flexibility, Originality & Elaboration."
+  },
+  "239": {
+    "hint": "Brainstorming multiple unconventional uses for an everyday object tests divergent thinking and mental flexibility.",
+    "memory_tip": "Alternative Uses Test (Guilford) = Classic measure of Creativity / Divergent Thinking."
+  },
+  "240": {
+    "hint": "The 4th and concluding stage of Graham Wallas's creative cycle where the illuminated idea is tested and verified.",
+    "memory_tip": "Graham Wallas's 4 Stages of Creativity: 1. Preparation, 2. Incubation, 3. Illumination, 4. Verification."
+  },
+  "241": {
+    "hint": "Mocking questions or suppressing freedom of expression instills anxiety and severely crushes creative exploration.",
+    "memory_tip": "Creativity thrives on freedom, encouragement, and brainstorming; criticism stifles it."
+  },
+  "242": {
+    "hint": "An evaluation assessing a student's artistic sensitivity, appreciation of color harmony, and visual proportion.",
+    "memory_tip": "Meier Art Judgment Test = Aesthetic / Artistic Aptitude Test."
+  },
+  "243": {
+    "hint": "An individual's innate latent potential that predicts how successfully they can master a skill with future training.",
+    "memory_tip": "Aptitude = Latent capacity or potential ability to acquire proficiency through specialized training."
+  },
+  "244": {
+    "hint": "Tests that evaluate mechanical, clerical, or technical suitability for choosing specific occupational careers.",
+    "memory_tip": "Vocational Aptitude Test = Measures potential for success in specific occupational careers."
+  },
+  "245": {
+    "hint": "Standardized tests like the SAT used to predict academic success and suitability for collegiate university study.",
+    "memory_tip": "Scholastic Aptitude Test (SAT) = Measures readiness and potential for academic courses."
+  },
+  "246": {
+    "hint": "Bennett, Seashore, and Wesman constructed this multi-battery test covering verbal, numerical, and mechanical aptitudes.",
+    "memory_tip": "DAT = Differential Aptitude Test (assesses multiple distinct aptitude dimensions)."
+  },
+  "247": {
+    "hint": "A motivating psychological preference and curiosity that drives an individual toward voluntary engagement in an activity.",
+    "memory_tip": "Interest = The affective motive or preference directing attention toward an activity ('Interest is latent attention')."
+  },
+  "248": {
+    "hint": "E.K. Strong created this famous inventory to compare a student's career preferences with satisfied professionals.",
+    "memory_tip": "Strong Vocational Interest Blank (SVIB) = Measures Vocational Interests."
+  },
+  "249": {
+    "hint": "A learned, relatively enduring predisposition to evaluate people, policies, or ideas favorably or unfavorably.",
+    "memory_tip": "Attitude = Learned positive or negative predisposition toward an attitude object (ABC: Affect, Behavior, Cognition)."
+  },
+  "250": {
+    "hint": "Strong's blank measures vocational interests; Likert, Thurstone, and Bogardus scales measure attitudes.",
+    "memory_tip": "Attitude Scales = Likert Scale (Summated Rating), Thurstone Scale (Equal Appearing Intervals)."
+  },
+  "251": {
+    "hint": "The initial exploratory phase where the thinker gathers data, defines the problem, and experiments with basic approaches.",
+    "memory_tip": "Preparation Stage = 1st stage of creativity (collecting data, fact-finding, and analyzing)."
+  },
+  "252": {
+    "hint": "Excessive academic pressure, rote homework, and punitive discipline create strong school avoidance and aversion.",
+    "memory_tip": "Positive attitudes toward school require engaging co-curriculars, warmth, and supportive teaching."
+  },
+  "253": {
+    "hint": "The covert, implicit manipulation of mental symbols, concepts, and images to resolve an obstacle or reach a goal.",
+    "memory_tip": "Thinking = Internal cognitive problem-solving behavior utilizing concepts, images, and language."
+  },
+  "254": {
+    "hint": "Thinking takes place internally within the central nervous system and is covert/implicit, not overtly visible.",
+    "memory_tip": "Thinking is covert/implicit mental behavior, not an explicit observable physical action."
+  },
+  "255": {
+    "hint": "Ren\u00e9 Descartes declared 'Cogito, ergo sum' ('I think, therefore I am'), placing cognitive thought as the proof of being.",
+    "memory_tip": "Descartes' Dictum: 'Cogito, ergo sum' = 'I think, therefore I am' (Thinking defines human existence)."
+  },
+  "256": {
+    "hint": "Physical manipulation of objects is gross motor action; thinking is internal symbolic cognitive processing.",
+    "memory_tip": "Thinking is mental/cognitive manipulation of internal symbols, not gross physical exploration."
+  },
+  "257": {
+    "hint": "Thinking is fundamentally a goal-directed cognitive mechanism deployed to resolve difficulties and make decisions.",
+    "memory_tip": "Core Feature of Thinking = Goal-directed problem-solving cognitive behavior."
+  },
+  "258": {
+    "hint": "Thinking based directly upon tangible, physically visible objects present in the immediate sensory field.",
+    "memory_tip": "Concrete / Perceptual Thinking = Thinking tied directly to tangible physical objects (Piaget's Concrete stage)."
+  },
+  "259": {
+    "hint": "Constructing mental scenarios about future possibilities and hypothetical worlds that do not yet exist.",
+    "memory_tip": "Imaginative Thinking = Projecting novel mental images and hypothetical future scenarios (India 2050)."
+  },
+  "260": {
+    "hint": "One thought spontaneously triggering a chain of related memories (wedding evokes feast, music, and relatives).",
+    "memory_tip": "Associative Thinking = Linking related ideas through mental contiguity and association."
+  },
+  "261": {
+    "hint": "Thinking that branches out in varied, unusual directions to produce multiple creative possibilities.",
+    "memory_tip": "Divergent Thinking = Brainstorming multiple novel solutions (Guilford; core of creativity)."
+  },
+  "262": {
+    "hint": "Reasoning about non-tangible principles, metaphors, philosophical concepts, and mathematical variables.",
+    "memory_tip": "Abstract Thinking = Reasoning with intangible concepts, symbols, and theories (Formal operations)."
+  },
+  "263": {
+    "hint": "The overarching mental capacity encompassing sensory processing, reasoning, memory, and cognitive judgment.",
+    "memory_tip": "Cognitive Ability = The overall intellectual functioning governing perception, memory, and thought."
+  },
+  "264": {
+    "hint": "Sensory data combined with past experience and contextual interpretation yields meaningful understanding.",
+    "memory_tip": "Perception = Sensation + Meaning (interpreting raw sensory stimuli through past experience)."
+  },
+  "265": {
+    "hint": "The psychological process through which raw sensory stimuli (sight, hearing, touch) are organized into conscious awareness.",
+    "memory_tip": "Perception = Organizing and interpreting sensory inputs into conscious experience."
+  },
+  "266": {
+    "hint": "Perception cannot occur in a vacuum; it is immediately triggered and shaped by incoming physical environmental stimuli.",
+    "memory_tip": "Perception is fundamentally driven by external sensory stimuli interacting with internal mental sets."
+  },
+  "267": {
+    "hint": "The Gestalt law stating that stimuli sharing similar shape, color, size, or texture are perceived as a cohesive group.",
+    "memory_tip": "Gestalt Law of Similarity = Similar visual elements are automatically grouped together."
+  },
+  "268": {
+    "hint": "The perceptual tendency of the brain to fill in missing gaps or contours to perceive a complete, unified shape.",
+    "memory_tip": "Gestalt Law of Closure = The mind fills in missing gaps to perceive incomplete figures as complete wholes."
+  },
+  "269": {
+    "hint": "In Rubin's figure-ground relationship, the object of attention is the figure, while the background setting is the ground.",
+    "memory_tip": "Figure-Ground Perception: Flying bird = Figure (focus); Sky = Ground (background)."
+  },
+  "270": {
+    "hint": "Objects located near to one another in physical space are automatically perceived as belonging together.",
+    "memory_tip": "Gestalt Law of Proximity = Nearness in space creates perceptual grouping."
+  },
+  "271": {
+    "hint": "Perception is jointly determined by objective stimulus properties (intensity, contrast) and subjective factors (mood, motivation).",
+    "memory_tip": "Factors Influencing Perception = Objective (Stimulus features) + Subjective (Needs, attitudes, past experience)."
+  },
+  "272": {
+    "hint": "GATB assesses multi-dimensional mechanical and cognitive aptitudes, not vocational interests.",
+    "memory_tip": "General Aptitude Test Battery (GATB) = Measures Aptitude; Strong & Kuder inventories measure Interest."
+  },
+  "273": {
+    "hint": "The perceptual mastery of categorizing visual chromatic wavelengths into distinct primary hues.",
+    "memory_tip": "Color Concept = Recognizing and categorizing primary colors (Red, Blue, Green)."
+  },
+  "274": {
+    "hint": "Like many core psychological constructs, personality traces its linguistic roots to ancient Roman theatre.",
+    "memory_tip": "Personality is derived from the Latin word 'Persona'."
+  },
+  "275": {
+    "hint": "In classical Roman theater, actors wore theatrical masks called 'persona' to portray specific dramatic roles.",
+    "memory_tip": "Persona = Latin word meaning 'Mask' (the external facade displayed to the world)."
+  },
+  "276": {
+    "hint": "The Gestalt-field psychologist who defined personality as the dynamic integration of the whole psychological life-space.",
+    "memory_tip": "Kurt Lewin defined personality as an integrated totality of a dynamic system (Life Space: B = f(P, E))."
+  },
+  "277": {
+    "hint": "Personality is shaped by biological temperament, hormonal glands, neural wiring, family upbringing, and culture.",
+    "memory_tip": "Personality Determinants = Biological / Hereditary factors + Socio-cultural / Environmental factors."
+  },
+  "278": {
+    "hint": "The largest, uppermost part of the human brain divided into two hemispheres that controls higher intellect and voluntary thought.",
+    "memory_tip": "Cerebrum = Forebrain structure responsible for memory, reasoning, speech, and conscious thought."
+  },
+  "279": {
+    "hint": "The intermediate brainstem structure that relays sensory-motor signals and coordinates motor reflexes.",
+    "memory_tip": "Midbrain (Mesencephalon) = Relays visual/auditory reflexes and coordinates muscular movements."
+  },
+  "280": {
+    "hint": "Thorndike's mechanical intelligence relies heavily upon fine motor coordination, reflex speed, and spatial motor centers.",
+    "memory_tip": "Mechanical / Motor intelligence relies functionally on midbrain motor and reflex coordination."
+  },
+  "281": {
+    "hint": "Coordinated motor acts, posture adjustments, and reflex responses depend upon midbrain neural relays.",
+    "memory_tip": "Midbrain structures coordinate postural reflexes and motor orientation."
+  },
+  "282": {
+    "hint": "The 'little brain' located beneath the cerebrum responsible for fine balance, posture, equilibrium, and smooth muscular coordination.",
+    "memory_tip": "Cerebellum = Maintains bodily balance, muscular coordination, and equilibrium."
+  },
+  "283": {
+    "hint": "The lowest part of the brainstem that autonomously governs life-sustaining involuntary vitals: heartbeat, breathing, swallowing.",
+    "memory_tip": "Medulla Oblongata = Controls involuntary vital reflexes (heartbeat, respiration, blood pressure, coughing)."
+  },
+  "284": {
+    "hint": "The protective involuntary withdrawal reflex triggered through the spinal reflex arc without waiting for slow conscious thought.",
+    "memory_tip": "Reflex Arc / Autonomic Reaction = Immediate involuntary withdrawal from painful/hot stimuli."
+  },
+  "285": {
+    "hint": "The human central nervous system connects directly to cranial sensory organs through exactly a dozen bilateral pairs.",
+    "memory_tip": "Cranial Nerves = Exactly 12 pairs originating directly from the brain."
+  },
+  "286": {
+    "hint": "The spinal cord gives rise to bilateral pairs of peripheral nerves emerging between the vertebrae.",
+    "memory_tip": "Spinal Nerves = Exactly 31 pairs (8 cervical, 12 thoracic, 5 lumbar, 5 sacral, 1 coccygeal)."
+  },
+  "287": {
+    "hint": "The division of the nervous system outside the brain and spinal cord that links sensory receptors and muscles.",
+    "memory_tip": "Peripheral Nervous System (PNS) = Cranial and spinal nerves connecting CNS to sensory organs and muscles."
+  },
+  "288": {
+    "hint": "The small pea-sized gland located at the base of the brain that orchestrates the secretions of all other endocrine glands.",
+    "memory_tip": "Pituitary Gland = 'Master Gland' of the endocrine system (secretes growth hormone & trophic hormones)."
+  },
+  "289": {
+    "hint": "The hypophysis sits safely inside the sella turcica bony cavity beneath the hypothalamus in the cranial cavity.",
+    "memory_tip": "Pituitary gland is situated directly at the base of the brain."
+  },
+  "290": {
+    "hint": "Severe hypothyroidism / thyroxin deficiency in adults produces lethargy, sluggish metabolism, and puffy swelling.",
+    "memory_tip": "Thyroxin Deficiency: In Children = Cretinism (mental retardation & stunted growth); In Adults = Myxoedema."
+  },
+  "291": {
+    "hint": "The essential trace mineral required by the thyroid follicular cells to manufacture T3 and T4 (thyroxin).",
+    "memory_tip": "Iodine is essential for synthesizing Thyroxin; deficiency leads to Simple Goitre."
+  },
+  "292": {
+    "hint": "Sitting atop the kidneys, this endocrine gland secretes adrenaline during extreme anger, fear, and emergency stress.",
+    "memory_tip": "Adrenal Glands (Adrenal Medulla) = Secretes Adrenaline (Epinephrine) influencing intense emotional states."
+  },
+  "293": {
+    "hint": "The hormone that accelerates heart rate, dilates bronchioles, and mobilizes glucose for emergency physical defense.",
+    "memory_tip": "Adrenal Gland produces Adrenaline ('Fight or Flight' emergency hormone)."
+  },
+  "294": {
+    "hint": "The mother's nutritional intake, emotional stress levels, and diet directly nourish the fetus through the placenta.",
+    "memory_tip": "Pre-Natal Environmental Factors = Maternal nutrition, health, age, emotional state, and teratogens."
+  },
+  "295": {
+    "hint": "Hippocrates lived in classical Greece; the philosophical personality theorist Eduard Spranger worked in Germany.",
+    "memory_tip": "Hippocrates = Greece (4 Humors); Eduard Spranger = Germany ('Types of Men', 6 Value Types)."
+  },
+  "296": {
+    "hint": "In Hippocrates' humoral theory, dominance of warm red blood produces a warm, optimistic, cheerful, and confident disposition.",
+    "memory_tip": "Hippocrates' Sanguine Type (Blood dominant) = Optimistic, joyful, active, enthusiastic."
+  },
+  "297": {
+    "hint": "In humoral theory, excess of black bile produces a gloomy, sad, sorrowful, depressed, and pessimistic temperament.",
+    "memory_tip": "Hippocrates' Melancholic Type (Black bile dominant) = Depressed, sad, pessimistic, brooding."
+  },
+  "298": {
+    "hint": "Excess of cold watery phlegm produces a sluggish, placid, calm, unexcitable, and impassive behavioral style.",
+    "memory_tip": "Hippocrates' Phlegmatic Type (Phlegm dominant) = Calm, cool, sluggish, slow to react."
+  },
+  "299": {
+    "hint": "Excess of hot yellow bile produces an irritable, quick-tempered, touchy, aggressive, and volatile disposition.",
+    "memory_tip": "Hippocrates' Choleric Type (Yellow bile dominant) = Irritable, aggressive, quick-tempered."
+  },
+  "300": {
+    "hint": "Individuals who remain emotionally tranquil, composed, unhurried, and slow to anger belong to this humoral type.",
+    "memory_tip": "Phlegmatic personality = Peaceful, unhurried, calm, and emotionally steady."
+  }
+}

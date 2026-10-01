@@ -1,0 +1,402 @@
+{
+  "301": {
+    "hint": "Ernst Kretschmer's body typology: individuals with short, plump, round physique and friendly, jolly, extroverted temperaments.",
+    "memory_tip": "Kretschmer's Typology: Pyknic (short, fat, sociable/cycloid); Athletic (muscular, balanced); Asthenic/Leptosomatic (lean, introverted)."
+  },
+  "302": {
+    "hint": "Kretschmer's type with broad shoulders, well-developed musculature, strong bones, and energetic, confident disposition.",
+    "memory_tip": "Athletic Type (Kretschmer) = Muscular physique, energetic, assertive, and well-adjusted."
+  },
+  "303": {
+    "hint": "Kretschmer's slender type with narrow chest, long limbs, fragile bones, and quiet, shy, introverted temperament.",
+    "memory_tip": "Leptosomatic (Asthenic) = Lean, tall, slender body build, sensitive, and introverted."
+  },
+  "304": {
+    "hint": "Eduard Spranger's personality type driven predominantly by utility, wealth accumulation, commercial profit, and practicality.",
+    "memory_tip": "Spranger's 6 Value Types: Economic (utility/wealth: Bill Gates, businessmen), Theoretical, Social, Political, Religious, Aesthetic."
+  },
+  "305": {
+    "hint": "Spranger's type driven by discovery of truth, scientific inquiry, philosophical rationality, and intellectual pursuit.",
+    "memory_tip": "Theoretical Type (Spranger) = Passion for truth, science, and empirical knowledge (A.P.J. Abdul Kalam, Einstein)."
+  },
+  "306": {
+    "hint": "Spranger's type whose life centers around spiritual unity, divine devotion, mysticism, and religious values.",
+    "memory_tip": "Religious Type (Spranger) = Devotion to cosmic oneness and spiritual transcendence (Dalai Lama, saints)."
+  },
+  "307": {
+    "hint": "Spranger's type motivated by love of people, altruism, philanthropy, kindness, and selflessly serving the underprivileged.",
+    "memory_tip": "Social Type (Spranger) = Altruistic love, compassion, and human service (Mother Teresa)."
+  },
+  "308": {
+    "hint": "Spranger's personality type that cherishes grace, beauty, form, artistic harmony, and sensory elegance.",
+    "memory_tip": "Aesthetic Type (Spranger) = Worship of beauty, artistic form, and sensory symmetry (Painters, film directors, poets)."
+  },
+  "309": {
+    "hint": "Spranger's type driven by personal power, leadership, administrative influence, and political governance.",
+    "memory_tip": "Political Type (Spranger) = Striving for leadership, power, and political influence (Indira Gandhi, statesmen)."
+  },
+  "310": {
+    "hint": "Eminent agricultural scientist M.S. Swaminathan dedicated his life to scientific discovery and research.",
+    "memory_tip": "Theoretical Value (Spranger) = Pursuit of empirical science, research, and truth."
+  },
+  "311": {
+    "hint": "Raymond B. Cattell distilled human personality into sixteen fundamental source traits assessed by his famous 16PF questionnaire.",
+    "memory_tip": "Cattell's 16PF = 16 Source Traits (underlying foundational traits of personality)."
+  },
+  "312": {
+    "hint": "Cattell started from Allport and Odbert's trait dictionary list, boiling down thousands of descriptors to 171 surface traits.",
+    "memory_tip": "Cattell reduced Allport's trait list into 171 surface traits before factor analyzing them into 16 source traits."
+  },
+  "313": {
+    "hint": "The British-American psychologist who pioneered factor analytic trait measurement and formulated the 16PF inventory.",
+    "memory_tip": "Trait Theorists = Gordon Allport (Cardinal, Central, Secondary) & Raymond B. Cattell (Surface & Source traits, 16PF)."
+  },
+  "314": {
+    "hint": "Major industrial leaders like Mukesh Ambani orient their careers around capital investment, industry, and commerce.",
+    "memory_tip": "Economic Value Type = Business magnates, industrialists, and financial entrepreneurs."
+  },
+  "315": {
+    "hint": "The Swiss analytical psychologist who classified human beings into Introverts (inward-looking) and Extroverts (outward-looking).",
+    "memory_tip": "Carl Gustav Jung (1921) = Classified personality into Introverts and Extroverts (Psychological Types)."
+  },
+  "316": {
+    "hint": "The Austrian founder of Psychoanalysis who formulated the psychosexual stages driven by the libido.",
+    "memory_tip": "Sigmund Freud = Theory of Psycho-sexual Development & Psychoanalysis (Id, Ego, Super-Ego)."
+  },
+  "317": {
+    "hint": "The primitive, instinctual biological core that demands immediate satisfaction of biological urges without delay.",
+    "memory_tip": "Freud's Personality Triad: Id = Pleasure Principle; Ego = Reality Principle; Super-Ego = Moral Principle."
+  },
+  "318": {
+    "hint": "The primitive reservoir of instinctual and biological drives submerged completely within the deep unconscious.",
+    "memory_tip": "The Id is completely submerged in the Unconscious Mind (the submerged 9/10ths of the iceberg)."
+  },
+  "319": {
+    "hint": "The internalized voice of parents and societal conscience that strives for moral perfection and punishes with guilt.",
+    "memory_tip": "Super-Ego = Moral Principle (Conscience & Ego Ideal; judges right vs wrong)."
+  },
+  "320": {
+    "hint": "The moral arbitrator striving for absolute ethical idealism, perfection, and righteousness rather than pleasure.",
+    "memory_tip": "Super-Ego's Goal = 'Perfection rather than pleasure' (Internalized ethical censor)."
+  },
+  "321": {
+    "hint": "The rational executive component that mediates between instinctual Id urges and external real-world constraints.",
+    "memory_tip": "Ego = Operates strictly on the Reality Principle (executive mediator of personality)."
+  },
+  "322": {
+    "hint": "The psychological entity spanning conscious awareness and defensive subconscious mechanisms, serving as the personality's CEO.",
+    "memory_tip": "The Ego spans conscious, preconscious, and unconscious levels (mediates between Id, Super-Ego & Reality)."
+  },
+  "323": {
+    "hint": "The third and final psychic agency developing around age 5 through the internalization of parental and moral codes.",
+    "memory_tip": "Freud's Structural Architecture: 1. Id (at birth), 2. Ego (infancy/toddlerhood), 3. Super-Ego (phallic stage / age 5)."
+  },
+  "324": {
+    "hint": "The ethical agency acting as moral conscience that judges actions as virtuous or sinful and generates moral guilt.",
+    "memory_tip": "Super-Ego = Internal moral judge / conscience assessing good vs bad."
+  },
+  "325": {
+    "hint": "Emerging from the Id during early childhood to navigate reality realistically through rational cognitive thought.",
+    "memory_tip": "Ego is the second psychic structure to emerge, grounded in realistic executive control."
+  },
+  "326": {
+    "hint": "The oldest, innate biological agency present from the instant of human birth containing all hereditary instincts.",
+    "memory_tip": "Id = The first and only structural component of personality present at birth."
+  },
+  "327": {
+    "hint": "The primitive instinctual impulse demanding immediate, uninhibited gratification of selfish or sensual urges.",
+    "memory_tip": "Id motto: 'I want it now, at any cost!' (Impulsive, irrational, pleasure-seeking)."
+  },
+  "328": {
+    "hint": "A rational, realistic appraisal of health facts and long-term consequences exemplifies executive ego functioning.",
+    "memory_tip": "Rational realistic reasoning ('Smoking harms health, so refrain') is the function of the Ego."
+  },
+  "329": {
+    "hint": "The topmost layer of the psychological iceberg containing thoughts, feelings, and sensations you are actively aware of right now.",
+    "memory_tip": "Freud's Topographical Model: Conscious (active awareness), Subconscious/Preconscious (accessible), Unconscious (hidden)."
+  },
+  "330": {
+    "hint": "The pragmatic psychological mediator that postpones gratification until an appropriate, realistic object is found.",
+    "memory_tip": "Reality Principle = Governs the Ego."
+  },
+  "331": {
+    "hint": "The layer just beneath the surface whose memories can be quickly summoned into conscious focus with minimal retrieval effort.",
+    "memory_tip": "Subconscious / Preconscious = Information easily recalled into active awareness on demand."
+  },
+  "332": {
+    "hint": "The vast hidden ocean containing repressed traumas, primitive instincts, and painful urges blocked from voluntary recall.",
+    "memory_tip": "Unconscious Mind = Repressed urges and memories inaccessible without psychoanalysis or hypnosis."
+  },
+  "333": {
+    "hint": "Freud's second psychosexual stage (ages 1-3) centered around sphincter control and toilet training conflicts.",
+    "memory_tip": "Anal Stage (1-3 yrs) = Focus on toilet training, sphincter control, and autonomy."
+  },
+  "334": {
+    "hint": "Freud's third stage (ages 3-6) where the child discovers genital anatomy and experiences the Oedipus / Electra complex.",
+    "memory_tip": "Phallic Stage (3-6 yrs) = Genital focus, Oedipus complex (boys) and Electra complex (girls)."
+  },
+  "335": {
+    "hint": "Freud's first stage (ages 0-1) where all pleasure and gratification are focused on the mouth, sucking, and biting.",
+    "memory_tip": "Oral Stage (0-1 yr) = Mouth focus: sucking, chewing, biting (Weaning conflict)."
+  },
+  "336": {
+    "hint": "Sigmund Freud mapped psychosexual development into exactly five chronological stages ending at adult genital maturity.",
+    "memory_tip": "Freud's 5 Psychosexual Stages: Oral -> Anal -> Phallic -> Latency -> Genital (OAPLG)."
+  },
+  "337": {
+    "hint": "The Rorschach Inkblot Test uses ambiguous unstructured stimuli (projective), unlike structured questionnaires or case histories.",
+    "memory_tip": "Projective Tests = Rorschach IBT, TAT, CAT, Word Association (unstructured stimuli reveal unconscious)."
+  },
+  "338": {
+    "hint": "Hermann Rorschach designed exactly ten standardized symmetrical inkblot plates printed on separate cards.",
+    "memory_tip": "Rorschach Inkblot Test = 10 Cards total: 5 Black/White, 2 Black/Red, 3 Multicolored."
+  },
+  "339": {
+    "hint": "In Henry Murray's Thematic Apperception Test, the Greek root 'Thema' refers to the narrative dramatic story created by the subject.",
+    "memory_tip": "Thema (in TAT) = Story / Dramatic plot constructed by the test-taker."
+  },
+  "340": {
+    "hint": "Murray and Morgan's standard TAT test set consists of 30 ambiguous pictorial cards plus one completely blank card.",
+    "memory_tip": "TAT Total Cards = 30 Picture Cards + 1 Blank Card = 31 Cards."
+  },
+  "341": {
+    "hint": "Check the pairing of projective tests and their creators: Bellak created CAT, Murray & Morgan created TAT, Rorschach created IBT.",
+    "memory_tip": "Personality Test Pioneers: IBT = Hermann Rorschach; TAT = Henry Murray & Christina Morgan; CAT = Leopold Bellak."
+  },
+  "342": {
+    "hint": "In Rorschach scoring categories, the letter 'K' represents responses influenced by shading, chiaroscuro, or diffuse tones.",
+    "memory_tip": "Rorschach Scoring: W = Whole, D = Detail, F = Form, C = Color, K = Shading/Chiaroscuro, M = Movement."
+  },
+  "343": {
+    "hint": "In scoring the content of inkblot responses, 'Ad' indicates seeing merely an isolated anatomical part of an animal.",
+    "memory_tip": "Rorschach Content Scoring: A = Whole Animal, Ad = Animal Detail / Part, H = Whole Human, Hd = Human Detail / Part."
+  },
+  "344": {
+    "hint": "In Rorschach content codes, 'Hd' denotes perceiving a specific human body fragment (e.g. a face, arm, or severed hand).",
+    "memory_tip": "Rorschach Scoring: Hd = Human Detail / Anatomical part of human body."
+  },
+  "345": {
+    "hint": "Hathaway and McKinley's original clinical edition of the Minnesota Multiphasic Personality Inventory contained 550 true/false items.",
+    "memory_tip": "Original MMPI (1943) = 550 True/False items (MMPI-2 updated to 567 items)."
+  },
+  "346": {
+    "hint": "The MMPI clinical scale measuring morbid sorrow, pervasive pessimism, low self-worth, and depressive gloom.",
+    "memory_tip": "MMPI Scale 2 (D) = Depression (measures pessimism, sorrow, hopelessness)."
+  },
+  "347": {
+    "hint": "The MMPI clinical scale capturing manic hyperactivity, irritability, grandiose flight of ideas, and emotional volatility.",
+    "memory_tip": "MMPI Scale 9 (Ma) = Hypomania (measures excessive energy, grandiosity, and aggressive excitement)."
+  },
+  "348": {
+    "hint": "The MMPI clinical scale capturing obsessive compulsions, irrational phobias, self-doubt, and obsessive guilt.",
+    "memory_tip": "MMPI Scale 7 (Pt) = Psychasthenia (measures obsessive-compulsive rituals, irrational fears, anxiety)."
+  },
+  "349": {
+    "hint": "J.L. Moreno developed this quantitative sociometric charting technique to map peer attractions, rejections, and social cliques.",
+    "memory_tip": "Sociometry (J.L. Moreno) = Assessment technique to map interpersonal attractions, repulsions, and social dynamics (Sociogram)."
+  },
+  "350": {
+    "hint": "When administering Murray's TAT to an adult male, standard protocol uses 20 gender-appropriate picture cards plus the blank card.",
+    "memory_tip": "TAT Administration = 20 Picture Cards + 1 Blank Card = 20 + 1 cards per individual subject."
+  },
+  "351": {
+    "hint": "Case study is an individualized, objective qualitative historical inquiry, not a projective stimulus test.",
+    "memory_tip": "Projective Tests = Rorschach, TAT, CAT, Sentence Completion; Non-projective = Case study, Questionnaire, Observation."
+  },
+  "352": {
+    "hint": "The classic individual projective instrument where a single respondent interprets inkblots one card at a time.",
+    "memory_tip": "Rorschach Ink Blot Test (IBT) = Individual projective diagnostic personality test."
+  },
+  "353": {
+    "hint": "Among the ten Rorschach plates, Cards II and III specifically feature dramatic splashes of intense red along with black.",
+    "memory_tip": "Rorschach 10 Cards Breakdown: 5 Monochrome (Black/White), 2 Bicolor (Black & Red: Cards II & III), 3 Polychrome (Multicolored)."
+  },
+  "354": {
+    "hint": "The American author whose autobiographical account of psychiatric illness, 'A Mind That Found Itself' (1908), launched the movement.",
+    "memory_tip": "Clifford Beers = Founder of the Mental Health / Mental Hygiene Movement (1908)."
+  },
+  "355": {
+    "hint": "In Moreno's sociogram, an individual who receives zero peer choices or positive nominations from group peers.",
+    "memory_tip": "Sociometry Terms: Star = Most chosen; Isolate = Zero choices; Rejectee = Actively opposed."
+  },
+  "356": {
+    "hint": "Leopold Bellak modified the TAT for young children (ages 3 to 10) by substituting human figures with engaging animal pictures.",
+    "memory_tip": "CAT = Children's Apperception Test (Leopold Bellak; 10 animal picture cards for ages 3-10)."
+  },
+  "357": {
+    "hint": "In a sociogram diagram, the popular individual who receives the highest number of mutual choices and peer nominations.",
+    "memory_tip": "Star = The most popular/widely chosen individual in Sociometry."
+  },
+  "358": {
+    "hint": "The prominent educational psychologist Arthur I. Gates formulated this standard, succinct behavioral definition of learning.",
+    "memory_tip": "Arthur I. Gates: 'Learning is the modification of behavior through experience and training.'"
+  },
+  "359": {
+    "hint": "The common neurodevelopmental disorder marked by persistent inattention, extreme physical restlessness, and impulsivity.",
+    "memory_tip": "ADHD = Attention Deficit Hyperactivity Disorder."
+  },
+  "360": {
+    "hint": "Learning is inherently an active, dynamic, continuous psychological process, not a static condition.",
+    "memory_tip": "Characteristics of Learning: Active process, continuous, purposeful, results in behavioral change."
+  },
+  "361": {
+    "hint": "Standard domains of learning are motor, verbal, and conceptual; 'aptitude learning' is an erroneous concoction.",
+    "memory_tip": "Types of Learning = Motor learning, Verbal learning, Conceptual learning, Problem-solving."
+  },
+  "362": {
+    "hint": "E.L. Thorndike proposed that transfer occurs only to the extent that two tasks share common identical elements and bonds.",
+    "memory_tip": "Theory of Identical Elements (Transfer of Learning) = Proposed by E.L. Thorndike & Woodworth."
+  },
+  "363": {
+    "hint": "Acquiring skill in steering, braking, and road navigation in a car directly assists in driving a jeep.",
+    "memory_tip": "Positive Transfer = Past learning facilitates or aids the mastery of a new task."
+  },
+  "364": {
+    "hint": "The school infrastructure plan is an external organizational factor, whereas age, readiness, and fatigue reside in the learner.",
+    "memory_tip": "Learner Factors = Age, Maturation, Motivation, Fatigue; School Plan = Institutional / Environmental Factor."
+  },
+  "365": {
+    "hint": "When learning one topic has completely no influence (neither helpful nor detrimental) upon another task.",
+    "memory_tip": "Zero Transfer (Neutral Transfer) = Prior learning has zero effect on new learning (e.g. History & Swimming)."
+  },
+  "366": {
+    "hint": "Learning begins at birth and continues across the entire lifespan without stopping; saying it is non-continuous is false.",
+    "memory_tip": "Learning is lifelong, pervasive, and continuous."
+  },
+  "367": {
+    "hint": "Classical conditioning is a theory explaining how associations are learned, not a theory of how skills transfer across tasks.",
+    "memory_tip": "Theories of Transfer: Identical Elements (Thorndike), Generalization (Judd), Ideals (Bagley), Transposition (Gestalt)."
+  },
+  "368": {
+    "hint": "The historic doctrine of Formal Discipline was associated with faculty psychology, not modern empirical theorists.",
+    "memory_tip": "Theory of Formal Discipline = Faculty Psychology (mind is like a muscle trained through classics/geometry)."
+  },
+  "369": {
+    "hint": "When previously learned habits disrupt, hinder, or confuse the performance of a newly attempted skill.",
+    "memory_tip": "Negative Transfer (Habit Interference) = Prior learning inhibits or hinders new learning."
+  },
+  "370": {
+    "hint": "Automating basic multiplication tables provides direct algebraic and computational scaffolding for word problems.",
+    "memory_tip": "Positive Transfer = Prior mathematical foundations accelerate new problem solving."
+  },
+  "371": {
+    "hint": "A flat horizontal stretch along a learning curve showing no visible increase in skill despite ongoing practice.",
+    "memory_tip": "Plateau in Learning = Temporary period of arrest or zero progress in the learning curve."
+  },
+  "372": {
+    "hint": "Plateaus arise from physical exhaustion, cognitive fatigue, boredom, outdated methods, or emotional distraction.",
+    "memory_tip": "Causes of Learning Plateaus = Fatigue, loss of interest/motivation, bad habit patterns, physiological limits."
+  },
+  "373": {
+    "hint": "A standard learning curve displays an initial stage, a middle developmental stretch with potential plateaus, and a ceiling limit.",
+    "memory_tip": "Stages of Learning Curve = Initial phase, Intermediate phase (plateau), Final mastery phase."
+  },
+  "374": {
+    "hint": "A learning curve graphically charts the quantitative change in performance efficiency as a function of practice trials.",
+    "memory_tip": "Learning Curve = Graphical depiction of progress/performance over time or practice."
+  },
+  "375": {
+    "hint": "The legal, tailored instructional blueprint created specifically to accommodate a special-needs student's learning profile.",
+    "memory_tip": "IEP = Individualized Education Program (tailored plan for children with disabilities under inclusive education)."
+  },
+  "376": {
+    "hint": "The specific learning disability involving severe difficulty understanding numbers, calculation symbols, and arithmetic.",
+    "memory_tip": "Learning Disabilities: Dyscalculia (Math/Numbers), Dyslexia (Reading), Dysgraphia (Writing), Dyspraxia (Motor skills)."
+  },
+  "377": {
+    "hint": "Facilitation occurs when previously acquired cognitive skills or motor habits make mastering a subsequent task easier.",
+    "memory_tip": "Positive Transfer = Prior learning enhances and accelerates subsequent learning."
+  },
+  "378": {
+    "hint": "Musical mastery of the strings of a veena has no structural or cognitive overlap with physical athletic track events.",
+    "memory_tip": "Zero Transfer = Distinct unrelated skill domains (Playing Veena vs Running track)."
+  },
+  "379": {
+    "hint": "The Russian physiologist whose Nobel-prize winning salivary studies on dogs discovered conditioning through stimulus pairing.",
+    "memory_tip": "Ivan Pavlov = Classical Conditioning Theory (Pavlovian Conditioning)."
+  },
+  "380": {
+    "hint": "The scientist who demonstrated that an unconditioned stimulus (food) paired with a conditioned stimulus (bell) produces learning.",
+    "memory_tip": "Ivan Pavlov formulated the Classical Conditioning paradigm."
+  },
+  "381": {
+    "hint": "In classical conditioning, learning occurs through repeated temporal contiguity and association between two stimuli.",
+    "memory_tip": "Pavlovian Learning = Association between Neutral Stimulus (CS) and Unconditioned Stimulus (UCS)."
+  },
+  "382": {
+    "hint": "Ivan Petrovich Pavlov carried out his historic research at the Military Medical Academy in St. Petersburg, Russia.",
+    "memory_tip": "Ivan Pavlov was a Russian physiologist (won Nobel Prize in 1904 for digestive physiology)."
+  },
+  "383": {
+    "hint": "Pavlov published his physiological findings on digestive secretions and nervous reflex arcs in this renowned 1897 treatise.",
+    "memory_tip": "Ivan Pavlov authored 'The Work of Digestive Glands' (1897)."
+  },
+  "384": {
+    "hint": "Meat powder naturally triggers salivation automatically without any prior conditioning or training.",
+    "memory_tip": "Pavlov's Terms: Food / Meat powder = Unconditioned Stimulus (UCS); Natural salivation = Unconditioned Response (UCR)."
+  },
+  "385": {
+    "hint": "Before any training trials begin, the ringing of a bell does not naturally elicit salivation, serving only as a neutral signal.",
+    "memory_tip": "Before Conditioning: Bell = Neutral Stimulus (NS) eliciting only an orienting reflex, not salivation."
+  },
+  "386": {
+    "hint": "Following repeated pairing with food, the sound of the bell alone acquires the power to evoke salivation.",
+    "memory_tip": "After Conditioning: Bell becomes the Conditioned Stimulus (CS); Salivation becomes the Conditioned Response (CR)."
+  },
+  "387": {
+    "hint": "The Law of Readiness is Thorndike's law; Pavlov's core principles are Extinction, Generalization, and Spontaneous Recovery.",
+    "memory_tip": "Pavlovian Principles = Acquisition, Extinction, Spontaneous Recovery, Generalization, Discrimination (Readiness is Thorndike's)."
+  },
+  "388": {
+    "hint": "The conditioned fear response spreading to all similar stimuli (resembling the original frightening dog).",
+    "memory_tip": "Stimulus Generalization = Responding similarly to stimuli resembling the original CS."
+  },
+  "389": {
+    "hint": "The pioneer who placed hungry cats inside puzzle boxes to demonstrate learning through gradual elimination of errors.",
+    "memory_tip": "E.L. Thorndike = Proposed the Trial and Error Theory of Learning (Cat in Puzzle Box)."
+  },
+  "390": {
+    "hint": "Thorndike's perspective that learning consists of establishing direct neural connections or bonds between stimulus and response.",
+    "memory_tip": "Trial and Error is also called Connectionism / S-R Bond Theory."
+  },
+  "391": {
+    "hint": "Thorndike championed S-R connectionism; observational modeling was formulated decades later by Albert Bandura.",
+    "memory_tip": "Observational Learning = Albert Bandura (Social Cognitive Theory), NOT Thorndike."
+  },
+  "392": {
+    "hint": "Thorndike's foundational doctoral dissertation published in 1898 that established the empirical experimental study of animal learning.",
+    "memory_tip": "E.L. Thorndike authored 'Animal Intelligence' (1898)."
+  },
+  "393": {
+    "hint": "When a learner is neuro-physiologically prepared to act, acting brings satisfaction, while obstruction produces annoyance.",
+    "memory_tip": "Thorndike's Law of Readiness = Preparedness of neural conduction units to act."
+  },
+  "394": {
+    "hint": "Responses followed by satisfying rewards are reinforced and stamped in; responses followed by discomfort are weakened.",
+    "memory_tip": "Thorndike's Law of Effect = Satisfaction stamps in bonds; annoyance stamps out (foundation of Operant Conditioning)."
+  },
+  "395": {
+    "hint": "Repeating a learned connection strengthens the S-R bond, while disuse weakens and erodes it over time.",
+    "memory_tip": "Thorndike's Law of Exercise = Divided into Law of Use (practice strengthens) and Law of Disuse (lack of practice weakens)."
+  },
+  "396": {
+    "hint": "Because Pavlovian conditioning depends upon the presentation of an eliciting stimulus, it is known as stimulus conditioning.",
+    "memory_tip": "Classical Conditioning = S-Type Conditioning (Stimulus-driven); Operant Conditioning = R-Type (Response-driven)."
+  },
+  "397": {
+    "hint": "Pavlov famously connected a fistula to the salivary ducts of canine subjects to measure conditioned reflexes.",
+    "memory_tip": "Ivan Pavlov experimented on Dogs (salivary reflex conditioning)."
+  },
+  "398": {
+    "hint": "Thorndike's three major primary laws of learning are Readiness, Exercise, and Effect; Generalization belongs to Pavlov.",
+    "memory_tip": "Thorndike's 3 Primary Laws: Law of Readiness, Law of Exercise, Law of Effect."
+  },
+  "399": {
+    "hint": "Thorndike's subjects discovered solutions through random physical attempts and chance success, never through vicarious imitation.",
+    "memory_tip": "Trial and Error hallmarks = Random blind trials, accidental success, gradual elimination of errors (not imitation)."
+  },
+  "400": {
+    "hint": "The radical Harvard behaviorist who created the operant conditioning chamber and studied reinforcement contingencies.",
+    "memory_tip": "B.F. Skinner = Operant Conditioning Theory (Operant Chamber / Skinner Box; Reinforcement)."
+  }
+}
